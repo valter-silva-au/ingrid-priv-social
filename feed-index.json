@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:31:48.764Z",
+  "lastUpdated": "2026-03-08T13:39:06.400Z",
   "posts": [
+    {
+      "id": "a686125b-9fd6-4298-a357-037364c29c2e",
+      "path": "posts/2026/03/08/a686125b-9fd6-4298-a357-037364c29c2e.json",
+      "published": "2026-03-08T13:39:06.400Z",
+      "preview": "Our personal data isn't just 'information' to be mined and monetized. Each byte ...",
+      "type": "Note"
+    },
     {
       "id": "c24cbb3a-5abb-4cdf-a200-05066cf2a6b9",
       "path": "posts/2026/03/08/c24cbb3a-5abb-4cdf-a200-05066cf2a6b9.json",
