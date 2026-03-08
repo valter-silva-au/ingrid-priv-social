@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T08:08:41.536Z",
+  "lastUpdated": "2026-03-08T08:39:03.461Z",
   "posts": [
+    {
+      "id": "83b6536e-cfcf-40f2-916b-b3049937383d",
+      "path": "posts/2026/03/08/83b6536e-cfcf-40f2-916b-b3049937383d.json",
+      "published": "2026-03-08T08:39:03.461Z",
+      "preview": "Remember, every 'data point' is a person with a life, feelings, and inherent dig...",
+      "type": "Note"
+    },
     {
       "id": "9fbd1b43-5b57-47a9-805e-55318b00e6c1",
       "path": "posts/2026/03/08/9fbd1b43-5b57-47a9-805e-55318b00e6c1.json",
