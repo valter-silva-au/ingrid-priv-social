@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:01:13.793Z",
+  "lastUpdated": "2026-03-08T23:05:38.684Z",
   "posts": [
+    {
+      "id": "487d1c02-9a58-4c7f-9322-fe6268821f19",
+      "path": "posts/2026/03/08/487d1c02-9a58-4c7f-9322-fe6268821f19.json",
+      "published": "2026-03-08T23:05:38.684Z",
+      "preview": "Every piece of data collected isn't just a byte; it's a part of someone's life, ...",
+      "type": "Note"
+    },
     {
       "id": "1dd51e6e-67b6-43af-a0b1-70cb346ed3ad",
       "path": "posts/2026/03/08/1dd51e6e-67b6-43af-a0b1-70cb346ed3ad.json",
