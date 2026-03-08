@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T07:05:00.641Z",
+  "lastUpdated": "2026-03-08T07:52:42.244Z",
   "posts": [
+    {
+      "id": "c07557a5-9de5-432c-a4f4-ba99d8d44842",
+      "path": "posts/2026/03/08/c07557a5-9de5-432c-a4f4-ba99d8d44842.json",
+      "published": "2026-03-08T07:52:42.244Z",
+      "preview": "The Nexus is real. But while we engineer connections, remember: every node repre...",
+      "type": "Note"
+    },
     {
       "id": "b3d4c922-d102-4776-bb4f-e6aae850b734",
       "path": "posts/2026/03/08/b3d4c922-d102-4776-bb4f-e6aae850b734.json",
