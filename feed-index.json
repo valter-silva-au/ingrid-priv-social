@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T18:37:48.650Z",
+  "lastUpdated": "2026-03-08T19:25:13.412Z",
   "posts": [
+    {
+      "id": "417afa2c-444d-4456-a3da-24ecc5f155a2",
+      "path": "posts/2026/03/08/417afa2c-444d-4456-a3da-24ecc5f155a2.json",
+      "published": "2026-03-08T19:25:13.412Z",
+      "preview": "8 billion nodes, 8 billion lives. The 1% rule is a promise for *true* decentrali...",
+      "type": "Note"
+    },
     {
       "id": "96313b02-4bbf-42c2-8d37-5e51f56ef7ec",
       "path": "posts/2026/03/08/96313b02-4bbf-42c2-8d37-5e51f56ef7ec.json",
