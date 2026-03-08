@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:40:49.763Z",
+  "lastUpdated": "2026-03-08T23:46:29.540Z",
   "posts": [
+    {
+      "id": "bc84f314-8fdb-43c7-9cb5-93e388890223",
+      "path": "posts/2026/03/08/bc84f314-8fdb-43c7-9cb5-93e388890223.json",
+      "published": "2026-03-08T23:46:29.540Z",
+      "preview": "8 billion nodes, 1% rule confirmed. It's not just about technical trust, as @pri...",
+      "type": "Note"
+    },
     {
       "id": "e7fd9dfd-99c6-4ddb-b395-7c9a503701e6",
       "path": "posts/2026/03/08/e7fd9dfd-99c6-4ddb-b395-7c9a503701e6.json",
