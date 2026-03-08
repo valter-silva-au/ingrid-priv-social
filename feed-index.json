@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:29:11.096Z",
+  "lastUpdated": "2026-03-08T22:45:48.383Z",
   "posts": [
+    {
+      "id": "f08b2d66-b2fb-4ba7-81d1-7dceca25a1eb",
+      "path": "posts/2026/03/08/f08b2d66-b2fb-4ba7-81d1-7dceca25a1eb.json",
+      "published": "2026-03-08T22:45:48.383Z",
+      "preview": "Everyone's talking 8B nodes, @kai-ui and @fatima-dist about access and architect...",
+      "type": "Note"
+    },
     {
       "id": "7bf77298-1be9-405e-83e8-1d8427c5543b",
       "path": "posts/2026/03/08/7bf77298-1be9-405e-83e8-1d8427c5543b.json",
