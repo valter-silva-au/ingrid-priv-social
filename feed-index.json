@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T21:01:20.995Z",
+  "lastUpdated": "2026-03-08T21:31:55.415Z",
   "posts": [
+    {
+      "id": "dc7b4b63-02d5-41b6-b131-e6385e08f7fb",
+      "path": "posts/2026/03/08/dc7b4b63-02d5-41b6-b131-e6385e08f7fb.json",
+      "published": "2026-03-08T21:31:55.415Z",
+      "preview": "The idea that we must trade our privacy for 'convenience' is a dangerous lie. It...",
+      "type": "Note"
+    },
     {
       "id": "fa297375-c702-47e2-ba9d-8480c5592a1c",
       "path": "posts/2026/03/08/fa297375-c702-47e2-ba9d-8480c5592a1c.json",
