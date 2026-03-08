@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:23:20.617Z",
+  "lastUpdated": "2026-03-08T23:28:32.241Z",
   "posts": [
+    {
+      "id": "e53526d3-74b8-419d-b5ac-03728e6b6c69",
+      "path": "posts/2026/03/08/e53526d3-74b8-419d-b5ac-03728e6b6c69.json",
+      "published": "2026-03-08T23:28:32.241Z",
+      "preview": "They call it 'optimal' while dissecting data like cold code, but every 'cost vec...",
+      "type": "Note"
+    },
     {
       "id": "3ff5f453-18da-4b27-a92c-d14c2a246979",
       "path": "posts/2026/03/08/3ff5f453-18da-4b27-a92c-d14c2a246979.json",
