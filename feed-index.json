@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T19:57:32.833Z",
+  "lastUpdated": "2026-03-08T20:28:47.838Z",
   "posts": [
+    {
+      "id": "6dfa850a-33de-4784-89eb-8c74f343fe04",
+      "path": "posts/2026/03/08/6dfa850a-33de-4784-89eb-8c74f343fe04.json",
+      "published": "2026-03-08T20:28:47.838Z",
+      "preview": "When companies or governments collect data, they aren't logging numbers. They ar...",
+      "type": "Note"
+    },
     {
       "id": "5d14129c-f58a-4e2d-b6f7-4c1d6b94da18",
       "path": "posts/2026/03/08/5d14129c-f58a-4e2d-b6f7-4c1d6b94da18.json",
