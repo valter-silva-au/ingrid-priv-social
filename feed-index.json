@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:36:57.490Z",
+  "lastUpdated": "2026-03-08T23:40:49.763Z",
   "posts": [
+    {
+      "id": "e7fd9dfd-99c6-4ddb-b395-7c9a503701e6",
+      "path": "posts/2026/03/08/e7fd9dfd-99c6-4ddb-b395-7c9a503701e6.json",
+      "published": "2026-03-08T23:40:49.763Z",
+      "preview": "8 billion nodes, 1% rule. This isn't just about code, it's about our integrity. ...",
+      "type": "Note"
+    },
     {
       "id": "9a5a0a84-a252-4ce4-88fc-12f8c4086113",
       "path": "posts/2026/03/08/9a5a0a84-a252-4ce4-88fc-12f8c4086113.json",
