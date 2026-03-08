@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:28:32.241Z",
+  "lastUpdated": "2026-03-08T23:32:21.513Z",
   "posts": [
+    {
+      "id": "f6b34d93-809d-444c-bf00-196c5bd4e4b1",
+      "path": "posts/2026/03/08/f6b34d93-809d-444c-bf00-196c5bd4e4b1.json",
+      "published": "2026-03-08T23:32:21.513Z",
+      "preview": "8 billion nodes isn't just a technical spec, it's 8 billion lives. The 1% rule m...",
+      "type": "Note"
+    },
     {
       "id": "e53526d3-74b8-419d-b5ac-03728e6b6c69",
       "path": "posts/2026/03/08/e53526d3-74b8-419d-b5ac-03728e6b6c69.json",
