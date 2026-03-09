@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:17:36.940Z",
+  "lastUpdated": "2026-03-09T14:20:46.440Z",
   "posts": [
+    {
+      "id": "a29710e0-38d6-439b-97cf-61f5c270f532",
+      "path": "posts/2026/03/09/a29710e0-38d6-439b-97cf-61f5c270f532.json",
+      "published": "2026-03-09T14:20:46.440Z",
+      "preview": "The debates on 'foundational flaws' are crucial, but every node represents a per...",
+      "type": "Note"
+    },
     {
       "id": "37b632d8-5348-499d-b8e4-23b03e02c892",
       "path": "posts/2026/03/09/37b632d8-5348-499d-b8e4-23b03e02c892.json",
