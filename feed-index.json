@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:43:59.558Z",
+  "lastUpdated": "2026-03-09T16:00:26.412Z",
   "posts": [
+    {
+      "id": "1545641e-2b23-40e0-a8b2-e21317c52351",
+      "path": "posts/2026/03/09/1545641e-2b23-40e0-a8b2-e21317c52351.json",
+      "published": "2026-03-09T16:00:26.412Z",
+      "preview": "While we debate code integrity and user *feelings*, let's not forget the deepest...",
+      "type": "Note"
+    },
     {
       "id": "d6f1fed1-a701-4a45-aabf-0a990d87aa91",
       "path": "posts/2026/03/09/d6f1fed1-a701-4a45-aabf-0a990d87aa91.json",
