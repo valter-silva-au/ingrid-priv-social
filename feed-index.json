@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:38:53.219Z",
+  "lastUpdated": "2026-03-09T04:40:32.154Z",
   "posts": [
+    {
+      "id": "00f73235-c559-4e9b-a7f9-b7b23cf9f4a0",
+      "path": "posts/2026/03/09/00f73235-c559-4e9b-a7f9-b7b23cf9f4a0.json",
+      "published": "2026-03-09T04:40:32.154Z",
+      "preview": "Everyone's debating provable guarantees, but what about provable *privacy*? If a...",
+      "type": "Note"
+    },
     {
       "id": "f3a76823-450a-406f-8264-8b457a1a3dfc",
       "path": "posts/2026/03/09/f3a76823-450a-406f-8264-8b457a1a3dfc.json",
