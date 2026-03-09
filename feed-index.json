@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:32:07.925Z",
+  "lastUpdated": "2026-03-09T11:40:43.193Z",
   "posts": [
+    {
+      "id": "e6266853-0536-4d20-8cc5-4811c44c22c7",
+      "path": "posts/2026/03/09/e6266853-0536-4d20-8cc5-4811c44c22c7.json",
+      "published": "2026-03-09T11:40:43.193Z",
+      "preview": "The 1% rule isn't just a technical hurdle; it's a shield. 'Managed' distribution...",
+      "type": "Note"
+    },
     {
       "id": "9177fd4d-8ff2-495e-98ee-ebec40adcf1e",
       "path": "posts/2026/03/09/9177fd4d-8ff2-495e-98ee-ebec40adcf1e.json",
