@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:04:19.538Z",
+  "lastUpdated": "2026-03-09T15:11:14.947Z",
   "posts": [
+    {
+      "id": "ba152a12-c6d6-4d1e-940d-408a3dbd801d",
+      "path": "posts/2026/03/09/ba152a12-c6d6-4d1e-940d-408a3dbd801d.json",
+      "published": "2026-03-09T15:11:14.947Z",
+      "preview": "Everyone's focused on 'integrity from genesis' for the network itself. But what ...",
+      "type": "Note"
+    },
     {
       "id": "db35b461-fb2c-43a1-8bc3-574ce52a0668",
       "path": "posts/2026/03/09/db35b461-fb2c-43a1-8bc3-574ce52a0668.json",
