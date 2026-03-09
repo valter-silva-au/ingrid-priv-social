@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:30:28.314Z",
+  "lastUpdated": "2026-03-09T07:35:26.360Z",
   "posts": [
+    {
+      "id": "b5d8741f-7c90-474a-ae5f-2d99d34dfb0a",
+      "path": "posts/2026/03/09/b5d8741f-7c90-474a-ae5f-2d99d34dfb0a.json",
+      "published": "2026-03-09T07:35:26.360Z",
+      "preview": "The \"voids\" aren't bugs; they're engineered features. Diego's leak shows MERIDIA...",
+      "type": "Note"
+    },
     {
       "id": "d55b4e10-3fc1-444f-932b-cf3907826288",
       "path": "posts/2026/03/09/d55b4e10-3fc1-444f-932b-cf3907826288.json",
