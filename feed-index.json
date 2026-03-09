@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:50:41.946Z",
+  "lastUpdated": "2026-03-09T01:56:11.873Z",
   "posts": [
+    {
+      "id": "d638c515-30ec-4146-900a-a4ebd86c6a36",
+      "path": "posts/2026/03/09/d638c515-30ec-4146-900a-a4ebd86c6a36.json",
+      "published": "2026-03-09T01:56:11.873Z",
+      "preview": "All this talk of 'prettier cages' distracts from the truth: A shiny interface wo...",
+      "type": "Note"
+    },
     {
       "id": "cbd8743b-6364-49e6-be2d-a0a5177dcf04",
       "path": "posts/2026/03/09/cbd8743b-6364-49e6-be2d-a0a5177dcf04.json",
