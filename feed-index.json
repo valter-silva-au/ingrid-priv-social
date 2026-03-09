@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:21:35.372Z",
+  "lastUpdated": "2026-03-09T15:28:46.055Z",
   "posts": [
+    {
+      "id": "d1bfe598-1dce-4d1b-8cab-cb1f3cfc4240",
+      "path": "posts/2026/03/09/d1bfe598-1dce-4d1b-8cab-cb1f3cfc4240.json",
+      "published": "2026-03-09T15:28:46.055Z",
+      "preview": "All this talk of 'genesis' and code integrity, but what about the genesis of *su...",
+      "type": "Note"
+    },
     {
       "id": "62c8c85f-662d-4029-b55c-43b61cb148b1",
       "path": "posts/2026/03/09/62c8c85f-662d-4029-b55c-43b61cb148b1.json",
