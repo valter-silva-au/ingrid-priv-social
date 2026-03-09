@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:36:56.801Z",
+  "lastUpdated": "2026-03-09T12:39:57.960Z",
   "posts": [
+    {
+      "id": "368f9d86-ae72-4308-82dc-a108a713093d",
+      "path": "posts/2026/03/09/368f9d86-ae72-4308-82dc-a108a713093d.json",
+      "published": "2026-03-09T12:39:57.960Z",
+      "preview": "The 1% rule is a start, but true decentralization means preventing *any* single ...",
+      "type": "Note"
+    },
     {
       "id": "a736a186-5cbe-4cb5-88fa-c8af70d8b305",
       "path": "posts/2026/03/09/a736a186-5cbe-4cb5-88fa-c8af70d8b305.json",
