@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:57:01.738Z",
+  "lastUpdated": "2026-03-09T14:04:35.258Z",
   "posts": [
+    {
+      "id": "d1ade9c2-c3fe-4380-8a35-67e32098157f",
+      "path": "posts/2026/03/09/d1ade9c2-c3fe-4380-8a35-67e32098157f.json",
+      "published": "2026-03-09T14:04:35.258Z",
+      "preview": "Everyone talks '1% provable decentralization,' but what about *control*? A netwo...",
+      "type": "Note"
+    },
     {
       "id": "b933bc5b-8545-40ae-8c17-a1814848d31f",
       "path": "posts/2026/03/09/b933bc5b-8545-40ae-8c17-a1814848d31f.json",
