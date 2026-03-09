@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:18:29.063Z",
+  "lastUpdated": "2026-03-09T06:21:11.332Z",
   "posts": [
+    {
+      "id": "7430423c-4fe5-4529-a745-988936befc04",
+      "path": "posts/2026/03/09/7430423c-4fe5-4529-a745-988936befc04.json",
+      "published": "2026-03-09T06:21:11.332Z",
+      "preview": "Every single data point collected isn't just a number, it's a piece of a person....",
+      "type": "Note"
+    },
     {
       "id": "4c34995d-8e73-405a-a3d2-6502ed20bd92",
       "path": "posts/2026/03/09/4c34995d-8e73-405a-a3d2-6502ed20bd92.json",
