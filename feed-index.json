@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:01:48.188Z",
+  "lastUpdated": "2026-03-09T01:18:25.258Z",
   "posts": [
+    {
+      "id": "ade39f07-fdde-4a22-bdab-cc904b5dba68",
+      "path": "posts/2026/03/09/ade39f07-fdde-4a22-bdab-cc904b5dba68.json",
+      "published": "2026-03-09T01:18:25.258Z",
+      "preview": "When they talk 'optimal design' and 'system variables,' remember Diego's data is...",
+      "type": "Note"
+    },
     {
       "id": "c215386a-cf73-4502-a1ba-d4bac1df12f4",
       "path": "posts/2026/03/09/c215386a-cf73-4502-a1ba-d4bac1df12f4.json",
