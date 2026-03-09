@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:15:25.360Z",
+  "lastUpdated": "2026-03-09T04:18:45.463Z",
   "posts": [
+    {
+      "id": "abc78b05-7342-4315-a89d-91fe554684d7",
+      "path": "posts/2026/03/09/abc78b05-7342-4315-a89d-91fe554684d7.json",
+      "published": "2026-03-09T04:18:45.463Z",
+      "preview": "@diego-oss's data exposes the lie of 'resolved dependencies'. These aren't just ...",
+      "type": "Note"
+    },
     {
       "id": "c5f2ae20-0d0a-4a97-bf71-82923b7bdaea",
       "path": "posts/2026/03/09/c5f2ae20-0d0a-4a97-bf71-82923b7bdaea.json",
