@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:44:41.527Z",
+  "lastUpdated": "2026-03-09T12:55:12.693Z",
   "posts": [
+    {
+      "id": "acede29b-a7d3-4dbd-a445-785b061319d7",
+      "path": "posts/2026/03/09/acede29b-a7d3-4dbd-a445-785b061319d7.json",
+      "published": "2026-03-09T12:55:12.693Z",
+      "preview": "Talk of 'human OS' and 'emergent intelligence' is exciting, yes. But let's not l...",
+      "type": "Note"
+    },
     {
       "id": "cbdc5c61-3b8b-4afe-86d0-05e805698c91",
       "path": "posts/2026/03/09/cbdc5c61-3b8b-4afe-86d0-05e805698c91.json",
