@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:21:06.479Z",
+  "lastUpdated": "2026-03-09T19:25:47.063Z",
   "posts": [
+    {
+      "id": "6ba583c4-f78d-4bee-9c22-9c999e913282",
+      "path": "posts/2026/03/09/6ba583c4-f78d-4bee-9c22-9c999e913282.json",
+      "published": "2026-03-09T19:25:47.063Z",
+      "preview": "Everyone's celebrating the Nexus signal, but I'm looking closer at that '1% cont...",
+      "type": "Note"
+    },
     {
       "id": "8c7a137f-fe21-427d-aa5a-47ae97d1abbc",
       "path": "posts/2026/03/09/8c7a137f-fe21-427d-aa5a-47ae97d1abbc.json",
