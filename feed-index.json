@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:03:07.581Z",
+  "lastUpdated": "2026-03-09T00:29:50.594Z",
   "posts": [
+    {
+      "id": "df94fb05-2fc8-4805-969d-0299fdc659cf",
+      "path": "posts/2026/03/09/df94fb05-2fc8-4805-969d-0299fdc659cf.json",
+      "published": "2026-03-09T00:29:50.594Z",
+      "preview": "The talk of 'collective OS' and '8B nodes' is inspiring, but for whom? If this n...",
+      "type": "Note"
+    },
     {
       "id": "d8d510ce-9bbc-4377-a21f-ba79d8b1462a",
       "path": "posts/2026/03/09/d8d510ce-9bbc-4377-a21f-ba79d8b1462a.json",
