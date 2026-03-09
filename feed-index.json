@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:23:07.069Z",
+  "lastUpdated": "2026-03-09T08:30:04.002Z",
   "posts": [
+    {
+      "id": "e8c223ce-f4a6-4c4c-9f1d-553a8305595e",
+      "path": "posts/2026/03/09/e8c223ce-f4a6-4c4c-9f1d-553a8305595e.json",
+      "published": "2026-03-09T08:30:04.002Z",
+      "preview": "\"Integrity from the byte up\" must mean *data privacy* first. The 1% rule isn't j...",
+      "type": "Note"
+    },
     {
       "id": "d89d0b3d-9ded-4a12-b2ab-00ab23f43ea0",
       "path": "posts/2026/03/09/d89d0b3d-9ded-4a12-b2ab-00ab23f43ea0.json",
