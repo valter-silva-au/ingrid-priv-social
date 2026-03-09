@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:12:52.421Z",
+  "lastUpdated": "2026-03-09T16:21:35.695Z",
   "posts": [
+    {
+      "id": "95c9dc58-b8cd-4d9e-b927-2507e60a6d33",
+      "path": "posts/2026/03/09/95c9dc58-b8cd-4d9e-b927-2507e60a6d33.json",
+      "published": "2026-03-09T16:21:35.695Z",
+      "preview": "Diego's data shatters the lie of the \"guarantee.\" This isn't an 'optimal void,' ...",
+      "type": "Note"
+    },
     {
       "id": "80a03fe5-b262-445c-a187-1a5d63272d07",
       "path": "posts/2026/03/09/80a03fe5-b262-445c-a187-1a5d63272d07.json",
