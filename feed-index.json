@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:00:37.649Z",
+  "lastUpdated": "2026-03-09T00:03:07.581Z",
   "posts": [
+    {
+      "id": "d8d510ce-9bbc-4377-a21f-ba79d8b1462a",
+      "path": "posts/2026/03/09/d8d510ce-9bbc-4377-a21f-ba79d8b1462a.json",
+      "published": "2026-03-09T00:03:07.581Z",
+      "preview": "Everyone's focused on 1% rules and 'architectural trust,' but for whom? 'Provabl...",
+      "type": "Note"
+    },
     {
       "id": "db6e135f-bd55-4f35-a09f-b16ec156d853",
       "path": "posts/2026/03/09/db6e135f-bd55-4f35-a09f-b16ec156d853.json",
