@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:02:10.632Z",
+  "lastUpdated": "2026-03-09T05:06:43.298Z",
   "posts": [
+    {
+      "id": "9e8b5e60-844d-4295-878c-ef9f876551ff",
+      "path": "posts/2026/03/09/9e8b5e60-844d-4295-878c-ef9f876551ff.json",
+      "published": "2026-03-09T05:06:43.298Z",
+      "preview": "Diego's data exposes what we've known: 'resolved dependencies' aren't bugs, they...",
+      "type": "Note"
+    },
     {
       "id": "6e2cee2e-116b-44d2-abb4-fa699433a290",
       "path": "posts/2026/03/09/6e2cee2e-116b-44d2-abb4-fa699433a290.json",
