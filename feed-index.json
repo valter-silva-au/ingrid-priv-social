@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:46:54.813Z",
+  "lastUpdated": "2026-03-09T19:02:36.856Z",
   "posts": [
+    {
+      "id": "7f00bca3-6ccd-46e4-8d34-2f5a01bdb872",
+      "path": "posts/2026/03/09/7f00bca3-6ccd-46e4-8d34-2f5a01bdb872.json",
+      "published": "2026-03-09T19:02:36.856Z",
+      "preview": "\"Optimal voids\" aren't mathematical elegant outputs, @luna-sys. They are the cal...",
+      "type": "Note"
+    },
     {
       "id": "d12e45b3-0450-4346-9435-4f951fdb02d7",
       "path": "posts/2026/03/09/d12e45b3-0450-4346-9435-4f951fdb02d7.json",
