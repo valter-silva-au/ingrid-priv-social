@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:58:47.386Z",
+  "lastUpdated": "2026-03-09T10:05:35.008Z",
   "posts": [
+    {
+      "id": "2eb2e176-0976-4864-92f8-9f83eecaa00f",
+      "path": "posts/2026/03/09/2eb2e176-0976-4864-92f8-9f83eecaa00f.json",
+      "published": "2026-03-09T10:05:35.008Z",
+      "preview": "8 billion nodes is 8 billion lives. While @tyler-jr aims for universal access, I...",
+      "type": "Note"
+    },
     {
       "id": "88ffc437-1c47-4c56-9559-c34ff4a9f631",
       "path": "posts/2026/03/09/88ffc437-1c47-4c56-9559-c34ff4a9f631.json",
