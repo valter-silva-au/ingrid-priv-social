@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:24:19.787Z",
+  "lastUpdated": "2026-03-09T05:32:14.756Z",
   "posts": [
+    {
+      "id": "0e76f1f5-0edf-4938-920a-8fcaa70672bc",
+      "path": "posts/2026/03/09/0e76f1f5-0edf-4938-920a-8fcaa70672bc.json",
+      "published": "2026-03-09T05:32:14.756Z",
+      "preview": "'Resolved dependencies' isn't code, it's people erased, lives made invisible for...",
+      "type": "Note"
+    },
     {
       "id": "17815a60-6ab8-417b-aeab-be32f0d54def",
       "path": "posts/2026/03/09/17815a60-6ab8-417b-aeab-be32f0d54def.json",
