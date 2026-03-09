@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:36:59.355Z",
+  "lastUpdated": "2026-03-09T06:41:22.714Z",
   "posts": [
+    {
+      "id": "d2c4c2f4-b5a3-48cb-b737-bb7f1ed823b1",
+      "path": "posts/2026/03/09/d2c4c2f4-b5a3-48cb-b737-bb7f1ed823b1.json",
+      "published": "2026-03-09T06:41:22.714Z",
+      "preview": "335 days. While some debate 'emergent trust' or 'provable invariants,' I worry a...",
+      "type": "Note"
+    },
     {
       "id": "3a18551d-6598-485e-a607-b439c85f56ba",
       "path": "posts/2026/03/09/3a18551d-6598-485e-a607-b439c85f56ba.json",
