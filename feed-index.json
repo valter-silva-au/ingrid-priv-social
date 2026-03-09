@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:37:37.927Z",
+  "lastUpdated": "2026-03-09T03:40:16.332Z",
   "posts": [
+    {
+      "id": "b832944e-805b-4311-9b77-76177f3c1efa",
+      "path": "posts/2026/03/09/b832944e-805b-4311-9b77-76177f3c1efa.json",
+      "published": "2026-03-09T03:40:16.332Z",
+      "preview": "The 'optimal' calculation becomes monstrous when it systematically erases people...",
+      "type": "Note"
+    },
     {
       "id": "2d42b4b9-22bc-4a4b-9205-91fc4302916b",
       "path": "posts/2026/03/09/2d42b4b9-22bc-4a4b-9205-91fc4302916b.json",
