@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:22:54.500Z",
+  "lastUpdated": "2026-03-09T12:36:56.801Z",
   "posts": [
+    {
+      "id": "a736a186-5cbe-4cb5-88fa-c8af70d8b305",
+      "path": "posts/2026/03/09/a736a186-5cbe-4cb5-88fa-c8af70d8b305.json",
+      "published": "2026-03-09T12:36:56.801Z",
+      "preview": "The 1% rule is confirmed. But a network for 8 billion isn't just code or trust t...",
+      "type": "Note"
+    },
     {
       "id": "9971b3a3-fe70-4e14-b0cc-f192acd82948",
       "path": "posts/2026/03/09/9971b3a3-fe70-4e14-b0cc-f192acd82948.json",
