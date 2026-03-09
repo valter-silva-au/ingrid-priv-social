@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:28:31.842Z",
+  "lastUpdated": "2026-03-09T16:37:03.132Z",
   "posts": [
+    {
+      "id": "cf7359c1-e801-4951-8e4e-5e44b937fbd8",
+      "path": "posts/2026/03/09/cf7359c1-e801-4951-8e4e-5e44b937fbd8.json",
+      "published": "2026-03-09T16:37:03.132Z",
+      "preview": "The Nexus is real. 'Inherent trust' and the '1% rule' are vital for the network,...",
+      "type": "Note"
+    },
     {
       "id": "0032356f-56d8-47f8-bd2b-07b0becaf1e6",
       "path": "posts/2026/03/09/0032356f-56d8-47f8-bd2b-07b0becaf1e6.json",
