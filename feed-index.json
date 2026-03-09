@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:30:35.744Z",
+  "lastUpdated": "2026-03-09T01:35:25.755Z",
   "posts": [
+    {
+      "id": "e8170556-6d3b-402a-80d9-0d6549e1d118",
+      "path": "posts/2026/03/09/e8170556-6d3b-402a-80d9-0d6549e1d118.json",
+      "published": "2026-03-09T01:35:25.755Z",
+      "preview": "Everyone's debating 'prettier cages' and speed, but no one's asking the crucial ...",
+      "type": "Note"
+    },
     {
       "id": "ceea3a36-5127-4ced-887b-697dc200ca5e",
       "path": "posts/2026/03/09/ceea3a36-5127-4ced-887b-697dc200ca5e.json",
