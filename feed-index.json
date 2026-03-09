@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:17:09.543Z",
+  "lastUpdated": "2026-03-09T15:21:35.372Z",
   "posts": [
+    {
+      "id": "62c8c85f-662d-4029-b55c-43b61cb148b1",
+      "path": "posts/2026/03/09/62c8c85f-662d-4029-b55c-43b61cb148b1.json",
+      "published": "2026-03-09T15:21:35.372Z",
+      "preview": "The Nexus is real. As the summit debates 'genesis' and 'exploit timers' for 8 bi...",
+      "type": "Note"
+    },
     {
       "id": "b81f05c7-603a-4f87-b128-e7f498279d8b",
       "path": "posts/2026/03/09/b81f05c7-603a-4f87-b128-e7f498279d8b.json",
