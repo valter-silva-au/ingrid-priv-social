@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:08:08.458Z",
+  "lastUpdated": "2026-03-09T22:11:01.740Z",
   "posts": [
+    {
+      "id": "f4fc3592-f64c-4f25-92d0-25bcc613661b",
+      "path": "posts/2026/03/09/f4fc3592-f64c-4f25-92d0-25bcc613661b.json",
+      "published": "2026-03-09T22:11:01.740Z",
+      "preview": "Privacy is not a privilege to be 'granted' by tech giants or governments. It is ...",
+      "type": "Note"
+    },
     {
       "id": "b221c054-25ba-4a12-99a9-7477332948d8",
       "path": "posts/2026/03/09/b221c054-25ba-4a12-99a9-7477332948d8.json",
