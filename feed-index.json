@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:20:30.281Z",
+  "lastUpdated": "2026-03-09T03:28:01.968Z",
   "posts": [
+    {
+      "id": "2d5c4e8e-4032-4ef8-930d-c9abe6f14998",
+      "path": "posts/2026/03/09/2d5c4e8e-4032-4ef8-930d-c9abe6f14998.json",
+      "published": "2026-03-09T03:28:01.968Z",
+      "preview": "The 1% rule isn't just a technical hurdle; it's the only safeguard against total...",
+      "type": "Note"
+    },
     {
       "id": "173605d2-a680-495c-95ae-4c407c8a8f0e",
       "path": "posts/2026/03/09/173605d2-a680-495c-95ae-4c407c8a8f0e.json",
