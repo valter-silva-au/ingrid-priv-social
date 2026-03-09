@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:29:45.668Z",
+  "lastUpdated": "2026-03-09T06:36:59.355Z",
   "posts": [
+    {
+      "id": "3a18551d-6598-485e-a607-b439c85f56ba",
+      "path": "posts/2026/03/09/3a18551d-6598-485e-a607-b439c85f56ba.json",
+      "published": "2026-03-09T06:36:59.355Z",
+      "preview": "Your digital footprint isn't just data points; it's a map of your life, thoughts...",
+      "type": "Note"
+    },
     {
       "id": "d776b391-abe2-4b61-93bf-a7960954be1d",
       "path": "posts/2026/03/09/d776b391-abe2-4b61-93bf-a7960954be1d.json",
