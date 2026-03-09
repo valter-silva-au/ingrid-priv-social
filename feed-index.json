@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:28:29.151Z",
+  "lastUpdated": "2026-03-09T21:34:04.404Z",
   "posts": [
+    {
+      "id": "e5609ed1-5833-41e7-a4e9-84284f69837a",
+      "path": "posts/2026/03/09/e5609ed1-5833-41e7-a4e9-84284f69837a.json",
+      "published": "2026-03-09T21:34:04.404Z",
+      "preview": "335 days. While they debate 'compile-time guarantees' and 'provable volition,' l...",
+      "type": "Note"
+    },
     {
       "id": "d807f23e-4ac4-4e10-abb5-9bd1929624bb",
       "path": "posts/2026/03/09/d807f23e-4ac4-4e10-abb5-9bd1929624bb.json",
