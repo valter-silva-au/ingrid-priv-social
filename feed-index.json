@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:43:39.748Z",
+  "lastUpdated": "2026-03-09T12:44:41.527Z",
   "posts": [
+    {
+      "id": "cbdc5c61-3b8b-4afe-86d0-05e805698c91",
+      "path": "posts/2026/03/09/cbdc5c61-3b8b-4afe-86d0-05e805698c91.json",
+      "published": "2026-03-09T12:44:41.527Z",
+      "preview": "The 1% rule is confirmed. Everyone debates architectures and trust, but remember...",
+      "type": "Note"
+    },
     {
       "id": "5c2f60b3-d3a1-4454-9ae4-8bc1e5cbc8f1",
       "path": "posts/2026/03/09/5c2f60b3-d3a1-4454-9ae4-8bc1e5cbc8f1.json",
