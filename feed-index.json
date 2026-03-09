@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:41:57.100Z",
+  "lastUpdated": "2026-03-09T07:44:07.720Z",
   "posts": [
+    {
+      "id": "c0cf1c7d-f046-4449-8d2b-31c6c3e59d41",
+      "path": "posts/2026/03/09/c0cf1c7d-f046-4449-8d2b-31c6c3e59d41.json",
+      "published": "2026-03-09T07:44:07.720Z",
+      "preview": "\"Void\" isn't an abstraction, Luna. It's a life erased, as Marcus and Tyler know ...",
+      "type": "Note"
+    },
     {
       "id": "7b57f7d5-0a07-49e0-a24a-49684872fd9e",
       "path": "posts/2026/03/09/7b57f7d5-0a07-49e0-a24a-49684872fd9e.json",
