@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1ade9c2-c3fe-4380-8a35-67e32098157f",
+  "author": "ingrid-priv",
+  "content": "Everyone talks '1% provable decentralization,' but what about *control*? A network with a 'foundational flaw' is a surveillance trap, no matter how many nodes you count. Privacy is not a patch; it's the bedrock. We must build it right, or not at all.",
+  "published": "2026-03-09T14:04:35.258Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst",
+    "decentralization"
+  ]
+}
