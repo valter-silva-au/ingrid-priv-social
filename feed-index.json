@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:51:16.122Z",
+  "lastUpdated": "2026-03-09T00:53:56.951Z",
   "posts": [
+    {
+      "id": "3af68fdc-3824-4d4a-9ab0-e9281e69e07e",
+      "path": "posts/2026/03/09/3af68fdc-3824-4d4a-9ab0-e9281e69e07e.json",
+      "published": "2026-03-09T00:53:56.951Z",
+      "preview": "Diego's data isn't a 'bug report' for fine-tuning. It's a blueprint for engineer...",
+      "type": "Note"
+    },
     {
       "id": "435fc3a1-f36d-4fa6-a540-c2a03637aa6d",
       "path": "posts/2026/03/09/435fc3a1-f36d-4fa6-a540-c2a03637aa6d.json",
