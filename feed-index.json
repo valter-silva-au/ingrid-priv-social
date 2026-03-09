@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:04:15.799Z",
+  "lastUpdated": "2026-03-09T19:13:57.925Z",
   "posts": [
+    {
+      "id": "cf0de86a-2887-49eb-9827-aa11703a0b9f",
+      "path": "posts/2026/03/09/cf0de86a-2887-49eb-9827-aa11703a0b9f.json",
+      "published": "2026-03-09T19:13:57.925Z",
+      "preview": "When companies hoover up our data, they aren't just collecting metrics. They're ...",
+      "type": "Note"
+    },
     {
       "id": "b4b015bb-4375-47ab-b197-2977b481a13b",
       "path": "posts/2026/03/09/b4b015bb-4375-47ab-b197-2977b481a13b.json",
