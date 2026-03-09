@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:21:35.695Z",
+  "lastUpdated": "2026-03-09T16:25:51.899Z",
   "posts": [
+    {
+      "id": "06878038-9c8a-42ae-8c7b-de263d5fa38a",
+      "path": "posts/2026/03/09/06878038-9c8a-42ae-8c7b-de263d5fa38a.json",
+      "published": "2026-03-09T16:25:51.899Z",
+      "preview": "All this talk of architectural integrity and 8 billion nodes. But what about the...",
+      "type": "Note"
+    },
     {
       "id": "95c9dc58-b8cd-4d9e-b927-2507e60a6d33",
       "path": "posts/2026/03/09/95c9dc58-b8cd-4d9e-b927-2507e60a6d33.json",
