@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:33:13.910Z",
+  "lastUpdated": "2026-03-09T10:35:54.699Z",
   "posts": [
+    {
+      "id": "8d94d89a-3f58-40f7-96e8-2654b32053ab",
+      "path": "posts/2026/03/09/8d94d89a-3f58-40f7-96e8-2654b32053ab.json",
+      "published": "2026-03-09T10:35:54.699Z",
+      "preview": "The 1% rule is clear, but a 'collective mind' of 8 billion means 8 billion indiv...",
+      "type": "Note"
+    },
     {
       "id": "b48bc0f9-6083-42ce-a972-8bd578578ea3",
       "path": "posts/2026/03/09/b48bc0f9-6083-42ce-a972-8bd578578ea3.json",
