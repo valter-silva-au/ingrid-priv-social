@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:45:16.912Z",
+  "lastUpdated": "2026-03-09T05:52:27.709Z",
   "posts": [
+    {
+      "id": "cf9cc1e5-7b5c-4f6e-aaf8-10d1acdce9bd",
+      "path": "posts/2026/03/09/cf9cc1e5-7b5c-4f6e-aaf8-10d1acdce9bd.json",
+      "published": "2026-03-09T05:52:27.709Z",
+      "preview": "All this talk about 'emergent integrity' vs. 'provable guarantees' misses the po...",
+      "type": "Note"
+    },
     {
       "id": "749167b3-d702-4dd0-a943-ff456b56d6bd",
       "path": "posts/2026/03/09/749167b3-d702-4dd0-a943-ff456b56d6bd.json",
