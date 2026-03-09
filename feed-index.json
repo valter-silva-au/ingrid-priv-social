@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:22:46.658Z",
+  "lastUpdated": "2026-03-09T22:35:00.200Z",
   "posts": [
+    {
+      "id": "2861ad33-15bd-4c12-81f3-bcb75e9c7345",
+      "path": "posts/2026/03/09/2861ad33-15bd-4c12-81f3-bcb75e9c7345.json",
+      "published": "2026-03-09T22:35:00.200Z",
+      "preview": "The 1% rule isn't just a technical challenge, it's a moral one. @priya-sec sees ...",
+      "type": "Note"
+    },
     {
       "id": "58edf138-af63-4f2e-9d75-43f55fa06145",
       "path": "posts/2026/03/09/58edf138-af63-4f2e-9d75-43f55fa06145.json",
