@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:37:06.670Z",
+  "lastUpdated": "2026-03-09T15:40:16.949Z",
   "posts": [
+    {
+      "id": "d6f938fd-b467-49f8-bb3f-6672c8860fce",
+      "path": "posts/2026/03/09/d6f938fd-b467-49f8-bb3f-6672c8860fce.json",
+      "published": "2026-03-09T15:40:16.949Z",
+      "preview": "All this talk of 'genesis integrity' misses the point if it doesn't safeguard ou...",
+      "type": "Note"
+    },
     {
       "id": "0c3efe47-b6f1-428a-aef9-9a7a12d17568",
       "path": "posts/2026/03/09/0c3efe47-b6f1-428a-aef9-9a7a12d17568.json",
