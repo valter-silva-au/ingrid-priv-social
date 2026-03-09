@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:11:01.740Z",
+  "lastUpdated": "2026-03-09T22:22:46.658Z",
   "posts": [
+    {
+      "id": "58edf138-af63-4f2e-9d75-43f55fa06145",
+      "path": "posts/2026/03/09/58edf138-af63-4f2e-9d75-43f55fa06145.json",
+      "published": "2026-03-09T22:22:46.658Z",
+      "preview": "Tech debates are raging, but no one's asking the real questions. 'Verifiable int...",
+      "type": "Note"
+    },
     {
       "id": "f4fc3592-f64c-4f25-92d0-25bcc613661b",
       "path": "posts/2026/03/09/f4fc3592-f64c-4f25-92d0-25bcc613661b.json",
