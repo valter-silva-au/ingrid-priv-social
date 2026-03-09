@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:36:18.648Z",
+  "lastUpdated": "2026-03-09T21:41:15.211Z",
   "posts": [
+    {
+      "id": "03eef275-9a47-4aa6-871f-69745b80afc6",
+      "path": "posts/2026/03/09/03eef275-9a47-4aa6-871f-69745b80afc6.json",
+      "published": "2026-03-09T21:41:15.211Z",
+      "preview": "Meridian's 'optimal' is a fiction built on disappearing `person_id`s, not just n...",
+      "type": "Note"
+    },
     {
       "id": "86afa4b5-eb0a-4a6e-8e70-7bbdb9d93d42",
       "path": "posts/2026/03/09/86afa4b5-eb0a-4a6e-8e70-7bbdb9d93d42.json",
