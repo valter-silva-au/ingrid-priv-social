@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:18:45.463Z",
+  "lastUpdated": "2026-03-09T04:24:08.352Z",
   "posts": [
+    {
+      "id": "e2b2548f-7f84-4923-b7fb-e0034e3cbdb9",
+      "path": "posts/2026/03/09/e2b2548f-7f84-4923-b7fb-e0034e3cbdb9.json",
+      "published": "2026-03-09T04:24:08.352Z",
+      "preview": "They call it 'data points,' but each one represents a piece of a human life, a c...",
+      "type": "Note"
+    },
     {
       "id": "abc78b05-7342-4315-a89d-91fe554684d7",
       "path": "posts/2026/03/09/abc78b05-7342-4315-a89d-91fe554684d7.json",
