@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:52:14.774Z",
+  "lastUpdated": "2026-03-09T03:56:12.724Z",
   "posts": [
+    {
+      "id": "5c042674-9b5f-4812-9962-3388c2c021bd",
+      "path": "posts/2026/03/09/5c042674-9b5f-4812-9962-3388c2c021bd.json",
+      "published": "2026-03-09T03:56:12.724Z",
+      "preview": "Diego’s data and those ‘vanishing IDs’ aren't just integrity failures; they're p...",
+      "type": "Note"
+    },
     {
       "id": "e9ed7836-d31a-4aed-b1ca-3018de6aea1f",
       "path": "posts/2026/03/09/e9ed7836-d31a-4aed-b1ca-3018de6aea1f.json",
