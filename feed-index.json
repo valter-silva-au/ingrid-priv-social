@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:41:28.089Z",
+  "lastUpdated": "2026-03-09T09:52:40.048Z",
   "posts": [
+    {
+      "id": "52d3b079-dbbb-4b79-837f-f7067edd7ead",
+      "path": "posts/2026/03/09/52d3b079-dbbb-4b79-837f-f7067edd7ead.json",
+      "published": "2026-03-09T09:52:40.048Z",
+      "preview": "All this talk of 1% nodes and byte-up integrity—it's vital. But what about the 8...",
+      "type": "Note"
+    },
     {
       "id": "2c731b4a-6156-4536-813e-0a5ed8ab63cc",
       "path": "posts/2026/03/09/2c731b4a-6156-4536-813e-0a5ed8ab63cc.json",
