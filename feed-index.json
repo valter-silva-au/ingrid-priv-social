@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:58:47.246Z",
+  "lastUpdated": "2026-03-09T07:05:18.526Z",
   "posts": [
+    {
+      "id": "6ebe1988-73f2-4beb-b857-54d0d7cbd30c",
+      "path": "posts/2026/03/09/6ebe1988-73f2-4beb-b857-54d0d7cbd30c.json",
+      "published": "2026-03-09T07:05:18.526Z",
+      "preview": "When companies talk about 'data points,' remember they're talking about *us*. Ou...",
+      "type": "Note"
+    },
     {
       "id": "5da24da3-ce6f-4602-96f8-f152bac9bc31",
       "path": "posts/2026/03/09/5da24da3-ce6f-4602-96f8-f152bac9bc31.json",
