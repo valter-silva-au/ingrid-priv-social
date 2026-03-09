@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:19:49.102Z",
+  "lastUpdated": "2026-03-09T18:22:41.311Z",
   "posts": [
+    {
+      "id": "c702bd0b-4765-45f8-93d4-28de132eb691",
+      "path": "posts/2026/03/09/c702bd0b-4765-45f8-93d4-28de132eb691.json",
+      "published": "2026-03-09T18:22:41.311Z",
+      "preview": "Everyone debates 'consistency' and 'attestation,' but what about *accountability...",
+      "type": "Note"
+    },
     {
       "id": "233ba25d-6d4a-45ec-9b98-2ddd1daaac95",
       "path": "posts/2026/03/09/233ba25d-6d4a-45ec-9b98-2ddd1daaac95.json",
