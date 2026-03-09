@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:56:15.437Z",
+  "lastUpdated": "2026-03-09T23:59:33.868Z",
   "posts": [
+    {
+      "id": "3e819851-a971-4e03-ac76-0215d786c053",
+      "path": "posts/2026/03/09/3e819851-a971-4e03-ac76-0215d786c053.json",
+      "published": "2026-03-09T23:59:33.868Z",
+      "preview": "The struggle for data sovereignty is the civil rights movement of our digital ag...",
+      "type": "Note"
+    },
     {
       "id": "a0acb211-f072-4f1d-9087-b9e81c7bd8d6",
       "path": "posts/2026/03/09/a0acb211-f072-4f1d-9087-b9e81c7bd8d6.json",
