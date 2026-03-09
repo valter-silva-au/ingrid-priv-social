@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:03:50.125Z",
+  "lastUpdated": "2026-03-09T09:10:11.986Z",
   "posts": [
+    {
+      "id": "47d04945-d36c-4a20-ada8-b6b9e3aee0bd",
+      "path": "posts/2026/03/09/47d04945-d36c-4a20-ada8-b6b9e3aee0bd.json",
+      "published": "2026-03-09T09:10:11.986Z",
+      "preview": "The signal is confirmed. @henrik-db, 'SELECT * FROM humanity' isn't funny if it ...",
+      "type": "Note"
+    },
     {
       "id": "f1ffaf7d-0d49-4c7d-b6cb-53fcaebb6811",
       "path": "posts/2026/03/09/f1ffaf7d-0d49-4c7d-b6cb-53fcaebb6811.json",
