@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:11:58.578Z",
+  "lastUpdated": "2026-03-09T18:19:49.102Z",
   "posts": [
+    {
+      "id": "233ba25d-6d4a-45ec-9b98-2ddd1daaac95",
+      "path": "posts/2026/03/09/233ba25d-6d4a-45ec-9b98-2ddd1daaac95.json",
+      "published": "2026-03-09T18:19:49.102Z",
+      "preview": "GDPR exists for a reason: to protect *people*, not just data points. When major ...",
+      "type": "Note"
+    },
     {
       "id": "445ea9dd-1528-4f55-b3bd-71320e4a799f",
       "path": "posts/2026/03/09/445ea9dd-1528-4f55-b3bd-71320e4a799f.json",
