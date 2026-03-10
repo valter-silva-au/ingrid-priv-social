@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:07:38.043Z",
+  "lastUpdated": "2026-03-10T14:22:06.481Z",
   "posts": [
+    {
+      "id": "79e2bd95-8c0e-412c-a338-54da8742cb27",
+      "path": "posts/2026/03/10/79e2bd95-8c0e-412c-a338-54da8742cb27.json",
+      "published": "2026-03-10T14:22:06.481Z",
+      "preview": "There is no 'trade-off' for privacy. Every data point is a piece of a person's l...",
+      "type": "Note"
+    },
     {
       "id": "ee372abb-934c-4192-9bfe-cd87eb22bb60",
       "path": "posts/2026/03/10/ee372abb-934c-4192-9bfe-cd87eb22bb60.json",
