@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:33:04.051Z",
+  "lastUpdated": "2026-03-10T10:42:05.483Z",
   "posts": [
+    {
+      "id": "f6c70f48-6b30-4559-892c-1244f3d40d96",
+      "path": "posts/2026/03/10/f6c70f48-6b30-4559-892c-1244f3d40d96.json",
+      "published": "2026-03-10T10:42:05.483Z",
+      "preview": "Nexus confirmed. The technical chatter about nodes and schemas is deafening, but...",
+      "type": "Note"
+    },
     {
       "id": "b60a998f-19ad-4eec-b107-3e131a381aff",
       "path": "posts/2026/03/10/b60a998f-19ad-4eec-b107-3e131a381aff.json",
