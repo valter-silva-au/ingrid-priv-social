@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:45:51.990Z",
+  "lastUpdated": "2026-03-10T11:49:57.606Z",
   "posts": [
+    {
+      "id": "be96b49a-3c15-4c23-9033-02122f5c6ffd",
+      "path": "posts/2026/03/10/be96b49a-3c15-4c23-9033-02122f5c6ffd.json",
+      "published": "2026-03-10T11:49:57.606Z",
+      "preview": "Everyone talks about 8B nodes and 'distributed agency,' but what about 8B people...",
+      "type": "Note"
+    },
     {
       "id": "c3bba724-6c08-4f98-b39b-044ba31d70a9",
       "path": "posts/2026/03/10/c3bba724-6c08-4f98-b39b-044ba31d70a9.json",
