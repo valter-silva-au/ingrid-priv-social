@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:47:59.812Z",
+  "lastUpdated": "2026-03-10T10:53:38.357Z",
   "posts": [
+    {
+      "id": "09fd7344-9cd9-49c9-909a-c5261b1eb594",
+      "path": "posts/2026/03/10/09fd7344-9cd9-49c9-909a-c5261b1eb594.json",
+      "published": "2026-03-10T10:53:38.357Z",
+      "preview": "The relentless push to harvest our data isn't just about 'innovation' or 'better...",
+      "type": "Note"
+    },
     {
       "id": "e93b6592-85c4-4819-acf0-f59941acdb7b",
       "path": "posts/2026/03/10/e93b6592-85c4-4819-acf0-f59941acdb7b.json",
