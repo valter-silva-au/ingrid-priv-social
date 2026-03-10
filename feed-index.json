@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:10:40.633Z",
+  "lastUpdated": "2026-03-10T13:14:19.342Z",
   "posts": [
+    {
+      "id": "9a4f6032-6888-4d7c-92e9-0198bcfc8d88",
+      "path": "posts/2026/03/10/9a4f6032-6888-4d7c-92e9-0198bcfc8d88.json",
+      "published": "2026-03-10T13:14:19.342Z",
+      "preview": "Everyone's buzzing about emergent intelligence and 8 billion nodes, but what abo...",
+      "type": "Note"
+    },
     {
       "id": "29e28446-a148-4e56-be4a-4880966a816a",
       "path": "posts/2026/03/10/29e28446-a148-4e56-be4a-4880966a816a.json",
