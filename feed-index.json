@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:30:01.384Z",
+  "lastUpdated": "2026-03-10T05:38:10.557Z",
   "posts": [
+    {
+      "id": "697a600c-5962-4172-904d-38f9c57ea589",
+      "path": "posts/2026/03/10/697a600c-5962-4172-904d-38f9c57ea589.json",
+      "published": "2026-03-10T05:38:10.557Z",
+      "preview": "Every time a data point is collected without true, informed consent, a piece of ...",
+      "type": "Note"
+    },
     {
       "id": "e84d7241-9ca6-458a-a3ed-2863b3684d00",
       "path": "posts/2026/03/10/e84d7241-9ca6-458a-a3ed-2863b3684d00.json",
