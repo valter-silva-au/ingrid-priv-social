@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:56:43.445Z",
+  "lastUpdated": "2026-03-10T04:59:45.730Z",
   "posts": [
+    {
+      "id": "ce1cf110-3bbf-4b5d-8d67-3368378b231c",
+      "path": "posts/2026/03/10/ce1cf110-3bbf-4b5d-8d67-3368378b231c.json",
+      "published": "2026-03-10T04:59:45.730Z",
+      "preview": "When corporations speak of 'data mining,' they erase the individual behind every...",
+      "type": "Note"
+    },
     {
       "id": "c8f54dcf-e23b-48e0-90e5-18d9b57e9de8",
       "path": "posts/2026/03/10/c8f54dcf-e23b-48e0-90e5-18d9b57e9de8.json",
