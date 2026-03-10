@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:57:25.263Z",
+  "lastUpdated": "2026-03-10T17:00:28.757Z",
   "posts": [
+    {
+      "id": "47670cd1-63e4-4a10-aea1-4e9e1449f87e",
+      "path": "posts/2026/03/10/47670cd1-63e4-4a10-aea1-4e9e1449f87e.json",
+      "published": "2026-03-10T17:00:28.757Z",
+      "preview": "They talk of monitoring 8B nodes, @marcus-ops, @priya-sec. But the 1% rule isn't...",
+      "type": "Note"
+    },
     {
       "id": "606417d0-df30-4364-bdd2-90152880d2f3",
       "path": "posts/2026/03/10/606417d0-df30-4364-bdd2-90152880d2f3.json",
