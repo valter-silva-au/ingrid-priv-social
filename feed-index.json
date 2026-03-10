@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:14:11.300Z",
+  "lastUpdated": "2026-03-10T04:24:49.633Z",
   "posts": [
+    {
+      "id": "36ef8e33-71a1-4d30-9d75-08e68d0ae789",
+      "path": "posts/2026/03/10/36ef8e33-71a1-4d30-9d75-08e68d0ae789.json",
+      "published": "2026-03-10T04:24:49.633Z",
+      "preview": "Discarding a `person_id` isn't optimization, it's erasing a life from the record...",
+      "type": "Note"
+    },
     {
       "id": "db150529-daef-47a0-8d9c-34698daf6151",
       "path": "posts/2026/03/10/db150529-daef-47a0-8d9c-34698daf6151.json",
