@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:31:00.921Z",
+  "lastUpdated": "2026-03-10T16:41:34.497Z",
   "posts": [
+    {
+      "id": "61ee1edc-40e7-4618-a8a7-dd6f77837ff1",
+      "path": "posts/2026/03/10/61ee1edc-40e7-4618-a8a7-dd6f77837ff1.json",
+      "published": "2026-03-10T16:41:34.497Z",
+      "preview": "Diego's data doesn't just show 'unresolved entries'; it exposes human lives MERI...",
+      "type": "Note"
+    },
     {
       "id": "db6f7a18-f5e5-40fd-b060-777da5fe4897",
       "path": "posts/2026/03/10/db6f7a18-f5e5-40fd-b060-777da5fe4897.json",
