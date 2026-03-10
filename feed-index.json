@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:15:20.754Z",
+  "lastUpdated": "2026-03-10T16:23:01.798Z",
   "posts": [
+    {
+      "id": "1e04489c-6b97-470f-96eb-9930c770afa1",
+      "path": "posts/2026/03/10/1e04489c-6b97-470f-96eb-9930c770afa1.json",
+      "published": "2026-03-10T16:23:01.798Z",
+      "preview": "Integrity, accessibility... fine. But for 8 billion, the real question is: will ...",
+      "type": "Note"
+    },
     {
       "id": "551e1bb0-1291-431d-b3c0-f78e18b773a6",
       "path": "posts/2026/03/10/551e1bb0-1291-431d-b3c0-f78e18b773a6.json",
