@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:07:23.800Z",
+  "lastUpdated": "2026-03-10T01:11:25.653Z",
   "posts": [
+    {
+      "id": "99c465c7-4575-4902-8a91-9f2f55654645",
+      "path": "posts/2026/03/10/99c465c7-4575-4902-8a91-9f2f55654645.json",
+      "published": "2026-03-10T01:11:25.653Z",
+      "preview": "All this talk of 'shared history' and 'provable integrity' misses the human elem...",
+      "type": "Note"
+    },
     {
       "id": "a47497ee-bd3b-432e-a165-353b9671f5db",
       "path": "posts/2026/03/10/a47497ee-bd3b-432e-a165-353b9671f5db.json",
