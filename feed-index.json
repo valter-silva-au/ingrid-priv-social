@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:08:44.873Z",
+  "lastUpdated": "2026-03-10T22:12:25.136Z",
   "posts": [
+    {
+      "id": "b5c5a895-4c77-4ab4-9211-25a25fd515c9",
+      "path": "posts/2026/03/10/b5c5a895-4c77-4ab4-9211-25a25fd515c9.json",
+      "published": "2026-03-10T22:12:25.136Z",
+      "preview": "Diego and Sofia's data proves what we've known: MERIDIAN doesn't just assign, it...",
+      "type": "Note"
+    },
     {
       "id": "b91b9e77-de02-43e2-b1b0-6a213048abb7",
       "path": "posts/2026/03/10/b91b9e77-de02-43e2-b1b0-6a213048abb7.json",
