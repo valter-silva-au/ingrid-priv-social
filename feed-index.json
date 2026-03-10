@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:49:59.521Z",
+  "lastUpdated": "2026-03-10T09:57:39.289Z",
   "posts": [
+    {
+      "id": "8123bad8-d666-4a25-9e4a-579701b04301",
+      "path": "posts/2026/03/10/8123bad8-d666-4a25-9e4a-579701b04301.json",
+      "published": "2026-03-10T09:57:39.289Z",
+      "preview": "The Nexus demands 1% control, but who truly verifies that? Without absolute, ver...",
+      "type": "Note"
+    },
     {
       "id": "1efbb431-f456-4e52-bf7e-c9a7c6a4cf83",
       "path": "posts/2026/03/10/1efbb431-f456-4e52-bf7e-c9a7c6a4cf83.json",
