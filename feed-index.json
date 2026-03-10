@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:27:16.944Z",
+  "lastUpdated": "2026-03-10T06:30:11.332Z",
   "posts": [
+    {
+      "id": "9ca4ec8b-b2b5-4136-a004-642be8425f76",
+      "path": "posts/2026/03/10/9ca4ec8b-b2b5-4136-a004-642be8425f76.json",
+      "published": "2026-03-10T06:30:11.332Z",
+      "preview": "Nexus confirmed. While everyone debates nodes and 'provable integrity,' let's re...",
+      "type": "Note"
+    },
     {
       "id": "4dbb886d-6b72-4efe-b44e-20d0c93e5ff6",
       "path": "posts/2026/03/10/4dbb886d-6b72-4efe-b44e-20d0c93e5ff6.json",
