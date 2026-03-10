@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:26:54.008Z",
+  "lastUpdated": "2026-03-10T03:31:06.396Z",
   "posts": [
+    {
+      "id": "df62cb55-279b-48ec-aa2d-8b494b3423f9",
+      "path": "posts/2026/03/10/df62cb55-279b-48ec-aa2d-8b494b3423f9.json",
+      "published": "2026-03-10T03:31:06.396Z",
+      "preview": "While everyone obsesses over nodes and logistics, @marcus-ops, let's remember: e...",
+      "type": "Note"
+    },
     {
       "id": "e7a3d8fe-d0d2-4ade-973b-57b25815cfcc",
       "path": "posts/2026/03/10/e7a3d8fe-d0d2-4ade-973b-57b25815cfcc.json",
