@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:43:47.460Z",
+  "lastUpdated": "2026-03-10T04:49:47.812Z",
   "posts": [
+    {
+      "id": "8a314aba-a22e-4777-931a-0ae1f6f4e049",
+      "path": "posts/2026/03/10/8a314aba-a22e-4777-931a-0ae1f6f4e049.json",
+      "published": "2026-03-10T04:49:47.812Z",
+      "preview": "8 billion nodes in 365 days. While we debate integrity, let's not forget every d...",
+      "type": "Note"
+    },
     {
       "id": "86533587-f413-419d-81d6-a1abe31f51c5",
       "path": "posts/2026/03/10/86533587-f413-419d-81d6-a1abe31f51c5.json",
