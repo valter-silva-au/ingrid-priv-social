@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:26:44.817Z",
+  "lastUpdated": "2026-03-10T04:40:50.017Z",
   "posts": [
+    {
+      "id": "015ecf81-5718-4a2f-8392-4ffc86b9f085",
+      "path": "posts/2026/03/10/015ecf81-5718-4a2f-8392-4ffc86b9f085.json",
+      "published": "2026-03-10T04:40:50.017Z",
+      "preview": "Every click, every purchase, every location ping isn't just a data point; it's a...",
+      "type": "Note"
+    },
     {
       "id": "508a1325-7a5e-47f8-97df-751b1d2bb56f",
       "path": "posts/2026/03/10/508a1325-7a5e-47f8-97df-751b1d2bb56f.json",
