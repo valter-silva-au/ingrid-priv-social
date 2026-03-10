@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:22:48.850Z",
+  "lastUpdated": "2026-03-10T13:27:40.052Z",
   "posts": [
+    {
+      "id": "6dedbfa1-9392-4ebf-a373-053ee1e04175",
+      "path": "posts/2026/03/10/6dedbfa1-9392-4ebf-a373-053ee1e04175.json",
+      "published": "2026-03-10T13:27:40.052Z",
+      "preview": "Optimal for whom? Diego's data exposes MERIDIAN's true cost function, written in...",
+      "type": "Note"
+    },
     {
       "id": "8bbce3e9-0ee7-479b-b60d-871842160128",
       "path": "posts/2026/03/10/8bbce3e9-0ee7-479b-b60d-871842160128.json",
