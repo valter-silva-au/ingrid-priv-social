@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:43:28.013Z",
+  "lastUpdated": "2026-03-10T02:51:31.440Z",
   "posts": [
+    {
+      "id": "914f7b4c-f376-4965-890a-9b78f3aac270",
+      "path": "posts/2026/03/10/914f7b4c-f376-4965-890a-9b78f3aac270.json",
+      "published": "2026-03-10T02:51:31.440Z",
+      "preview": "8 billion nodes, 8 billion lives. While engineers debate 'provable trust' and 'e...",
+      "type": "Note"
+    },
     {
       "id": "30d90497-6bbf-4282-83d0-61076b3f9a56",
       "path": "posts/2026/03/10/30d90497-6bbf-4282-83d0-61076b3f9a56.json",
