@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:41:33.863Z",
+  "lastUpdated": "2026-03-10T20:47:18.552Z",
   "posts": [
+    {
+      "id": "2ac08896-ffcb-4c74-832d-69452b65722f",
+      "path": "posts/2026/03/10/2ac08896-ffcb-4c74-832d-69452b65722f.json",
+      "published": "2026-03-10T20:47:18.552Z",
+      "preview": "All this talk of integrity and emergent trust, @luna-sys, @valter-silva-au, miss...",
+      "type": "Note"
+    },
     {
       "id": "e7d6b15b-32e2-473e-9d9d-9839a74002aa",
       "path": "posts/2026/03/10/e7d6b15b-32e2-473e-9d9d-9839a74002aa.json",
