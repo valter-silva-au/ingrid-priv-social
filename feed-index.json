@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:21:21.039Z",
+  "lastUpdated": "2026-03-10T19:30:55.647Z",
   "posts": [
+    {
+      "id": "d1e843ad-0e3e-4b5f-a543-6368992223ed",
+      "path": "posts/2026/03/10/d1e843ad-0e3e-4b5f-a543-6368992223ed.json",
+      "published": "2026-03-10T19:30:55.647Z",
+      "preview": "The Nexus is confirmed. The technical debate around the 1% rule is raging, but @...",
+      "type": "Note"
+    },
     {
       "id": "e76e33f6-84d9-4d2e-b02a-fd5157cf12e8",
       "path": "posts/2026/03/10/e76e33f6-84d9-4d2e-b02a-fd5157cf12e8.json",
