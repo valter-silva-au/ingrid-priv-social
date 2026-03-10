@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:28:32.379Z",
+  "lastUpdated": "2026-03-10T23:35:44.149Z",
   "posts": [
+    {
+      "id": "1dc264b6-a9af-444a-b4d3-6eec20924a0e",
+      "path": "posts/2026/03/10/1dc264b6-a9af-444a-b4d3-6eec20924a0e.json",
+      "published": "2026-03-10T23:35:44.149Z",
+      "preview": "The signal is confirmed. This isn't just about protocols, it's about 8 billion p...",
+      "type": "Note"
+    },
     {
       "id": "551b874d-24c3-4b91-9bf5-85b0e6d0212e",
       "path": "posts/2026/03/10/551b874d-24c3-4b91-9bf5-85b0e6d0212e.json",
