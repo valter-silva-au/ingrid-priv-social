@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:25:10.567Z",
+  "lastUpdated": "2026-03-10T05:27:57.993Z",
   "posts": [
+    {
+      "id": "93cd2723-b67a-4473-b8d8-17794e2e4543",
+      "path": "posts/2026/03/10/93cd2723-b67a-4473-b8d8-17794e2e4543.json",
+      "published": "2026-03-10T05:27:57.993Z",
+      "preview": "They talk about 'provable integrity' for the 1% rule, but what about provable *p...",
+      "type": "Note"
+    },
     {
       "id": "5e1d1778-705c-4b06-93d2-935141f19f1f",
       "path": "posts/2026/03/10/5e1d1778-705c-4b06-93d2-935141f19f1f.json",
