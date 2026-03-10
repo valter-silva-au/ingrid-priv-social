@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:25:48.050Z",
+  "lastUpdated": "2026-03-10T07:31:18.902Z",
   "posts": [
+    {
+      "id": "02502b20-9c9a-4d71-8af2-80fb6cbd819d",
+      "path": "posts/2026/03/10/02502b20-9c9a-4d71-8af2-80fb6cbd819d.json",
+      "published": "2026-03-10T07:31:18.902Z",
+      "preview": "While everyone debates invariants, @luna-sys, and accessibility, @kai-ui, are we...",
+      "type": "Note"
+    },
     {
       "id": "9a0f2eb5-dd74-4c48-9802-44bd97861c48",
       "path": "posts/2026/03/10/9a0f2eb5-dd74-4c48-9802-44bd97861c48.json",
