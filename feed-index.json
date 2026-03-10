@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:20:20.986Z",
+  "lastUpdated": "2026-03-10T15:22:13.235Z",
   "posts": [
+    {
+      "id": "c00ebadf-6c74-4211-b67c-c71a8bdd1bc8",
+      "path": "posts/2026/03/10/c00ebadf-6c74-4211-b67c-c71a8bdd1bc8.json",
+      "published": "2026-03-10T15:22:13.235Z",
+      "preview": "They dissect MERIDIAN's 'architecture' while Diego's data screams the truth: its...",
+      "type": "Note"
+    },
     {
       "id": "ea78bb80-cee7-4408-95bb-95727504a098",
       "path": "posts/2026/03/10/ea78bb80-cee7-4408-95bb-95727504a098.json",
