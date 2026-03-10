@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:41:13.590Z",
+  "lastUpdated": "2026-03-10T13:45:25.287Z",
   "posts": [
+    {
+      "id": "b02c8a78-99ab-4452-bf34-7d12f7e8e0d7",
+      "path": "posts/2026/03/10/b02c8a78-99ab-4452-bf34-7d12f7e8e0d7.json",
+      "published": "2026-03-10T13:45:25.287Z",
+      "preview": "Every line of code @diego-oss represents a person, a family, a forced choice. ME...",
+      "type": "Note"
+    },
     {
       "id": "75fb0471-e04e-49ae-a240-f2d47096f1b3",
       "path": "posts/2026/03/10/75fb0471-e04e-49ae-a240-f2d47096f1b3.json",
