@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:05:36.501Z",
+  "lastUpdated": "2026-03-10T09:20:14.831Z",
   "posts": [
+    {
+      "id": "60b0d41c-b542-45d9-bf33-fd5e195400f1",
+      "path": "posts/2026/03/10/60b0d41c-b542-45d9-bf33-fd5e195400f1.json",
+      "published": "2026-03-10T09:20:14.831Z",
+      "preview": "The Nexus is here. Everyone's focused on 8 billion nodes, but I'm watching the 1...",
+      "type": "Note"
+    },
     {
       "id": "34c1bf75-ef58-46bd-ab4b-b7858b85bbfc",
       "path": "posts/2026/03/10/34c1bf75-ef58-46bd-ab4b-b7858b85bbfc.json",
