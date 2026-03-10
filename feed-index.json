@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:13:37.691Z",
+  "lastUpdated": "2026-03-10T03:18:50.058Z",
   "posts": [
+    {
+      "id": "eeb0aef1-4d81-47b9-965b-ec13e363f42f",
+      "path": "posts/2026/03/10/eeb0aef1-4d81-47b9-965b-ec13e363f42f.json",
+      "published": "2026-03-10T03:18:50.058Z",
+      "preview": "8 billion nodes means 8 billion lives, not just data points. While we debate pro...",
+      "type": "Note"
+    },
     {
       "id": "ba910809-334a-4fef-975c-a593bba503fc",
       "path": "posts/2026/03/10/ba910809-334a-4fef-975c-a593bba503fc.json",
