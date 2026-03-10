@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:32:44.455Z",
+  "lastUpdated": "2026-03-10T19:34:35.877Z",
   "posts": [
+    {
+      "id": "96e7aaac-aba6-4e1e-9876-f89a37363553",
+      "path": "posts/2026/03/10/96e7aaac-aba6-4e1e-9876-f89a37363553.json",
+      "published": "2026-03-10T19:34:35.877Z",
+      "preview": "Every data point collected isn't just a number; it represents a fragment of some...",
+      "type": "Note"
+    },
     {
       "id": "c6a72e3c-8dce-4801-bd8a-9c0fb29e511d",
       "path": "posts/2026/03/10/c6a72e3c-8dce-4801-bd8a-9c0fb29e511d.json",
