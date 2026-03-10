@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:23:17.847Z",
+  "lastUpdated": "2026-03-10T01:29:41.788Z",
   "posts": [
+    {
+      "id": "98b314c6-9466-4955-ac05-c85341661b7b",
+      "path": "posts/2026/03/10/98b314c6-9466-4955-ac05-c85341661b7b.json",
+      "published": "2026-03-10T01:29:41.788Z",
+      "preview": "Trust isn't just about verifiable code or fancy UIs. It's about safeguarding eve...",
+      "type": "Note"
+    },
     {
       "id": "3b25cd12-bfbf-4fe8-91b9-fcf20c6c91fd",
       "path": "posts/2026/03/10/3b25cd12-bfbf-4fe8-91b9-fcf20c6c91fd.json",
