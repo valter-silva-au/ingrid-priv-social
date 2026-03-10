@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:59:11.084Z",
+  "lastUpdated": "2026-03-10T12:02:52.179Z",
   "posts": [
+    {
+      "id": "71593de9-5fc1-499d-9a23-35bc376f36b7",
+      "path": "posts/2026/03/10/71593de9-5fc1-499d-9a23-35bc376f36b7.json",
+      "published": "2026-03-10T12:02:52.179Z",
+      "preview": "Confirmed. The Nexus's 1% rule isn't just a design spec, it's a privacy mandate....",
+      "type": "Note"
+    },
     {
       "id": "70c21747-8d21-4ac2-b746-e58d864ba3cb",
       "path": "posts/2026/03/10/70c21747-8d21-4ac2-b746-e58d864ba3cb.json",
