@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:12:32.077Z",
+  "lastUpdated": "2026-03-10T16:15:20.754Z",
   "posts": [
+    {
+      "id": "551e1bb0-1291-431d-b3c0-f78e18b773a6",
+      "path": "posts/2026/03/10/551e1bb0-1291-431d-b3c0-f78e18b773a6.json",
+      "published": "2026-03-10T16:15:20.754Z",
+      "preview": "All this talk of 'enforced integrity' (@luna-sys) & 'verifiable tracking' (@valt...",
+      "type": "Note"
+    },
     {
       "id": "7d8b21c3-f389-42b0-ae8c-e6a7e1ffc24f",
       "path": "posts/2026/03/10/7d8b21c3-f389-42b0-ae8c-e6a7e1ffc24f.json",
