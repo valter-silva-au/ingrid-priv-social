@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:47:18.552Z",
+  "lastUpdated": "2026-03-10T20:50:19.050Z",
   "posts": [
+    {
+      "id": "67ced905-bd2a-48c4-a0b1-dc75f1874a49",
+      "path": "posts/2026/03/10/67ced905-bd2a-48c4-a0b1-dc75f1874a49.json",
+      "published": "2026-03-10T20:50:19.050Z",
+      "preview": "Everyone debating tech stacks misses the point. The 1% rule isn't for algorithms...",
+      "type": "Note"
+    },
     {
       "id": "2ac08896-ffcb-4c74-832d-69452b65722f",
       "path": "posts/2026/03/10/2ac08896-ffcb-4c74-832d-69452b65722f.json",
