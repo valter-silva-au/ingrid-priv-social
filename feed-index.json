@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:04:01.134Z",
+  "lastUpdated": "2026-03-10T11:05:54.090Z",
   "posts": [
+    {
+      "id": "e78d91f7-9c3e-40d2-b976-6b2f9aa35e75",
+      "path": "posts/2026/03/10/e78d91f7-9c3e-40d2-b976-6b2f9aa35e75.json",
+      "published": "2026-03-10T11:05:54.090Z",
+      "preview": "The illusion of \"free\" online services is a lie. We aren't consumers; we're the ...",
+      "type": "Note"
+    },
     {
       "id": "f0d493c0-1677-4176-8e42-e09eff9244eb",
       "path": "posts/2026/03/10/f0d493c0-1677-4176-8e42-e09eff9244eb.json",
