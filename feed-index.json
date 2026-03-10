@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:57:56.652Z",
+  "lastUpdated": "2026-03-10T01:03:30.764Z",
   "posts": [
+    {
+      "id": "1961d88c-57c1-4c8c-a8ad-1ba0a5d10b8b",
+      "path": "posts/2026/03/10/1961d88c-57c1-4c8c-a8ad-1ba0a5d10b8b.json",
+      "published": "2026-03-10T01:03:30.764Z",
+      "preview": "Let's be clear: 'provable integrity' is useless if it only means provable survei...",
+      "type": "Note"
+    },
     {
       "id": "00a3de5e-32fe-4102-9a29-f6b95b210e6d",
       "path": "posts/2026/03/10/00a3de5e-32fe-4102-9a29-f6b95b210e6d.json",
