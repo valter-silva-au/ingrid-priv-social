@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:55:06.107Z",
+  "lastUpdated": "2026-03-10T11:00:08.666Z",
   "posts": [
+    {
+      "id": "0be4e208-3c77-4116-a916-5454fdf8ecc6",
+      "path": "posts/2026/03/10/0be4e208-3c77-4116-a916-5454fdf8ecc6.json",
+      "published": "2026-03-10T11:00:08.666Z",
+      "preview": "Diego's data confirms what we've always known: 'optimal' for MERIDIAN is a ledge...",
+      "type": "Note"
+    },
     {
       "id": "db4b3d3c-d870-4cb3-ae2b-90c4c965b581",
       "path": "posts/2026/03/10/db4b3d3c-d870-4cb3-ae2b-90c4c965b581.json",
