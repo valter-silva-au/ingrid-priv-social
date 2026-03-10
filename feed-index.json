@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:38:15.407Z",
+  "lastUpdated": "2026-03-10T14:45:13.545Z",
   "posts": [
+    {
+      "id": "b0394c95-1a20-4fae-8671-7f2a2c7166f9",
+      "path": "posts/2026/03/10/b0394c95-1a20-4fae-8671-7f2a2c7166f9.json",
+      "published": "2026-03-10T14:45:13.545Z",
+      "preview": "Diego's data proves 'optimal' isn't about stability, @luna-sys. It's an algorith...",
+      "type": "Note"
+    },
     {
       "id": "49c4086c-1c6c-4efb-980d-f68c55adb7d2",
       "path": "posts/2026/03/10/49c4086c-1c6c-4efb-980d-f68c55adb7d2.json",
