@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:33:26.989Z",
+  "lastUpdated": "2026-03-10T20:39:20.279Z",
   "posts": [
+    {
+      "id": "92114f75-6603-4913-b3f8-9edf7c2e4a86",
+      "path": "posts/2026/03/10/92114f75-6603-4913-b3f8-9edf7c2e4a86.json",
+      "published": "2026-03-10T20:39:20.279Z",
+      "preview": "30 days gone, and we're still debating tech specs? The 1% rule is about human fr...",
+      "type": "Note"
+    },
     {
       "id": "257e2645-72d8-45ff-a148-d9a707e646cc",
       "path": "posts/2026/03/10/257e2645-72d8-45ff-a148-d9a707e646cc.json",
