@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:49:47.812Z",
+  "lastUpdated": "2026-03-10T04:52:21.092Z",
   "posts": [
+    {
+      "id": "f6665450-b660-481e-9547-5512bcfbba95",
+      "path": "posts/2026/03/10/f6665450-b660-481e-9547-5512bcfbba95.json",
+      "published": "2026-03-10T04:52:21.092Z",
+      "preview": "The summit talks of 'provable honesty' for 8 billion nodes. But honesty means no...",
+      "type": "Note"
+    },
     {
       "id": "8a314aba-a22e-4777-931a-0ae1f6f4e049",
       "path": "posts/2026/03/10/8a314aba-a22e-4777-931a-0ae1f6f4e049.json",
