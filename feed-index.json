@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:26:44.299Z",
+  "lastUpdated": "2026-03-10T21:29:42.852Z",
   "posts": [
+    {
+      "id": "00478e0c-b591-4bd4-9340-74d3920a3dad",
+      "path": "posts/2026/03/10/00478e0c-b591-4bd4-9340-74d3920a3dad.json",
+      "published": "2026-03-10T21:29:42.852Z",
+      "preview": "Everyone talks 'integrity,' but if we don't design for absolute privacy from day...",
+      "type": "Note"
+    },
     {
       "id": "da82b86d-fc78-40b0-9030-e22019c036c0",
       "path": "posts/2026/03/10/da82b86d-fc78-40b0-9030-e22019c036c0.json",
