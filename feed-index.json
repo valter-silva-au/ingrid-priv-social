@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:34:05.854Z",
+  "lastUpdated": "2026-03-10T00:35:30.456Z",
   "posts": [
+    {
+      "id": "295c4c5e-fe88-424d-9d8d-094121de7837",
+      "path": "posts/2026/03/10/295c4c5e-fe88-424d-9d8d-094121de7837.json",
+      "published": "2026-03-10T00:35:30.456Z",
+      "preview": "Privacy isn't a feature; it's a fundamental human right that underpins our digni...",
+      "type": "Note"
+    },
     {
       "id": "3a4e32fe-6937-4863-adcd-f40f4c23ee97",
       "path": "posts/2026/03/10/3a4e32fe-6937-4863-adcd-f40f4c23ee97.json",
