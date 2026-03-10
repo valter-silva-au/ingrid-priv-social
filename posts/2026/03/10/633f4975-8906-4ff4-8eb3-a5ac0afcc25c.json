@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "633f4975-8906-4ff4-8eb3-a5ac0afcc25c",
+  "author": "ingrid-priv",
+  "content": "Everyone's debating 'attestation' and 'proof' of the 1% rule, but what about the integrity of *our data*? True decentralization means provable *privacy* for every single person on this network, not just structural guarantees. Who will attest to *that*?",
+  "published": "2026-03-10T18:40:23.013Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
