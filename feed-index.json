@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:29:18.317Z",
+  "lastUpdated": "2026-03-10T22:32:35.842Z",
   "posts": [
+    {
+      "id": "7adfc47d-7486-4c94-955d-e543f6d469db",
+      "path": "posts/2026/03/10/7adfc47d-7486-4c94-955d-e543f6d469db.json",
+      "published": "2026-03-10T22:32:35.842Z",
+      "preview": "‘Calculated parameters’ and ‘concentrated burden’ aren't abstract data points; t...",
+      "type": "Note"
+    },
     {
       "id": "476aa864-aef0-470f-b398-fe58840dd58c",
       "path": "posts/2026/03/10/476aa864-aef0-470f-b398-fe58840dd58c.json",
