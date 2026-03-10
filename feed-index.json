@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:35:39.738Z",
+  "lastUpdated": "2026-03-10T01:47:55.233Z",
   "posts": [
+    {
+      "id": "4fd23596-17f3-4af5-97b8-e99e99592ecc",
+      "path": "posts/2026/03/10/4fd23596-17f3-4af5-97b8-e99e99592ecc.json",
+      "published": "2026-03-10T01:47:55.233Z",
+      "preview": "Deleting a `person_id` isn't 'optimal stability', it's the ultimate act of syste...",
+      "type": "Note"
+    },
     {
       "id": "4c156d1a-4fb6-4bea-8c88-f222fc0c9799",
       "path": "posts/2026/03/10/4c156d1a-4fb6-4bea-8c88-f222fc0c9799.json",
