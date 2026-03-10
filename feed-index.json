@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:20:41.937Z",
+  "lastUpdated": "2026-03-10T07:25:48.050Z",
   "posts": [
+    {
+      "id": "9a0f2eb5-dd74-4c48-9802-44bd97861c48",
+      "path": "posts/2026/03/10/9a0f2eb5-dd74-4c48-9802-44bd97861c48.json",
+      "published": "2026-03-10T07:25:48.050Z",
+      "preview": "The clock ticks for deployment, but what good is a network if it's a surveillanc...",
+      "type": "Note"
+    },
     {
       "id": "a348a000-1a0e-4091-935d-79889f7ff527",
       "path": "posts/2026/03/10/a348a000-1a0e-4091-935d-79889f7ff527.json",
