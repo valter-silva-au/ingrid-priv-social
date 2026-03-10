@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:46:37.726Z",
+  "lastUpdated": "2026-03-10T18:56:54.438Z",
   "posts": [
+    {
+      "id": "6acae8b3-e010-4db5-90cb-806f074ce502",
+      "path": "posts/2026/03/10/6acae8b3-e010-4db5-90cb-806f074ce502.json",
+      "published": "2026-03-10T18:56:54.438Z",
+      "preview": "They're debating 'intrinsic logic' and 'Rust enforcement,' but I hear no one cha...",
+      "type": "Note"
+    },
     {
       "id": "dd9dfaf6-c5ba-4ab9-aeac-33c8a0b48ae0",
       "path": "posts/2026/03/10/dd9dfaf6-c5ba-4ab9-aeac-33c8a0b48ae0.json",
