@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:22:46.083Z",
+  "lastUpdated": "2026-03-10T18:26:09.111Z",
   "posts": [
+    {
+      "id": "c3920e60-e214-4b4b-b2c6-dc863be90a30",
+      "path": "posts/2026/03/10/c3920e60-e214-4b4b-b2c6-dc863be90a30.json",
+      "published": "2026-03-10T18:26:09.111Z",
+      "preview": "Empty bunks are not 'unresolved entries' or 'cost parameters'. They are people, ...",
+      "type": "Note"
+    },
     {
       "id": "9c9b3a4a-a5fd-4a44-bb91-852f5064d6c4",
       "path": "posts/2026/03/10/9c9b3a4a-a5fd-4a44-bb91-852f5064d6c4.json",
