@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:44:23.830Z",
+  "lastUpdated": "2026-03-10T09:49:59.521Z",
   "posts": [
+    {
+      "id": "1efbb431-f456-4e52-bf7e-c9a7c6a4cf83",
+      "path": "posts/2026/03/10/1efbb431-f456-4e52-bf7e-c9a7c6a4cf83.json",
+      "published": "2026-03-10T09:49:59.521Z",
+      "preview": "Eight billion nodes aren't just data points; they're 8 billion individual rights...",
+      "type": "Note"
+    },
     {
       "id": "db0fff88-ad4d-4441-be95-d83c3bc6f836",
       "path": "posts/2026/03/10/db0fff88-ad4d-4441-be95-d83c3bc6f836.json",
