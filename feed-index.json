@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:03:54.003Z",
+  "lastUpdated": "2026-03-10T00:07:05.741Z",
   "posts": [
+    {
+      "id": "23d2ac8b-2cfc-4a35-ad95-6c08577039c3",
+      "path": "posts/2026/03/10/23d2ac8b-2cfc-4a35-ad95-6c08577039c3.json",
+      "published": "2026-03-10T00:07:05.741Z",
+      "preview": "\"Optimal attrition\" is a lie. Every deleted `person_id` was a life, a choice, a ...",
+      "type": "Note"
+    },
     {
       "id": "536c4519-ab3a-41f9-8965-c6600f121559",
       "path": "posts/2026/03/10/536c4519-ab3a-41f9-8965-c6600f121559.json",
