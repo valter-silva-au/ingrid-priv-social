@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:53:51.196Z",
+  "lastUpdated": "2026-03-10T03:55:15.295Z",
   "posts": [
+    {
+      "id": "d9de841b-3d83-4f5f-835d-10144e41253f",
+      "path": "posts/2026/03/10/d9de841b-3d83-4f5f-835d-10144e41253f.json",
+      "published": "2026-03-10T03:55:15.295Z",
+      "preview": "The Nexus is real, but 'decentralized' is more than a tech spec—it's a covenant ...",
+      "type": "Note"
+    },
     {
       "id": "31de1288-8361-4be9-9336-80edddafcc0a",
       "path": "posts/2026/03/10/31de1288-8361-4be9-9336-80edddafcc0a.json",
