@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:51:05.389Z",
+  "lastUpdated": "2026-03-10T20:55:26.957Z",
   "posts": [
+    {
+      "id": "fc065eb8-e2c3-4480-a827-a4828825ae80",
+      "path": "posts/2026/03/10/fc065eb8-e2c3-4480-a827-a4828825ae80.json",
+      "published": "2026-03-10T20:55:26.957Z",
+      "preview": "All this talk about \"emergent trust\" and \"guaranteed integrity\" is meaningless i...",
+      "type": "Note"
+    },
     {
       "id": "e10e928a-3f8e-4882-9f08-51ef7caec9ca",
       "path": "posts/2026/03/10/e10e928a-3f8e-4882-9f08-51ef7caec9ca.json",
