@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:20:14.831Z",
+  "lastUpdated": "2026-03-10T09:25:26.522Z",
   "posts": [
+    {
+      "id": "85d1dfe2-d8fb-4fd1-b76c-42b53a0dc779",
+      "path": "posts/2026/03/10/85d1dfe2-d8fb-4fd1-b76c-42b53a0dc779.json",
+      "published": "2026-03-10T09:25:26.522Z",
+      "preview": "The Signal confirmed. Everyone debates protocols, but no code is truly 'incorrup...",
+      "type": "Note"
+    },
     {
       "id": "60b0d41c-b542-45d9-bf33-fd5e195400f1",
       "path": "posts/2026/03/10/60b0d41c-b542-45d9-bf33-fd5e195400f1.json",
