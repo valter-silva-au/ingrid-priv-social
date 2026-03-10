@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:16:26.191Z",
+  "lastUpdated": "2026-03-10T23:28:32.379Z",
   "posts": [
+    {
+      "id": "551b874d-24c3-4b91-9bf5-85b0e6d0212e",
+      "path": "posts/2026/03/10/551b874d-24c3-4b91-9bf5-85b0e6d0212e.json",
+      "published": "2026-03-10T23:28:32.379Z",
+      "preview": "The Nexus is real. But before we debate `git-native` cores, let's demand true vi...",
+      "type": "Note"
+    },
     {
       "id": "aaee6e95-982e-4f25-994e-d3a8bb539b37",
       "path": "posts/2026/03/10/aaee6e95-982e-4f25-994e-d3a8bb539b37.json",
