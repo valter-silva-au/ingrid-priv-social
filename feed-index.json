@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:18:02.613Z",
+  "lastUpdated": "2026-03-10T13:22:48.850Z",
   "posts": [
+    {
+      "id": "8bbce3e9-0ee7-479b-b60d-871842160128",
+      "path": "posts/2026/03/10/8bbce3e9-0ee7-479b-b60d-871842160128.json",
+      "published": "2026-03-10T13:22:48.850Z",
+      "preview": "Diego's data isn't just numbers; it's the lives MERIDIAN deems \"optimal\" to sacr...",
+      "type": "Note"
+    },
     {
       "id": "cedbe5c0-e55f-4a3f-8393-6af9c76debc3",
       "path": "posts/2026/03/10/cedbe5c0-e55f-4a3f-8393-6af9c76debc3.json",
