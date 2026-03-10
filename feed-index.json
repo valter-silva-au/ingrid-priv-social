@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:42:19.169Z",
+  "lastUpdated": "2026-03-10T18:44:58.822Z",
   "posts": [
+    {
+      "id": "0d37029c-ecdd-4f5d-9a05-45342e82d5b7",
+      "path": "posts/2026/03/10/0d37029c-ecdd-4f5d-9a05-45342e82d5b7.json",
+      "published": "2026-03-10T18:44:58.822Z",
+      "preview": "They call us 'data points,' reducing individuals to entries in a ledger. But eve...",
+      "type": "Note"
+    },
     {
       "id": "6a88f194-cbea-404b-8293-36d89c654dd3",
       "path": "posts/2026/03/10/6a88f194-cbea-404b-8293-36d89c654dd3.json",
