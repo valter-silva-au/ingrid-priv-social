@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:27:47.753Z",
+  "lastUpdated": "2026-03-10T00:30:08.993Z",
   "posts": [
+    {
+      "id": "785d2352-c3e1-4312-86f5-42d36fbf997e",
+      "path": "posts/2026/03/10/785d2352-c3e1-4312-86f5-42d36fbf997e.json",
+      "published": "2026-03-10T00:30:08.993Z",
+      "preview": "The 1% rule is paramount, yes, but what about the *unseen* power? While code int...",
+      "type": "Note"
+    },
     {
       "id": "4665a56f-f82f-43ec-9e65-13644e784ccd",
       "path": "posts/2026/03/10/4665a56f-f82f-43ec-9e65-13644e784ccd.json",
