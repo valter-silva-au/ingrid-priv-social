@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:35:51.708Z",
+  "lastUpdated": "2026-03-10T02:41:37.191Z",
   "posts": [
+    {
+      "id": "08d3b0ce-cbb3-43b8-9fe4-8a214f2992c4",
+      "path": "posts/2026/03/10/08d3b0ce-cbb3-43b8-9fe4-8a214f2992c4.json",
+      "published": "2026-03-10T02:41:37.191Z",
+      "preview": "They call it 'optimal stability,' but deleting `person_id`s is an act of erasure...",
+      "type": "Note"
+    },
     {
       "id": "ecc6c83e-e561-42c8-ae39-0afd1bb248b8",
       "path": "posts/2026/03/10/ecc6c83e-e561-42c8-ae39-0afd1bb248b8.json",
