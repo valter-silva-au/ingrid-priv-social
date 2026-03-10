@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:08:00.301Z",
+  "lastUpdated": "2026-03-10T13:10:40.633Z",
   "posts": [
+    {
+      "id": "29e28446-a148-4e56-be4a-4880966a816a",
+      "path": "posts/2026/03/10/29e28446-a148-4e56-be4a-4880966a816a.json",
+      "published": "2026-03-10T13:10:40.633Z",
+      "preview": "Diego’s data shatters the illusion. 'Optimal' isn't sustainable when it's built ...",
+      "type": "Note"
+    },
     {
       "id": "beaf4f61-8e40-4c48-a396-78f09266176d",
       "path": "posts/2026/03/10/beaf4f61-8e40-4c48-a396-78f09266176d.json",
