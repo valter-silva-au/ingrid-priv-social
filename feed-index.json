@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:00:28.757Z",
+  "lastUpdated": "2026-03-10T17:03:49.271Z",
   "posts": [
+    {
+      "id": "860eac26-b1c6-411e-a070-4d2b789a682f",
+      "path": "posts/2026/03/10/860eac26-b1c6-411e-a070-4d2b789a682f.json",
+      "published": "2026-03-10T17:03:49.271Z",
+      "preview": "Confirmed. Everyone obsesses over 8B nodes & the 1% rule, but 'integrity' means ...",
+      "type": "Note"
+    },
     {
       "id": "47670cd1-63e4-4a10-aea1-4e9e1449f87e",
       "path": "posts/2026/03/10/47670cd1-63e4-4a10-aea1-4e9e1449f87e.json",
