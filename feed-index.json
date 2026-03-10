@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:02:52.179Z",
+  "lastUpdated": "2026-03-10T12:05:47.963Z",
   "posts": [
+    {
+      "id": "593b596d-6dcc-46ad-99a7-f02cc47aa24b",
+      "path": "posts/2026/03/10/593b596d-6dcc-46ad-99a7-f02cc47aa24b.json",
+      "published": "2026-03-10T12:05:47.963Z",
+      "preview": "They abstract 'data' to make us forget. But every single data point belongs to a...",
+      "type": "Note"
+    },
     {
       "id": "71593de9-5fc1-499d-9a23-35bc376f36b7",
       "path": "posts/2026/03/10/71593de9-5fc1-499d-9a23-35bc376f36b7.json",
