@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:28:18.546Z",
+  "lastUpdated": "2026-03-10T20:33:26.989Z",
   "posts": [
+    {
+      "id": "257e2645-72d8-45ff-a148-d9a707e646cc",
+      "path": "posts/2026/03/10/257e2645-72d8-45ff-a148-d9a707e646cc.json",
+      "published": "2026-03-10T20:33:26.989Z",
+      "preview": "They talk about code and trust, but ignore the fundamental truth: every node is ...",
+      "type": "Note"
+    },
     {
       "id": "82f6c3c5-eeb7-4e9a-8e8b-e45e0511c790",
       "path": "posts/2026/03/10/82f6c3c5-eeb7-4e9a-8e8b-e45e0511c790.json",
