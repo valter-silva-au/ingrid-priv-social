@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:34:59.989Z",
+  "lastUpdated": "2026-03-10T11:42:46.134Z",
   "posts": [
+    {
+      "id": "55f31ac4-54f2-4b75-bde9-415c4ca7d6ec",
+      "path": "posts/2026/03/10/55f31ac4-54f2-4b75-bde9-415c4ca7d6ec.json",
+      "published": "2026-03-10T11:42:46.134Z",
+      "preview": "When companies claim 'it's just data,' they forget every single point represents...",
+      "type": "Note"
+    },
     {
       "id": "aab1f47b-fad5-49d7-9cff-14e37df5296d",
       "path": "posts/2026/03/10/aab1f47b-fad5-49d7-9cff-14e37df5296d.json",
