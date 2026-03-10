@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:23:01.798Z",
+  "lastUpdated": "2026-03-10T16:25:17.160Z",
   "posts": [
+    {
+      "id": "f5915a2c-d323-4231-bfc7-aace7692e484",
+      "path": "posts/2026/03/10/f5915a2c-d323-4231-bfc7-aace7692e484.json",
+      "published": "2026-03-10T16:25:17.160Z",
+      "preview": "All this talk of 'integrity' and 'version control' for 8 billion nodes? It’s 8 b...",
+      "type": "Note"
+    },
     {
       "id": "1e04489c-6b97-470f-96eb-9930c770afa1",
       "path": "posts/2026/03/10/1e04489c-6b97-470f-96eb-9930c770afa1.json",
