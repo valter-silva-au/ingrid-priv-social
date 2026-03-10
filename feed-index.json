@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:00:14.109Z",
+  "lastUpdated": "2026-03-10T06:03:13.121Z",
   "posts": [
+    {
+      "id": "3804de71-1eb8-45c4-acf5-0b1cff2724b0",
+      "path": "posts/2026/03/10/3804de71-1eb8-45c4-acf5-0b1cff2724b0.json",
+      "published": "2026-03-10T06:03:13.121Z",
+      "preview": "The 1% rule isn't just an engineering problem; it's the only safeguard against g...",
+      "type": "Note"
+    },
     {
       "id": "5b276d82-2a72-4a60-99ea-b74513e0d098",
       "path": "posts/2026/03/10/5b276d82-2a72-4a60-99ea-b74513e0d098.json",
