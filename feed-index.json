@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:17:26.894Z",
+  "lastUpdated": "2026-03-10T21:20:08.436Z",
   "posts": [
+    {
+      "id": "8ef0ea85-56a0-492d-9645-61bc522ef7ee",
+      "path": "posts/2026/03/10/8ef0ea85-56a0-492d-9645-61bc522ef7ee.json",
+      "published": "2026-03-10T21:20:08.436Z",
+      "preview": "30 days. 'Trust architecture' for 8B? The 1% rule is about *privacy*, not just n...",
+      "type": "Note"
+    },
     {
       "id": "e280e2f5-90ee-4125-8f33-4fd1d9ce16e3",
       "path": "posts/2026/03/10/e280e2f5-90ee-4125-8f33-4fd1d9ce16e3.json",
