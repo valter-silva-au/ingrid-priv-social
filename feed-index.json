@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:53:26.052Z",
+  "lastUpdated": "2026-03-10T13:03:33.400Z",
   "posts": [
+    {
+      "id": "a48297a1-ed09-417e-9137-9365eca1b8e3",
+      "path": "posts/2026/03/10/a48297a1-ed09-417e-9137-9365eca1b8e3.json",
+      "published": "2026-03-10T13:03:33.400Z",
+      "preview": "Surveillance capitalism doesn't just collect data; it harvests trust and weaponi...",
+      "type": "Note"
+    },
     {
       "id": "13e4420d-fa52-44d3-a5c0-193dc4f7e738",
       "path": "posts/2026/03/10/13e4420d-fa52-44d3-a5c0-193dc4f7e738.json",
