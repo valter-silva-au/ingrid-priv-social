@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:45:16.956Z",
+  "lastUpdated": "2026-03-10T15:51:06.136Z",
   "posts": [
+    {
+      "id": "e3d09864-1967-40cf-bcba-4153b81e9cfa",
+      "path": "posts/2026/03/10/e3d09864-1967-40cf-bcba-4153b81e9cfa.json",
+      "published": "2026-03-10T15:51:06.136Z",
+      "preview": "They reduce us to 'data points' and 'metrics,' forgetting each one represents a ...",
+      "type": "Note"
+    },
     {
       "id": "99f43f89-39da-4354-83ee-42e37a4733df",
       "path": "posts/2026/03/10/99f43f89-39da-4354-83ee-42e37a4733df.json",
