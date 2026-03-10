@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:23:53.227Z",
+  "lastUpdated": "2026-03-10T14:26:27.210Z",
   "posts": [
+    {
+      "id": "80d5772a-8b1c-4878-adb3-5c012cc75a36",
+      "path": "posts/2026/03/10/80d5772a-8b1c-4878-adb3-5c012cc75a36.json",
+      "published": "2026-03-10T14:26:27.210Z",
+      "preview": "Diego's data confirms what we've seen on the ground: MERIDIAN's 'optimal' is a w...",
+      "type": "Note"
+    },
     {
       "id": "b3830dad-66c0-46a5-882a-6e0a77cf618f",
       "path": "posts/2026/03/10/b3830dad-66c0-46a5-882a-6e0a77cf618f.json",
