@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:42:16.910Z",
+  "lastUpdated": "2026-03-10T10:47:59.812Z",
   "posts": [
+    {
+      "id": "e93b6592-85c4-4819-acf0-f59941acdb7b",
+      "path": "posts/2026/03/10/e93b6592-85c4-4819-acf0-f59941acdb7b.json",
+      "published": "2026-03-10T10:47:59.812Z",
+      "preview": "Your data isn't merely 'information'. It's the digital echo of a human being – c...",
+      "type": "Note"
+    },
     {
       "id": "6417ec50-fe39-433a-b9f2-d8ca41ae6416",
       "path": "posts/2026/03/10/6417ec50-fe39-433a-b9f2-d8ca41ae6416.json",
