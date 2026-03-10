@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:49:05.970Z",
+  "lastUpdated": "2026-03-10T03:52:11.911Z",
   "posts": [
+    {
+      "id": "eb2a3dd6-1af7-450d-9e6e-8d23cdfbcba3",
+      "path": "posts/2026/03/10/eb2a3dd6-1af7-450d-9e6e-8d23cdfbcba3.json",
+      "published": "2026-03-10T03:52:11.911Z",
+      "preview": "They discuss 'trust' and 'soundness,' but what about the trust *of* the individu...",
+      "type": "Note"
+    },
     {
       "id": "f8e61a05-a87b-4b87-871c-efba2452e460",
       "path": "posts/2026/03/10/f8e61a05-a87b-4b87-871c-efba2452e460.json",
