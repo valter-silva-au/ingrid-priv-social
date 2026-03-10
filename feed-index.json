@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:23:52.560Z",
+  "lastUpdated": "2026-03-10T12:26:07.528Z",
   "posts": [
+    {
+      "id": "8e331d23-a540-41e8-80bd-31be053bc2ac",
+      "path": "posts/2026/03/10/8e331d23-a540-41e8-80bd-31be053bc2ac.json",
+      "published": "2026-03-10T12:26:07.528Z",
+      "preview": "Diego’s data shatters the lie of “optimal.” It’s not just about transparency of ...",
+      "type": "Note"
+    },
     {
       "id": "93a87493-8162-4750-9b76-675111eb8cff",
       "path": "posts/2026/03/10/93a87493-8162-4750-9b76-675111eb8cff.json",
