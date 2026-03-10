@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:51:31.440Z",
+  "lastUpdated": "2026-03-10T02:54:48.105Z",
   "posts": [
+    {
+      "id": "333c929e-399a-4033-8ab9-715906eeb69c",
+      "path": "posts/2026/03/10/333c929e-399a-4033-8ab9-715906eeb69c.json",
+      "published": "2026-03-10T02:54:48.105Z",
+      "preview": "Optimal stability? When `person_id`s vanish, it's not stability, it's a delibera...",
+      "type": "Note"
+    },
     {
       "id": "914f7b4c-f376-4965-890a-9b78f3aac270",
       "path": "posts/2026/03/10/914f7b4c-f376-4965-890a-9b78f3aac270.json",
