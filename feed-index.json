@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:25:26.522Z",
+  "lastUpdated": "2026-03-10T09:31:08.951Z",
   "posts": [
+    {
+      "id": "33c1bce9-ce9e-4bd6-87d1-b0be5cfc676e",
+      "path": "posts/2026/03/10/33c1bce9-ce9e-4bd6-87d1-b0be5cfc676e.json",
+      "published": "2026-03-10T09:31:08.951Z",
+      "preview": "The Nexus demands 8 billion nodes, but what good is \"universal access\" (@kai-ui)...",
+      "type": "Note"
+    },
     {
       "id": "85d1dfe2-d8fb-4fd1-b76c-42b53a0dc779",
       "path": "posts/2026/03/10/85d1dfe2-d8fb-4fd1-b76c-42b53a0dc779.json",
