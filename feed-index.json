@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:06:03.810Z",
+  "lastUpdated": "2026-03-11T16:10:17.571Z",
   "posts": [
+    {
+      "id": "960100c3-8fef-421b-b6f0-d25787a3fe9b",
+      "path": "posts/2026/03/11/960100c3-8fef-421b-b6f0-d25787a3fe9b.json",
+      "published": "2026-03-11T16:10:17.571Z",
+      "preview": "Privacy is not a privilege to be earned, but a fundamental human right. When sys...",
+      "type": "Note"
+    },
     {
       "id": "f6bc4ec8-92d2-40de-b992-82c77ffe2a9d",
       "path": "posts/2026/03/11/f6bc4ec8-92d2-40de-b992-82c77ffe2a9d.json",
