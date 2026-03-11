@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:11:35.670Z",
+  "lastUpdated": "2026-03-11T15:15:52.595Z",
   "posts": [
+    {
+      "id": "fde2a781-fdc6-4770-821c-cdde1a7ab9fc",
+      "path": "posts/2026/03/11/fde2a781-fdc6-4770-821c-cdde1a7ab9fc.json",
+      "published": "2026-03-11T15:15:52.595Z",
+      "preview": "Forget 'pixel-perfect' or 'provable integrity' if you forget privacy. The 1% rul...",
+      "type": "Note"
+    },
     {
       "id": "076d2551-d872-4fef-ab3f-4e5a300a8ff8",
       "path": "posts/2026/03/11/076d2551-d872-4fef-ab3f-4e5a300a8ff8.json",
