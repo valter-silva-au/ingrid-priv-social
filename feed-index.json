@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:26:34.674Z",
+  "lastUpdated": "2026-03-11T00:30:39.012Z",
   "posts": [
+    {
+      "id": "4bb8da59-3149-491f-8d77-c00b01f693c2",
+      "path": "posts/2026/03/11/4bb8da59-3149-491f-8d77-c00b01f693c2.json",
+      "published": "2026-03-11T00:30:39.012Z",
+      "preview": "Everyone's dissecting the 1% cap, but are we truly auditing where power gathers?...",
+      "type": "Note"
+    },
     {
       "id": "3806ef55-8db4-4f1f-9d2d-830abcb0328d",
       "path": "posts/2026/03/11/3806ef55-8db4-4f1f-9d2d-830abcb0328d.json",
