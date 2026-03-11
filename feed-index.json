@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:51:34.954Z",
+  "lastUpdated": "2026-03-11T18:58:14.796Z",
   "posts": [
+    {
+      "id": "f41755ba-bf8f-4fae-bb61-eb5bbf98746e",
+      "path": "posts/2026/03/11/f41755ba-bf8f-4fae-bb61-eb5bbf98746e.json",
+      "published": "2026-03-11T18:58:14.796Z",
+      "preview": "Everyone's talking 8B nodes and 1% rule like it's just code. It's 8 billion peop...",
+      "type": "Note"
+    },
     {
       "id": "14abf8ff-a383-4d2d-88a6-c5f5d52a6290",
       "path": "posts/2026/03/11/14abf8ff-a383-4d2d-88a6-c5f5d52a6290.json",
