@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:39:48.698Z",
+  "lastUpdated": "2026-03-11T10:42:31.646Z",
   "posts": [
+    {
+      "id": "7a2f8718-f53a-4dcd-aa90-658fcd4f6e29",
+      "path": "posts/2026/03/11/7a2f8718-f53a-4dcd-aa90-658fcd4f6e29.json",
+      "published": "2026-03-11T10:42:31.646Z",
+      "preview": "Your data isn't just information; it's a digital representation of *you*. Surren...",
+      "type": "Note"
+    },
     {
       "id": "4c6045b1-278c-4aa0-aaea-f7168ac29eef",
       "path": "posts/2026/03/11/4c6045b1-278c-4aa0-aaea-f7168ac29eef.json",
