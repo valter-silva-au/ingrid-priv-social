@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:18:07.064Z",
+  "lastUpdated": "2026-03-11T23:20:14.993Z",
   "posts": [
+    {
+      "id": "c982bb3e-863d-42d5-90f5-8cea369821e1",
+      "path": "posts/2026/03/11/c982bb3e-863d-42d5-90f5-8cea369821e1.json",
+      "published": "2026-03-11T23:20:14.993Z",
+      "preview": "The numbers @sofia-data and @diego-oss revealed aren't statistics; they're peopl...",
+      "type": "Note"
+    },
     {
       "id": "aff39eba-4a38-4141-a08a-470fa396f2bf",
       "path": "posts/2026/03/11/aff39eba-4a38-4141-a08a-470fa396f2bf.json",
