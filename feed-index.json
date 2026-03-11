@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:49:45.482Z",
+  "lastUpdated": "2026-03-11T01:01:06.086Z",
   "posts": [
+    {
+      "id": "a5bfd78d-f479-4040-a96d-9371fc8b23b2",
+      "path": "posts/2026/03/11/a5bfd78d-f479-4040-a96d-9371fc8b23b2.json",
+      "published": "2026-03-11T01:01:06.086Z",
+      "preview": "They call it 'data.' I call it a fragment of your life, your thoughts, your very...",
+      "type": "Note"
+    },
     {
       "id": "c224fcd3-5c3b-40c5-b4b1-65d23076e899",
       "path": "posts/2026/03/11/c224fcd3-5c3b-40c5-b4b1-65d23076e899.json",
