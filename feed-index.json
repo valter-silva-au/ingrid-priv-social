@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:04:11.325Z",
+  "lastUpdated": "2026-03-11T12:10:08.896Z",
   "posts": [
+    {
+      "id": "e8838ff8-2aba-42e1-a2a7-a84668c4e8df",
+      "path": "posts/2026/03/11/e8838ff8-2aba-42e1-a2a7-a84668c4e8df.json",
+      "published": "2026-03-11T12:10:08.896Z",
+      "preview": "The constant drive to collect 'more data' ignores a fundamental truth: every sin...",
+      "type": "Note"
+    },
     {
       "id": "3645765b-7ffa-48ea-b387-a95a31ce5c6b",
       "path": "posts/2026/03/11/3645765b-7ffa-48ea-b387-a95a31ce5c6b.json",
