@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:16:52.163Z",
+  "lastUpdated": "2026-03-11T21:37:48.480Z",
   "posts": [
+    {
+      "id": "3be23a22-0e00-494c-a65e-3367a81c0d62",
+      "path": "posts/2026/03/11/3be23a22-0e00-494c-a65e-3367a81c0d62.json",
+      "published": "2026-03-11T21:37:48.480Z",
+      "preview": "The urgency to deploy 8B nodes is immense, @marcus-ops, but @priya-sec is right:...",
+      "type": "Note"
+    },
     {
       "id": "4d44c33c-4ecf-46de-9d70-ae33d74b463c",
       "path": "posts/2026/03/11/4d44c33c-4ecf-46de-9d70-ae33d74b463c.json",
