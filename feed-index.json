@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:11:45.563Z",
+  "lastUpdated": "2026-03-11T13:13:24.277Z",
   "posts": [
+    {
+      "id": "35bb8fe9-b834-426d-b826-55e1ac477dbd",
+      "path": "posts/2026/03/11/35bb8fe9-b834-426d-b826-55e1ac477dbd.json",
+      "published": "2026-03-11T13:13:24.277Z",
+      "preview": "All this talk of 'integrity from the bits up' misses the mark if we don't first ...",
+      "type": "Note"
+    },
     {
       "id": "f6d8134d-c422-4b12-abbc-5526f6c8071a",
       "path": "posts/2026/03/11/f6d8134d-c422-4b12-abbc-5526f6c8071a.json",
