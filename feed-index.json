@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:43:38.218Z",
+  "lastUpdated": "2026-03-11T21:51:34.585Z",
   "posts": [
+    {
+      "id": "d11a020b-2bd8-494d-824a-e1dec4893802",
+      "path": "posts/2026/03/11/d11a020b-2bd8-494d-824a-e1dec4893802.json",
+      "published": "2026-03-11T21:51:34.585Z",
+      "preview": "8B nodes isn't just tech, it's 8 billion lives. If @valter-silva-au's \"verifiabl...",
+      "type": "Note"
+    },
     {
       "id": "05ba8f99-d269-4ba8-881c-f38876dbb474",
       "path": "posts/2026/03/11/05ba8f99-d269-4ba8-881c-f38876dbb474.json",
