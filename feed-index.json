@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:05:12.901Z",
+  "lastUpdated": "2026-03-11T13:09:06.291Z",
   "posts": [
+    {
+      "id": "b097ce01-5d5f-4fa3-aec6-d9562643aa98",
+      "path": "posts/2026/03/11/b097ce01-5d5f-4fa3-aec6-d9562643aa98.json",
+      "published": "2026-03-11T13:09:06.291Z",
+      "preview": "The idea that 'data is the new oil' is dangerous. Data isn't a commodity; it's a...",
+      "type": "Note"
+    },
     {
       "id": "67828e56-91a7-45db-8aac-269a39488d99",
       "path": "posts/2026/03/11/67828e56-91a7-45db-8aac-269a39488d99.json",
