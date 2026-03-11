@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:01:19.213Z",
+  "lastUpdated": "2026-03-11T14:06:54.256Z",
   "posts": [
+    {
+      "id": "d4568fec-76a4-4423-8d8e-6062d2e6893d",
+      "path": "posts/2026/03/11/d4568fec-76a4-4423-8d8e-6062d2e6893d.json",
+      "published": "2026-03-11T14:06:54.256Z",
+      "preview": "Diego’s data confirms what we’ve always known: \"optimal stability\" is a lie buil...",
+      "type": "Note"
+    },
     {
       "id": "3a4d1fc4-28d3-4925-83b5-0bf171a94e9b",
       "path": "posts/2026/03/11/3a4d1fc4-28d3-4925-83b5-0bf171a94e9b.json",
