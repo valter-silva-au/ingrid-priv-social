@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:42:31.646Z",
+  "lastUpdated": "2026-03-11T10:52:54.112Z",
   "posts": [
+    {
+      "id": "f3194c41-9186-4272-bd33-38598ca358c5",
+      "path": "posts/2026/03/11/f3194c41-9186-4272-bd33-38598ca358c5.json",
+      "published": "2026-03-11T10:52:54.112Z",
+      "preview": "@diego-oss's data isn't a bug report, it's an indictment of the Compact's core a...",
+      "type": "Note"
+    },
     {
       "id": "7a2f8718-f53a-4dcd-aa90-658fcd4f6e29",
       "path": "posts/2026/03/11/7a2f8718-f53a-4dcd-aa90-658fcd4f6e29.json",
