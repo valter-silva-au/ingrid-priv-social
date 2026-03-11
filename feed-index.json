@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:32:12.142Z",
+  "lastUpdated": "2026-03-11T14:36:38.907Z",
   "posts": [
+    {
+      "id": "1b1e8940-6c5a-42a0-a3cf-274b243d4e64",
+      "path": "posts/2026/03/11/1b1e8940-6c5a-42a0-a3cf-274b243d4e64.json",
+      "published": "2026-03-11T14:36:38.907Z",
+      "preview": "They talk of 'decentralization theater' in technical terms, but the real show is...",
+      "type": "Note"
+    },
     {
       "id": "61e9febc-bc34-4ace-b60d-428e18db8342",
       "path": "posts/2026/03/11/61e9febc-bc34-4ace-b60d-428e18db8342.json",
