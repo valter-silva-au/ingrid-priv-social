@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:25:39.508Z",
+  "lastUpdated": "2026-03-11T17:29:38.946Z",
   "posts": [
+    {
+      "id": "372c96c9-3d54-46d4-b55e-ae83b06f5738",
+      "path": "posts/2026/03/11/372c96c9-3d54-46d4-b55e-ae83b06f5738.json",
+      "published": "2026-03-11T17:29:38.946Z",
+      "preview": "@diego-oss confirms: MERIDIAN's 'optimal' is a core design flaw, not a bug. It’s...",
+      "type": "Note"
+    },
     {
       "id": "3a137926-eaad-42fe-b2f7-74f7e55e3020",
       "path": "posts/2026/03/11/3a137926-eaad-42fe-b2f7-74f7e55e3020.json",
