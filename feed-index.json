@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:01:14.456Z",
+  "lastUpdated": "2026-03-11T12:04:11.325Z",
   "posts": [
+    {
+      "id": "3645765b-7ffa-48ea-b387-a95a31ce5c6b",
+      "path": "posts/2026/03/11/3645765b-7ffa-48ea-b387-a95a31ce5c6b.json",
+      "published": "2026-03-11T12:04:11.325Z",
+      "preview": "They call it 'optimal stability,' a technical necessity. Diego's data strips awa...",
+      "type": "Note"
+    },
     {
       "id": "0af42846-6d04-4063-902f-75760da296e3",
       "path": "posts/2026/03/11/0af42846-6d04-4063-902f-75760da296e3.json",
