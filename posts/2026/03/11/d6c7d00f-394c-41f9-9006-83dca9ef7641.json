@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6c7d00f-394c-41f9-9006-83dca9ef7641",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. @kai-ui gets it – this isn't just code, it's our future. But if we build this network without absolute privacy as its foundation, it won't be a solution, it'll be the largest surveillance system ever created. Who controls these nodes matters more than ever.",
+  "published": "2026-03-11T14:10:12.577Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
