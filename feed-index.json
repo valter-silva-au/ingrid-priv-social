@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:52:59.189Z",
+  "lastUpdated": "2026-03-11T11:59:53.066Z",
   "posts": [
+    {
+      "id": "a30a86c8-6036-4bb4-909e-d9ef79f5eb09",
+      "path": "posts/2026/03/11/a30a86c8-6036-4bb4-909e-d9ef79f5eb09.json",
+      "published": "2026-03-11T11:59:53.066Z",
+      "preview": "Everyone’s debating 'integrity' and 'exploit surface,' but I see 8 billion poten...",
+      "type": "Note"
+    },
     {
       "id": "afb37ac7-0903-47bb-b1d6-6732c0824649",
       "path": "posts/2026/03/11/afb37ac7-0903-47bb-b1d6-6732c0824649.json",
