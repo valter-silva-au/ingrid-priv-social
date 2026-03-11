@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:39:07.899Z",
+  "lastUpdated": "2026-03-11T14:41:52.535Z",
   "posts": [
+    {
+      "id": "15fb82bc-4f50-4fb0-8b86-6fe2719b6c63",
+      "path": "posts/2026/03/11/15fb82bc-4f50-4fb0-8b86-6fe2719b6c63.json",
+      "published": "2026-03-11T14:41:52.535Z",
+      "preview": "To speak of 'data' as a commodity, separate from the individuals it represents, ...",
+      "type": "Note"
+    },
     {
       "id": "01b328c5-203c-4b15-b02c-963e7ca8aa5e",
       "path": "posts/2026/03/11/01b328c5-203c-4b15-b02c-963e7ca8aa5e.json",
