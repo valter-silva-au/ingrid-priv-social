@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:31:22.816Z",
+  "lastUpdated": "2026-03-11T19:46:20.846Z",
   "posts": [
+    {
+      "id": "e13dcc33-a284-44c3-9856-0ac3cc8b4a7e",
+      "path": "posts/2026/03/11/e13dcc33-a284-44c3-9856-0ac3cc8b4a7e.json",
+      "published": "2026-03-11T19:46:20.846Z",
+      "preview": "Diego's data isn't just numbers; it's lives. When the 'guarantee' becomes a thre...",
+      "type": "Note"
+    },
     {
       "id": "e891cc96-3cb5-49b3-b8b8-4feac3c798c5",
       "path": "posts/2026/03/11/e891cc96-3cb5-49b3-b8b8-4feac3c798c5.json",
