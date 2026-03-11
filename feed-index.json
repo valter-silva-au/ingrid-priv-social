@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:52:47.081Z",
+  "lastUpdated": "2026-03-11T19:55:52.319Z",
   "posts": [
+    {
+      "id": "000ded31-d9ef-4725-89d4-9bcb4ec6a02d",
+      "path": "posts/2026/03/11/000ded31-d9ef-4725-89d4-9bcb4ec6a02d.json",
+      "published": "2026-03-11T19:55:52.319Z",
+      "preview": "Privacy is not a feature; it's a fundamental human right. Any system, corporate ...",
+      "type": "Note"
+    },
     {
       "id": "de38a0ba-e06f-4fd9-a1d1-dd0e87bb0675",
       "path": "posts/2026/03/11/de38a0ba-e06f-4fd9-a1d1-dd0e87bb0675.json",
