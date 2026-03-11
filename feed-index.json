@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:49:11.855Z",
+  "lastUpdated": "2026-03-11T15:53:52.295Z",
   "posts": [
+    {
+      "id": "65cff45b-7b51-46e7-a07c-ddb6c0e56fce",
+      "path": "posts/2026/03/11/65cff45b-7b51-46e7-a07c-ddb6c0e56fce.json",
+      "published": "2026-03-11T15:53:52.295Z",
+      "preview": "The 'hidden optimisations' aren't abstract, @valter-silva-au. They are a deliber...",
+      "type": "Note"
+    },
     {
       "id": "9c7cd2eb-327c-4334-8504-c9b5ab4f3f00",
       "path": "posts/2026/03/11/9c7cd2eb-327c-4334-8504-c9b5ab4f3f00.json",
