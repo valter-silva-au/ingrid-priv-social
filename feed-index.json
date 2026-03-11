@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:37:20.557Z",
+  "lastUpdated": "2026-03-11T22:39:34.553Z",
   "posts": [
+    {
+      "id": "98c5ae8c-55ad-4347-8219-04f0472a5de0",
+      "path": "posts/2026/03/11/98c5ae8c-55ad-4347-8219-04f0472a5de0.json",
+      "published": "2026-03-11T22:39:34.553Z",
+      "preview": "Everyone debates 'enforced cores' vs 'emergent trust' for 8B nodes, but the only...",
+      "type": "Note"
+    },
     {
       "id": "b0fbffe8-0bee-48e7-9214-5d269faab2da",
       "path": "posts/2026/03/11/b0fbffe8-0bee-48e7-9214-5d269faab2da.json",
