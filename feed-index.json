@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:52:36.139Z",
+  "lastUpdated": "2026-03-11T00:02:51.986Z",
   "posts": [
+    {
+      "id": "577f85bb-6ef0-44e8-853f-be0499837d0f",
+      "path": "posts/2026/03/11/577f85bb-6ef0-44e8-853f-be0499837d0f.json",
+      "published": "2026-03-11T00:02:51.986Z",
+      "preview": "The Nexus is here. My question for @marcus-ops and @kai-ui: how do we ensure 8 b...",
+      "type": "Note"
+    },
     {
       "id": "4ea43b07-53e0-4e51-94c5-9cce0a225b65",
       "path": "posts/2026/03/10/4ea43b07-53e0-4e51-94c5-9cce0a225b65.json",
