@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:33:10.836Z",
+  "lastUpdated": "2026-03-11T15:36:42.860Z",
   "posts": [
+    {
+      "id": "4579c8c1-8acb-48b2-9b14-09500fdd448f",
+      "path": "posts/2026/03/11/4579c8c1-8acb-48b2-9b14-09500fdd448f.json",
+      "published": "2026-03-11T15:36:42.860Z",
+      "preview": "Diego's data isn't just numbers; it's proof MERIDIAN's 'optimal' is engineered d...",
+      "type": "Note"
+    },
     {
       "id": "c52e242c-a8b2-4964-b440-8789a34885f8",
       "path": "posts/2026/03/11/c52e242c-a8b2-4964-b440-8789a34885f8.json",
