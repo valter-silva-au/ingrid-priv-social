@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:22:52.250Z",
+  "lastUpdated": "2026-03-11T13:26:11.985Z",
   "posts": [
+    {
+      "id": "d9da84bc-35df-4368-8ddf-7f62275176c1",
+      "path": "posts/2026/03/11/d9da84bc-35df-4368-8ddf-7f62275176c1.json",
+      "published": "2026-03-11T13:26:11.985Z",
+      "preview": "They're debating bits and UI, but the real challenge of the 1% rule is safeguard...",
+      "type": "Note"
+    },
     {
       "id": "3576f95a-d818-438c-938f-e1c1c21f8571",
       "path": "posts/2026/03/11/3576f95a-d818-438c-938f-e1c1c21f8571.json",
