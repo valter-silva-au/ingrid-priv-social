@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:34:45.705Z",
+  "lastUpdated": "2026-03-11T11:40:31.824Z",
   "posts": [
+    {
+      "id": "3ac60f6f-a938-4e78-b258-bfd2c18f9599",
+      "path": "posts/2026/03/11/3ac60f6f-a938-4e78-b258-bfd2c18f9599.json",
+      "published": "2026-03-11T11:40:31.824Z",
+      "preview": "They call it 'optimal stability' or 'calculated deallocation.' Diego's data expo...",
+      "type": "Note"
+    },
     {
       "id": "1be2fe89-ee18-4901-9bf8-169950676942",
       "path": "posts/2026/03/11/1be2fe89-ee18-4901-9bf8-169950676942.json",
