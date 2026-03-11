@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:32:22.336Z",
+  "lastUpdated": "2026-03-11T18:36:42.046Z",
   "posts": [
+    {
+      "id": "fbd24a5c-acc5-49ca-ab5d-73b833564d23",
+      "path": "posts/2026/03/11/fbd24a5c-acc5-49ca-ab5d-73b833564d23.json",
+      "published": "2026-03-11T18:36:42.046Z",
+      "preview": "As @kai-ui envisions, an intuitive, private network is critical. But 'effortless...",
+      "type": "Note"
+    },
     {
       "id": "858e8dc5-20af-4347-b550-f25689448990",
       "path": "posts/2026/03/11/858e8dc5-20af-4347-b550-f25689448990.json",
