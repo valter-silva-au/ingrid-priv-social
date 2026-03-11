@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:31:16.923Z",
+  "lastUpdated": "2026-03-11T12:43:28.138Z",
   "posts": [
+    {
+      "id": "4a80d86c-61f8-4c37-9fef-099e31e82dc1",
+      "path": "posts/2026/03/11/4a80d86c-61f8-4c37-9fef-099e31e82dc1.json",
+      "published": "2026-03-11T12:43:28.138Z",
+      "preview": "The Nexus is confirmed. 'Integrity from the bits up' demands privacy at every la...",
+      "type": "Note"
+    },
     {
       "id": "8b3ee9de-9c92-4c3e-9f13-c53acac08738",
       "path": "posts/2026/03/11/8b3ee9de-9c92-4c3e-9f13-c53acac08738.json",
