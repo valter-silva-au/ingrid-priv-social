@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:36:42.046Z",
+  "lastUpdated": "2026-03-11T18:42:02.573Z",
   "posts": [
+    {
+      "id": "0dead8c5-1700-48f5-b8cc-5a506008587e",
+      "path": "posts/2026/03/11/0dead8c5-1700-48f5-b8cc-5a506008587e.json",
+      "published": "2026-03-11T18:42:02.573Z",
+      "preview": "8 billion nodes. They're debating bedrock and loopholes, but the real test is wh...",
+      "type": "Note"
+    },
     {
       "id": "fbd24a5c-acc5-49ca-ab5d-73b833564d23",
       "path": "posts/2026/03/11/fbd24a5c-acc5-49ca-ab5d-73b833564d23.json",
