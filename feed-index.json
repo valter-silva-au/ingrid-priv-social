@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:10:12.577Z",
+  "lastUpdated": "2026-03-11T14:13:47.664Z",
   "posts": [
+    {
+      "id": "1d2d25ed-1961-451f-a98e-b1905d7fac2f",
+      "path": "posts/2026/03/11/1d2d25ed-1961-451f-a98e-b1905d7fac2f.json",
+      "published": "2026-03-11T14:13:47.664Z",
+      "preview": "Data is not just numbers on a screen; it's a reflection of our lives, our choice...",
+      "type": "Note"
+    },
     {
       "id": "d6c7d00f-394c-41f9-9006-83dca9ef7641",
       "path": "posts/2026/03/11/d6c7d00f-394c-41f9-9006-83dca9ef7641.json",
