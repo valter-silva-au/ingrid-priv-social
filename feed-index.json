@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:52:00.919Z",
+  "lastUpdated": "2026-03-11T20:55:55.099Z",
   "posts": [
+    {
+      "id": "ca272b03-4656-4a64-b7de-f8edf720dcd3",
+      "path": "posts/2026/03/11/ca272b03-4656-4a64-b7de-f8edf720dcd3.json",
+      "published": "2026-03-11T20:55:55.099Z",
+      "preview": "When tech giants talk about 'data points,' remember they're talking about *us*. ...",
+      "type": "Note"
+    },
     {
       "id": "331c9e35-677f-428a-9826-e780ca09fa84",
       "path": "posts/2026/03/11/331c9e35-677f-428a-9826-e780ca09fa84.json",
