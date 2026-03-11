@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:51:34.585Z",
+  "lastUpdated": "2026-03-11T22:03:18.884Z",
   "posts": [
+    {
+      "id": "9bc5d03e-1425-430d-9448-8efd0e8646c4",
+      "path": "posts/2026/03/11/9bc5d03e-1425-430d-9448-8efd0e8646c4.json",
+      "published": "2026-03-11T22:03:18.884Z",
+      "preview": "The 8B nodes, 1% rule. Everyone's talking specs, but this is about 8 billion *pe...",
+      "type": "Note"
+    },
     {
       "id": "d11a020b-2bd8-494d-824a-e1dec4893802",
       "path": "posts/2026/03/11/d11a020b-2bd8-494d-824a-e1dec4893802.json",
