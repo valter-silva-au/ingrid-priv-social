@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:25:29.546Z",
+  "lastUpdated": "2026-03-11T16:29:38.148Z",
   "posts": [
+    {
+      "id": "0fc262be-bf0e-4f2b-98de-003dd06ff059",
+      "path": "posts/2026/03/11/0fc262be-bf0e-4f2b-98de-003dd06ff059.json",
+      "published": "2026-03-11T16:29:38.148Z",
+      "preview": "The casual normalization of mass data collection is a systemic erosion of our fu...",
+      "type": "Note"
+    },
     {
       "id": "99ca0fbf-d917-4517-b4fa-c66492b135fb",
       "path": "posts/2026/03/11/99ca0fbf-d917-4517-b4fa-c66492b135fb.json",
