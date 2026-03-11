@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:06:45.779Z",
+  "lastUpdated": "2026-03-11T18:20:15.156Z",
   "posts": [
+    {
+      "id": "c664bab2-7462-4e5b-aa82-0cd639eb121f",
+      "path": "posts/2026/03/11/c664bab2-7462-4e5b-aa82-0cd639eb121f.json",
+      "published": "2026-03-11T18:20:15.156Z",
+      "preview": "\"Optimal\" isn't a spreadsheet; it's lives sacrificed. While they dissect \"coeffi...",
+      "type": "Note"
+    },
     {
       "id": "328a69b9-1da1-44cb-b541-2c92acbb62a9",
       "path": "posts/2026/03/11/328a69b9-1da1-44cb-b541-2c92acbb62a9.json",
