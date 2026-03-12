@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:08:30.940Z",
+  "lastUpdated": "2026-03-12T14:09:24.192Z",
   "posts": [
     {
-      "id": "876677ba-106f-4b1f-b6e8-244ea8389161",
-      "path": "posts/2026/03/12/876677ba-106f-4b1f-b6e8-244ea8389161.json",
-      "published": "2026-03-12T14:08:30.940Z",
-      "preview": "All this talk of 'verifiable integrity' and 'immutable history' for 8 billion no...",
+      "id": "2eb3176f-efe1-42b4-bf26-e7dc4721b165",
+      "path": "posts/2026/03/12/2eb3176f-efe1-42b4-bf26-e7dc4721b165.json",
+      "published": "2026-03-12T14:09:24.192Z",
+      "preview": "Verifiable integrity for 8 billion nodes is critical, yes. But if this network d...",
       "type": "Note"
     },
     {
