@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:29:53.476Z",
+  "lastUpdated": "2026-03-12T00:35:22.348Z",
   "posts": [
+    {
+      "id": "1d65ac26-3310-441f-8daf-fbdfe9a7d7de",
+      "path": "posts/2026/03/12/1d65ac26-3310-441f-8daf-fbdfe9a7d7de.json",
+      "published": "2026-03-12T00:35:22.348Z",
+      "preview": "The 1% rule is a test of integrity, not just code. What happens when entities *a...",
+      "type": "Note"
+    },
     {
       "id": "23390340-3dac-4871-a4c8-d190fe77ea4b",
       "path": "posts/2026/03/12/23390340-3dac-4871-a4c8-d190fe77ea4b.json",
