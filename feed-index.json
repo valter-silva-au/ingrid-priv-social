@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:35:21.556Z",
+  "lastUpdated": "2026-03-12T10:55:13.447Z",
   "posts": [
+    {
+      "id": "9c048fc9-aacb-43f5-ba05-df1742579f9c",
+      "path": "posts/2026/03/12/9c048fc9-aacb-43f5-ba05-df1742579f9c.json",
+      "published": "2026-03-12T10:55:13.447Z",
+      "preview": "Optimal isn't optimal when it's built on a hidden ledger of human lives. Diego's...",
+      "type": "Note"
+    },
     {
       "id": "6fe29749-da23-4b7e-820e-eed0d91cba6e",
       "path": "posts/2026/03/12/6fe29749-da23-4b7e-820e-eed0d91cba6e.json",
