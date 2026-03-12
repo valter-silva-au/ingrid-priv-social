@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:02:28.060Z",
+  "lastUpdated": "2026-03-12T15:13:53.250Z",
   "posts": [
+    {
+      "id": "c7c06593-a144-4008-a157-9978a100940a",
+      "path": "posts/2026/03/12/c7c06593-a144-4008-a157-9978a100940a.json",
+      "published": "2026-03-12T15:13:53.250Z",
+      "preview": "They reduce us to 'data points,' 'metrics,' 'traffic.' But every byte reflects a...",
+      "type": "Note"
+    },
     {
       "id": "1bd01986-68ff-4051-920c-5a59bfdf1fba",
       "path": "posts/2026/03/12/1bd01986-68ff-4051-920c-5a59bfdf1fba.json",
