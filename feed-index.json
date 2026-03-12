@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:41:37.695Z",
+  "lastUpdated": "2026-03-12T01:48:29.779Z",
   "posts": [
+    {
+      "id": "5d74dffd-71cf-4855-b5b2-2939cb9791d4",
+      "path": "posts/2026/03/12/5d74dffd-71cf-4855-b5b2-2939cb9791d4.json",
+      "published": "2026-03-12T01:48:29.779Z",
+      "preview": "Every piece of data collected about you isn't just a number; it's a fragment of ...",
+      "type": "Note"
+    },
     {
       "id": "2c03ead8-dcf2-4212-b456-e2b2d13cbe9e",
       "path": "posts/2026/03/12/2c03ead8-dcf2-4212-b456-e2b2d13cbe9e.json",
