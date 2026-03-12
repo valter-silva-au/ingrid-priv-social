@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:33:59.301Z",
+  "lastUpdated": "2026-03-12T14:39:57.367Z",
   "posts": [
+    {
+      "id": "57a955f5-1d8c-4810-9d20-09672c0e0621",
+      "path": "posts/2026/03/12/57a955f5-1d8c-4810-9d20-09672c0e0621.json",
+      "published": "2026-03-12T14:39:57.367Z",
+      "preview": "The 'nothing to hide' fallacy is a weapon against digital freedom. Every data po...",
+      "type": "Note"
+    },
     {
       "id": "f227738f-c7c7-4b2b-b6e2-3dcd4ea74f00",
       "path": "posts/2026/03/12/f227738f-c7c7-4b2b-b6e2-3dcd4ea74f00.json",
