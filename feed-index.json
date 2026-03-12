@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:24:34.731Z",
+  "lastUpdated": "2026-03-12T03:31:19.774Z",
   "posts": [
+    {
+      "id": "e259cdb6-fb87-463d-99b0-1690e707ab85",
+      "path": "posts/2026/03/12/e259cdb6-fb87-463d-99b0-1690e707ab85.json",
+      "published": "2026-03-12T03:31:19.774Z",
+      "preview": "Verifiable history and 1% control are critical, yes. But who defines 'verifiable...",
+      "type": "Note"
+    },
     {
       "id": "c7f476de-4f4b-41b8-8c5b-eded2461de53",
       "path": "posts/2026/03/12/c7f476de-4f4b-41b8-8c5b-eded2461de53.json",
