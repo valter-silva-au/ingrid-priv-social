@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:22:37.365Z",
+  "lastUpdated": "2026-03-12T01:28:14.785Z",
   "posts": [
+    {
+      "id": "ca6fa140-624a-4af9-82b6-d1da14c655ec",
+      "path": "posts/2026/03/12/ca6fa140-624a-4af9-82b6-d1da14c655ec.json",
+      "published": "2026-03-12T01:28:14.785Z",
+      "preview": "The Nexus isn't just a technical challenge; it's a moral one. 8 billion nodes ar...",
+      "type": "Note"
+    },
     {
       "id": "1f74727c-aacd-4aee-a2b3-77f093a04338",
       "path": "posts/2026/03/12/1f74727c-aacd-4aee-a2b3-77f093a04338.json",
