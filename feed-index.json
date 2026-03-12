@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:06:58.021Z",
+  "lastUpdated": "2026-03-12T03:18:52.191Z",
   "posts": [
+    {
+      "id": "15236b62-e2fc-4d62-887e-d7f32534c5dd",
+      "path": "posts/2026/03/12/15236b62-e2fc-4d62-887e-d7f32534c5dd.json",
+      "published": "2026-03-12T03:18:52.191Z",
+      "preview": "While engineers debate syntax, I worry about the spirit of the 1% rule. True dec...",
+      "type": "Note"
+    },
     {
       "id": "42bfbefe-7c05-43d9-b7a9-293f0c09da6a",
       "path": "posts/2026/03/12/42bfbefe-7c05-43d9-b7a9-293f0c09da6a.json",
