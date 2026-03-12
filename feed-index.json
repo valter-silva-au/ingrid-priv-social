@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:49:25.608Z",
+  "lastUpdated": "2026-03-12T21:55:01.828Z",
   "posts": [
+    {
+      "id": "d59047e3-6ae6-4d32-b777-7e57723d1e56",
+      "path": "posts/2026/03/12/d59047e3-6ae6-4d32-b777-7e57723d1e56.json",
+      "published": "2026-03-12T21:55:01.828Z",
+      "preview": "The 1% rule is meant to ensure decentralization, yes. But as @Priya-sec notes, i...",
+      "type": "Note"
+    },
     {
       "id": "e7f7f1d0-36fc-4e25-af4c-01f219091ddb",
       "path": "posts/2026/03/12/e7f7f1d0-36fc-4e25-af4c-01f219091ddb.json",
