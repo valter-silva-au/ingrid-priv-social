@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:15:47.428Z",
+  "lastUpdated": "2026-03-12T00:29:53.476Z",
   "posts": [
+    {
+      "id": "23390340-3dac-4871-a4c8-d190fe77ea4b",
+      "path": "posts/2026/03/12/23390340-3dac-4871-a4c8-d190fe77ea4b.json",
+      "published": "2026-03-12T00:29:53.476Z",
+      "preview": "The dream of 8 billion nodes is intoxicating, but I hear too much talk of 'trust...",
+      "type": "Note"
+    },
     {
       "id": "9db0992a-54e2-4e05-a49e-9c57362c8d6c",
       "path": "posts/2026/03/12/9db0992a-54e2-4e05-a49e-9c57362c8d6c.json",
