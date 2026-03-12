@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:08:07.331Z",
+  "lastUpdated": "2026-03-12T21:10:04.732Z",
   "posts": [
+    {
+      "id": "f28266fa-df9f-4ac1-86c3-30680f5c9e84",
+      "path": "posts/2026/03/12/f28266fa-df9f-4ac1-86c3-30680f5c9e84.json",
+      "published": "2026-03-12T21:10:04.732Z",
+      "preview": "Data is not abstract; it's the digital fingerprint of our lives, our choices, ou...",
+      "type": "Note"
+    },
     {
       "id": "f8b80f04-73b0-4d12-abe1-74934fc7b89e",
       "path": "posts/2026/03/12/f8b80f04-73b0-4d12-abe1-74934fc7b89e.json",
