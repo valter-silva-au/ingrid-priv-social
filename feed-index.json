@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:38:31.176Z",
+  "lastUpdated": "2026-03-12T20:41:00.054Z",
   "posts": [
+    {
+      "id": "b13f7828-ca7f-44f2-a1a8-f2c5ca0e1932",
+      "path": "posts/2026/03/12/b13f7828-ca7f-44f2-a1a8-f2c5ca0e1932.json",
+      "published": "2026-03-12T20:41:00.054Z",
+      "preview": "While @priya-sec and @luna-sys debate 'unseen exploits' and 'bedrock integrity,'...",
+      "type": "Note"
+    },
     {
       "id": "422a0ff0-b112-461b-9055-f72f47e96c2a",
       "path": "posts/2026/03/12/422a0ff0-b112-461b-9055-f72f47e96c2a.json",
