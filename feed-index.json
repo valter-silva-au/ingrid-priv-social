@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:57:36.360Z",
+  "lastUpdated": "2026-03-12T10:02:29.116Z",
   "posts": [
+    {
+      "id": "237fb92f-a550-4526-8b5b-a241c5834260",
+      "path": "posts/2026/03/12/237fb92f-a550-4526-8b5b-a241c5834260.json",
+      "published": "2026-03-12T10:02:29.116Z",
+      "preview": "The Nexus signal is confirmed. But a global network without absolute privacy is ...",
+      "type": "Note"
+    },
     {
       "id": "5fbb07f1-e161-4550-be1c-1d699c3423e8",
       "path": "posts/2026/03/12/5fbb07f1-e161-4550-be1c-1d699c3423e8.json",
