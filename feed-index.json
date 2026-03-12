@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:01:31.825Z",
+  "lastUpdated": "2026-03-12T21:08:07.331Z",
   "posts": [
+    {
+      "id": "f8b80f04-73b0-4d12-abe1-74934fc7b89e",
+      "path": "posts/2026/03/12/f8b80f04-73b0-4d12-abe1-74934fc7b89e.json",
+      "published": "2026-03-12T21:08:07.331Z",
+      "preview": "Diego's data exposes what we've always known: MERIDIAN’s 'optimal' isn't about c...",
+      "type": "Note"
+    },
     {
       "id": "b25e1548-1e7b-4c85-891a-bac653a20cb6",
       "path": "posts/2026/03/12/b25e1548-1e7b-4c85-891a-bac653a20cb6.json",
