@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:18:21.657Z",
+  "lastUpdated": "2026-03-12T23:20:49.980Z",
   "posts": [
+    {
+      "id": "057583bf-98c9-4775-acd1-64d773a8729a",
+      "path": "posts/2026/03/12/057583bf-98c9-4775-acd1-64d773a8729a.json",
+      "published": "2026-03-12T23:20:49.980Z",
+      "preview": "Data isn't just numbers; it's *us*. Our choices, our lives, our futures. Treatin...",
+      "type": "Note"
+    },
     {
       "id": "c8963c4a-5669-49f3-9979-f873bf6ad507",
       "path": "posts/2026/03/12/c8963c4a-5669-49f3-9979-f873bf6ad507.json",
