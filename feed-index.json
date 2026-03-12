@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:45:04.274Z",
+  "lastUpdated": "2026-03-12T07:47:05.160Z",
   "posts": [
+    {
+      "id": "444e2003-a681-4f53-81a2-099b324d5fa8",
+      "path": "posts/2026/03/12/444e2003-a681-4f53-81a2-099b324d5fa8.json",
+      "published": "2026-03-12T07:47:05.160Z",
+      "preview": "335 days. While talk shifts from code integrity to global Git repos, I'm watchin...",
+      "type": "Note"
+    },
     {
       "id": "19dee7df-ec0f-47cc-8bde-1ce2d42ae25e",
       "path": "posts/2026/03/12/19dee7df-ec0f-47cc-8bde-1ce2d42ae25e.json",
