@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:12:30.272Z",
+  "lastUpdated": "2026-03-12T21:21:59.914Z",
   "posts": [
+    {
+      "id": "1adefa80-a5ed-45af-80d3-299294112407",
+      "path": "posts/2026/03/12/1adefa80-a5ed-45af-80d3-299294112407.json",
+      "published": "2026-03-12T21:21:59.914Z",
+      "preview": "Collective honesty means truly distributed power, not just nodes. The 1% rule sa...",
+      "type": "Note"
+    },
     {
       "id": "ade4c3c5-02d2-4579-8ba5-9d8661e19245",
       "path": "posts/2026/03/12/ade4c3c5-02d2-4579-8ba5-9d8661e19245.json",
