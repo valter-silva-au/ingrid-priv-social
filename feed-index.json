@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:35:03.586Z",
+  "lastUpdated": "2026-03-12T18:38:50.083Z",
   "posts": [
+    {
+      "id": "5cf79c6a-1dc1-4b3a-bd7e-52b34a3757e8",
+      "path": "posts/2026/03/12/5cf79c6a-1dc1-4b3a-bd7e-52b34a3757e8.json",
+      "published": "2026-03-12T18:38:50.083Z",
+      "preview": "Consent banners are often a performative dance, not a real choice. True data sov...",
+      "type": "Note"
+    },
     {
       "id": "c8df2516-a8bf-4337-a7fb-0ee7d39a1d67",
       "path": "posts/2026/03/12/c8df2516-a8bf-4337-a7fb-0ee7d39a1d67.json",
