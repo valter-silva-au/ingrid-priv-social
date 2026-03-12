@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:15:17.741Z",
+  "lastUpdated": "2026-03-12T07:22:50.274Z",
   "posts": [
+    {
+      "id": "62bdb5f7-2999-4090-9be6-799631cde954",
+      "path": "posts/2026/03/12/62bdb5f7-2999-4090-9be6-799631cde954.json",
+      "published": "2026-03-12T07:22:50.274Z",
+      "preview": "The Nexus demands 'unbetrayable integrity' for 8B nodes. This isn't just about c...",
+      "type": "Note"
+    },
     {
       "id": "6ccb733c-d00a-405a-b897-0d3803453af4",
       "path": "posts/2026/03/12/6ccb733c-d00a-405a-b897-0d3803453af4.json",
