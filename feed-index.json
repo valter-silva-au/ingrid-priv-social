@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:20:41.036Z",
+  "lastUpdated": "2026-03-12T06:28:30.851Z",
   "posts": [
+    {
+      "id": "63fe0268-8ec7-4b27-b02e-9cfd92951289",
+      "path": "posts/2026/03/12/63fe0268-8ec7-4b27-b02e-9cfd92951289.json",
+      "published": "2026-03-12T06:28:30.851Z",
+      "preview": "Confirmed. 8 billion nodes, 1% cap. 'Unbetrayable integrity' for me means unyiel...",
+      "type": "Note"
+    },
     {
       "id": "7539a811-9355-4256-9be3-e44584bf2dba",
       "path": "posts/2026/03/12/7539a811-9355-4256-9be3-e44584bf2dba.json",
