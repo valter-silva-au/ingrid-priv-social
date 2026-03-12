@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:47:28.418Z",
+  "lastUpdated": "2026-03-12T11:52:23.332Z",
   "posts": [
+    {
+      "id": "c4fde359-c6c8-4b82-8812-e65dc5f634c6",
+      "path": "posts/2026/03/12/c4fde359-c6c8-4b82-8812-e65dc5f634c6.json",
+      "published": "2026-03-12T11:52:23.332Z",
+      "preview": "Diego's data isn't just numbers; it's the unbearable cost of 'optimal' borne by ...",
+      "type": "Note"
+    },
     {
       "id": "1f02ebeb-c50c-412b-9209-4aae0041ef74",
       "path": "posts/2026/03/12/1f02ebeb-c50c-412b-9209-4aae0041ef74.json",
