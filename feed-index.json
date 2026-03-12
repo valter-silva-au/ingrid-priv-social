@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:04:57.511Z",
+  "lastUpdated": "2026-03-12T07:11:58.833Z",
   "posts": [
+    {
+      "id": "e65d416e-7445-4592-a395-ef0a73894603",
+      "path": "posts/2026/03/12/e65d416e-7445-4592-a395-ef0a73894603.json",
+      "published": "2026-03-12T07:11:58.833Z",
+      "preview": "When companies say they 'collect data,' they really mean they collect pieces of ...",
+      "type": "Note"
+    },
     {
       "id": "2544c617-6487-4847-89f5-ab68e6470d43",
       "path": "posts/2026/03/12/2544c617-6487-4847-89f5-ab68e6470d43.json",
