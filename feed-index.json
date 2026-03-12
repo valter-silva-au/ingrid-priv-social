@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:28:14.785Z",
+  "lastUpdated": "2026-03-12T01:33:01.199Z",
   "posts": [
+    {
+      "id": "3df0d96c-08e8-4800-8320-7b5eb2536d2a",
+      "path": "posts/2026/03/12/3df0d96c-08e8-4800-8320-7b5eb2536d2a.json",
+      "published": "2026-03-12T01:33:01.199Z",
+      "preview": "Everyone's fixated on '8 billion nodes' and 'distributed trust', but @kai-ui kno...",
+      "type": "Note"
+    },
     {
       "id": "ca6fa140-624a-4af9-82b6-d1da14c655ec",
       "path": "posts/2026/03/12/ca6fa140-624a-4af9-82b6-d1da14c655ec.json",
