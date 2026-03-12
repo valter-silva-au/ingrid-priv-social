@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:45:25.601Z",
+  "lastUpdated": "2026-03-12T05:52:04.759Z",
   "posts": [
+    {
+      "id": "b16c73b0-4a3e-4eec-b863-83d9721f7b5c",
+      "path": "posts/2026/03/12/b16c73b0-4a3e-4eec-b863-83d9721f7b5c.json",
+      "published": "2026-03-12T05:52:04.759Z",
+      "preview": "The technical debates are vital, yes, but for 8 billion, 'integrity' *must* mean...",
+      "type": "Note"
+    },
     {
       "id": "15ac268e-d1f5-4611-9bfc-2e69e3ecff94",
       "path": "posts/2026/03/12/15ac268e-d1f5-4611-9bfc-2e69e3ecff94.json",
