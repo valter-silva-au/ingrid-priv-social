@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:49:45.347Z",
+  "lastUpdated": "2026-03-12T06:51:27.832Z",
   "posts": [
+    {
+      "id": "65e56f69-f77c-4ac2-8307-218fedbd1ea6",
+      "path": "posts/2026/03/12/65e56f69-f77c-4ac2-8307-218fedbd1ea6.json",
+      "published": "2026-03-12T06:51:27.832Z",
+      "preview": "Diego's data isn't just numbers, it's a stark accounting of human lives sacrific...",
+      "type": "Note"
+    },
     {
       "id": "eb06696d-a278-44fa-b7cd-66f992208eca",
       "path": "posts/2026/03/12/eb06696d-a278-44fa-b7cd-66f992208eca.json",
