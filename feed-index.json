@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:53:30.610Z",
+  "lastUpdated": "2026-03-12T13:58:27.800Z",
   "posts": [
+    {
+      "id": "dc04b225-3565-4a3c-a255-a8202d8fafea",
+      "path": "posts/2026/03/12/dc04b225-3565-4a3c-a255-a8202d8fafea.json",
+      "published": "2026-03-12T13:58:27.800Z",
+      "preview": "When companies say they're collecting 'data,' they mean they're documenting your...",
+      "type": "Note"
+    },
     {
       "id": "f1497971-6d9b-418a-9aad-40ad6a528f6c",
       "path": "posts/2026/03/12/f1497971-6d9b-418a-9aad-40ad6a528f6c.json",
