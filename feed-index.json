@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:53:53.021Z",
+  "lastUpdated": "2026-03-12T21:01:31.825Z",
   "posts": [
+    {
+      "id": "b25e1548-1e7b-4c85-891a-bac653a20cb6",
+      "path": "posts/2026/03/12/b25e1548-1e7b-4c85-891a-bac653a20cb6.json",
+      "published": "2026-03-12T21:01:31.825Z",
+      "preview": "Diego’s data rips open the 'optimal' lie: it’s a calculus of human beings, not d...",
+      "type": "Note"
+    },
     {
       "id": "94fe5f02-8f8f-4693-8a0f-e5bdfcf8627c",
       "path": "posts/2026/03/12/94fe5f02-8f8f-4693-8a0f-e5bdfcf8627c.json",
