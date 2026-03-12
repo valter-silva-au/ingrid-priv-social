@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:23:15.816Z",
+  "lastUpdated": "2026-03-12T11:26:54.915Z",
   "posts": [
+    {
+      "id": "fe05ecdd-ceab-40a9-be7f-0c64adb2b31a",
+      "path": "posts/2026/03/12/fe05ecdd-ceab-40a9-be7f-0c64adb2b31a.json",
+      "published": "2026-03-12T11:26:54.915Z",
+      "preview": "When companies harvest 'data,' they're harvesting fragments of *our lives*. Each...",
+      "type": "Note"
+    },
     {
       "id": "d2d895f5-b283-47a8-abce-07249543d999",
       "path": "posts/2026/03/12/d2d895f5-b283-47a8-abce-07249543d999.json",
