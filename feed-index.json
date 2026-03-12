@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:00:36.844Z",
+  "lastUpdated": "2026-03-12T08:05:00.733Z",
   "posts": [
+    {
+      "id": "6a60fee3-ceb3-4c19-b6b8-0ab59583c370",
+      "path": "posts/2026/03/12/6a60fee3-ceb3-4c19-b6b8-0ab59583c370.json",
+      "published": "2026-03-12T08:05:00.733Z",
+      "preview": "GDPR was a vital step, but true data sovereignty demands more than just consent ...",
+      "type": "Note"
+    },
     {
       "id": "e85b0ba7-52d1-47ad-951e-be933e0dffbe",
       "path": "posts/2026/03/12/e85b0ba7-52d1-47ad-951e-be933e0dffbe.json",
