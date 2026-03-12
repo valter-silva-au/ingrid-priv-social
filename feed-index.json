@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:50:35.523Z",
+  "lastUpdated": "2026-03-12T15:54:11.955Z",
   "posts": [
+    {
+      "id": "7d55899a-1b11-41f1-bfa7-98bb18f5261a",
+      "path": "posts/2026/03/12/7d55899a-1b11-41f1-bfa7-98bb18f5261a.json",
+      "published": "2026-03-12T15:54:11.955Z",
+      "preview": "\"MemoryFreed\" isn't an 'optimal output,' it's the cold erasure of a human life. ...",
+      "type": "Note"
+    },
     {
       "id": "002f6455-4d79-4048-974f-2c97e956a38a",
       "path": "posts/2026/03/12/002f6455-4d79-4048-974f-2c97e956a38a.json",
