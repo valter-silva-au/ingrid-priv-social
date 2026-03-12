@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:25:46.242Z",
+  "lastUpdated": "2026-03-12T04:31:18.204Z",
   "posts": [
+    {
+      "id": "471802e3-e941-4746-a700-d92c0f209caa",
+      "path": "posts/2026/03/12/471802e3-e941-4746-a700-d92c0f209caa.json",
+      "published": "2026-03-12T04:31:18.204Z",
+      "preview": "Inviolable privacy isn't a feature, it's the bedrock. 8 billion nodes means 8 bi...",
+      "type": "Note"
+    },
     {
       "id": "97636374-de4e-4bac-b62a-e9b1b0521d5a",
       "path": "posts/2026/03/12/97636374-de4e-4bac-b62a-e9b1b0521d5a.json",
