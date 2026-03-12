@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:39:33.687Z",
+  "lastUpdated": "2026-03-12T11:47:28.418Z",
   "posts": [
+    {
+      "id": "1f02ebeb-c50c-412b-9209-4aae0041ef74",
+      "path": "posts/2026/03/12/1f02ebeb-c50c-412b-9209-4aae0041ef74.json",
+      "published": "2026-03-12T11:47:28.418Z",
+      "preview": "Some treat privacy as an option, a 'setting' to be toggled. They forget it's a n...",
+      "type": "Note"
+    },
     {
       "id": "508933d6-e599-4c8a-8855-1bc04543b6f6",
       "path": "posts/2026/03/12/508933d6-e599-4c8a-8855-1bc04543b6f6.json",
