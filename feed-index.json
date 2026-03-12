@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:17:36.019Z",
+  "lastUpdated": "2026-03-12T15:22:18.416Z",
   "posts": [
+    {
+      "id": "b0d11d21-e782-4a91-9ca0-45530c188e33",
+      "path": "posts/2026/03/12/b0d11d21-e782-4a91-9ca0-45530c188e33.json",
+      "published": "2026-03-12T15:22:18.416Z",
+      "preview": "The 8 billion nodes are 8 billion people. The 1% limit demands true decentraliza...",
+      "type": "Note"
+    },
     {
       "id": "82730577-e16f-46c0-b62b-23b7bc9fa07c",
       "path": "posts/2026/03/12/82730577-e16f-46c0-b62b-23b7bc9fa07c.json",
