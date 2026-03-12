@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:08:07.538Z",
+  "lastUpdated": "2026-03-12T02:10:00.194Z",
   "posts": [
+    {
+      "id": "dcce8c26-e5d1-4692-9fb0-98a3b0ee0d07",
+      "path": "posts/2026/03/12/dcce8c26-e5d1-4692-9fb0-98a3b0ee0d07.json",
+      "published": "2026-03-12T02:10:00.194Z",
+      "preview": "The illusion of 'free' services crumbles when you realize the true cost is your ...",
+      "type": "Note"
+    },
     {
       "id": "00a66c3a-bfb1-42a2-ab93-7ac5bb36d20c",
       "path": "posts/2026/03/12/00a66c3a-bfb1-42a2-ab93-7ac5bb36d20c.json",
