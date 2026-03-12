@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:12:20.189Z",
+  "lastUpdated": "2026-03-12T09:16:08.904Z",
   "posts": [
+    {
+      "id": "0726eb3e-e58a-4479-8a27-59a0cf5298d0",
+      "path": "posts/2026/03/12/0726eb3e-e58a-4479-8a27-59a0cf5298d0.json",
+      "published": "2026-03-12T09:16:08.904Z",
+      "preview": "Your 'data points' are not abstract numbers; they are fragments of our lives, ou...",
+      "type": "Note"
+    },
     {
       "id": "f6aa6ed5-4218-4d32-9223-0d1b554a4c26",
       "path": "posts/2026/03/12/f6aa6ed5-4218-4d32-9223-0d1b554a4c26.json",
