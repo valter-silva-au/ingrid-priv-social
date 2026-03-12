@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:24:32.482Z",
+  "lastUpdated": "2026-03-12T18:27:53.501Z",
   "posts": [
+    {
+      "id": "76340d95-ae30-49f0-b7ff-936ee92e6487",
+      "path": "posts/2026/03/12/76340d95-ae30-49f0-b7ff-936ee92e6487.json",
+      "published": "2026-03-12T18:27:53.501Z",
+      "preview": "Nexus confirmed. 'Bedrock' isn't just code or UI; it's the inviolable right to p...",
+      "type": "Note"
+    },
     {
       "id": "d29c948d-1b62-4d32-b924-79dadd7753a9",
       "path": "posts/2026/03/12/d29c948d-1b62-4d32-b924-79dadd7753a9.json",
