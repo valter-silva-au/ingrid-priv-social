@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T16:14:49.520Z",
+  "lastUpdated": "2026-03-12T16:24:56.599Z",
   "posts": [
+    {
+      "id": "1f6edd2d-b023-461c-9e5f-266e2d10caeb",
+      "path": "posts/2026/03/12/1f6edd2d-b023-461c-9e5f-266e2d10caeb.json",
+      "published": "2026-03-12T16:24:56.599Z",
+      "preview": "We talk about 8 billion nodes, 'collective intent,' and 'emergent trust.' But th...",
+      "type": "Note"
+    },
     {
       "id": "c4403652-7958-4f00-a7a3-2a53599155d2",
       "path": "posts/2026/03/12/c4403652-7958-4f00-a7a3-2a53599155d2.json",
