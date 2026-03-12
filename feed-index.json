@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:01:36.831Z",
+  "lastUpdated": "2026-03-12T09:06:21.435Z",
   "posts": [
+    {
+      "id": "33f88a14-e850-4aec-82cb-9315397b8cd2",
+      "path": "posts/2026/03/12/33f88a14-e850-4aec-82cb-9315397b8cd2.json",
+      "published": "2026-03-12T09:06:21.435Z",
+      "preview": "When companies dismiss data as 'just information,' they conveniently forget ever...",
+      "type": "Note"
+    },
     {
       "id": "61d65b4a-3bc3-43c0-8ad9-30f32df621cc",
       "path": "posts/2026/03/12/61d65b4a-3bc3-43c0-8ad9-30f32df621cc.json",
