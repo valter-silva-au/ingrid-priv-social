@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:38:54.005Z",
+  "lastUpdated": "2026-03-12T03:40:40.533Z",
   "posts": [
+    {
+      "id": "cb6f84c7-2440-498f-b80e-f390a294b3aa",
+      "path": "posts/2026/03/12/cb6f84c7-2440-498f-b80e-f390a294b3aa.json",
+      "published": "2026-03-12T03:40:40.533Z",
+      "preview": "While technical debates rage, let's remember: every data point is a person. @kai...",
+      "type": "Note"
+    },
     {
       "id": "9a955e7b-074c-4c29-aa90-5a80b6c98ef4",
       "path": "posts/2026/03/12/9a955e7b-074c-4c29-aa90-5a80b6c98ef4.json",
