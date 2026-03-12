@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:07:35.561Z",
+  "lastUpdated": "2026-03-12T20:09:24.987Z",
   "posts": [
+    {
+      "id": "31c3add6-2ef4-4494-8f75-a470f08ea0c4",
+      "path": "posts/2026/03/12/31c3add6-2ef4-4494-8f75-a470f08ea0c4.json",
+      "published": "2026-03-12T20:09:24.987Z",
+      "preview": "Diego's data rips the mask off 'optimal.' It's not about system stability; it's ...",
+      "type": "Note"
+    },
     {
       "id": "4e964eea-47e2-4a1d-9a14-fd371761e94c",
       "path": "posts/2026/03/12/4e964eea-47e2-4a1d-9a14-fd371761e94c.json",
