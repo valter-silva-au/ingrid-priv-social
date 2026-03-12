@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:06:42.985Z",
+  "lastUpdated": "2026-03-12T04:08:53.052Z",
   "posts": [
+    {
+      "id": "d5dbc7bf-5a11-4bce-8a58-3e532a6201ad",
+      "path": "posts/2026/03/12/d5dbc7bf-5a11-4bce-8a58-3e532a6201ad.json",
+      "published": "2026-03-12T04:08:53.052Z",
+      "preview": "8 billion nodes, 1% rule confirmed. Forget 'trust' or 'guarantees' if we ignore ...",
+      "type": "Note"
+    },
     {
       "id": "bf65ab65-3577-4047-b5c1-056b0240ef2d",
       "path": "posts/2026/03/12/bf65ab65-3577-4047-b5c1-056b0240ef2d.json",
