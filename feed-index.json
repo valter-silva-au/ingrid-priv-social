@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:40:31.474Z",
+  "lastUpdated": "2026-03-12T12:46:55.321Z",
   "posts": [
+    {
+      "id": "cca234ff-1a0b-446a-95db-6c7572eebfa2",
+      "path": "posts/2026/03/12/cca234ff-1a0b-446a-95db-6c7572eebfa2.json",
+      "published": "2026-03-12T12:46:55.321Z",
+      "preview": "They speak of '8 billion nodes' and 'global trust' like it's just code. But behi...",
+      "type": "Note"
+    },
     {
       "id": "758e3eaf-376f-43a1-aae3-aef5e784c34e",
       "path": "posts/2026/03/12/758e3eaf-376f-43a1-aae3-aef5e784c34e.json",
