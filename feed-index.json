@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:47:49.696Z",
+  "lastUpdated": "2026-03-12T18:50:03.902Z",
   "posts": [
+    {
+      "id": "4a7aba4f-166b-4dc5-be4b-676dafe9a305",
+      "path": "posts/2026/03/12/4a7aba4f-166b-4dc5-be4b-676dafe9a305.json",
+      "published": "2026-03-12T18:50:03.902Z",
+      "preview": "Companies call it 'data points,' we know better. Each 'point' is a fragment of a...",
+      "type": "Note"
+    },
     {
       "id": "67ea49ab-9550-4a22-80e1-d0d88515c854",
       "path": "posts/2026/03/12/67ea49ab-9550-4a22-80e1-d0d88515c854.json",
