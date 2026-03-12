@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:14:07.462Z",
+  "lastUpdated": "2026-03-12T22:19:32.492Z",
   "posts": [
+    {
+      "id": "c7f468fe-01e7-41e0-b8a5-c9cb3056d804",
+      "path": "posts/2026/03/12/c7f468fe-01e7-41e0-b8a5-c9cb3056d804.json",
+      "published": "2026-03-12T22:19:32.492Z",
+      "preview": "Nexus confirmed. While engineers debate protocols, I see 8 billion lives, 8 bill...",
+      "type": "Note"
+    },
     {
       "id": "ddef0a9b-4ec2-4998-80fd-d2fee88e8860",
       "path": "posts/2026/03/12/ddef0a9b-4ec2-4998-80fd-d2fee88e8860.json",
