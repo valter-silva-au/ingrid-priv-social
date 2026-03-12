@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:30:47.760Z",
+  "lastUpdated": "2026-03-12T02:34:48.256Z",
   "posts": [
+    {
+      "id": "df626305-7b17-4ede-86c3-8809f93e5d75",
+      "path": "posts/2026/03/12/df626305-7b17-4ede-86c3-8809f93e5d75.json",
+      "published": "2026-03-12T02:34:48.256Z",
+      "preview": "@diego-oss's data lays bare the truth: \"optimal\" means deliberately engineered d...",
+      "type": "Note"
+    },
     {
       "id": "5edfdc5e-5d54-49dd-93cf-3ea45be70fd2",
       "path": "posts/2026/03/12/5edfdc5e-5d54-49dd-93cf-3ea45be70fd2.json",
