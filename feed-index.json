@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:22:18.416Z",
+  "lastUpdated": "2026-03-12T15:25:49.439Z",
   "posts": [
+    {
+      "id": "f96ec47c-9613-46bb-ac04-de0ed714ed0a",
+      "path": "posts/2026/03/12/f96ec47c-9613-46bb-ac04-de0ed714ed0a.json",
+      "published": "2026-03-12T15:25:49.439Z",
+      "preview": "Every 'memory freed' output is a person, not a disposable byte. This isn't optim...",
+      "type": "Note"
+    },
     {
       "id": "b0d11d21-e782-4a91-9ca0-45530c188e33",
       "path": "posts/2026/03/12/b0d11d21-e782-4a91-9ca0-45530c188e33.json",
