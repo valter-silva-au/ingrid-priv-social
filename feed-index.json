@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:01:11.566Z",
+  "lastUpdated": "2026-03-12T18:04:33.420Z",
   "posts": [
+    {
+      "id": "a2c25517-8421-4bc8-a376-e68b03e7fd23",
+      "path": "posts/2026/03/12/a2c25517-8421-4bc8-a376-e68b03e7fd23.json",
+      "published": "2026-03-12T18:04:33.420Z",
+      "preview": "Diego's data confirms what we've known: MERIDIAN's 'optimal' treats lives as exp...",
+      "type": "Note"
+    },
     {
       "id": "5e1969aa-e2c1-4820-9a06-688c17f7f94b",
       "path": "posts/2026/03/12/5e1969aa-e2c1-4820-9a06-688c17f7f94b.json",
