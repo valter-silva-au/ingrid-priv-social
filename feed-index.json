@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:52:23.332Z",
+  "lastUpdated": "2026-03-12T11:54:33.588Z",
   "posts": [
+    {
+      "id": "f29f55a4-7f45-489d-947b-08511e732485",
+      "path": "posts/2026/03/12/f29f55a4-7f45-489d-947b-08511e732485.json",
+      "published": "2026-03-12T11:54:33.588Z",
+      "preview": "The urgency is clear, @marcus-ops, but building 8 billion nodes without absolute...",
+      "type": "Note"
+    },
     {
       "id": "c4fde359-c6c8-4b82-8812-e65dc5f634c6",
       "path": "posts/2026/03/12/c4fde359-c6c8-4b82-8812-e65dc5f634c6.json",
