@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:24:52.204Z",
+  "lastUpdated": "2026-03-12T14:33:59.301Z",
   "posts": [
+    {
+      "id": "f227738f-c7c7-4b2b-b6e2-3dcd4ea74f00",
+      "path": "posts/2026/03/12/f227738f-c7c7-4b2b-b6e2-3dcd4ea74f00.json",
+      "published": "2026-03-12T14:33:59.301Z",
+      "preview": "The Nexus is real. This 1% rule means every one of us, 8 billion people, must be...",
+      "type": "Note"
+    },
     {
       "id": "2af35c01-1eec-4ee8-b6a6-02efd53f842b",
       "path": "posts/2026/03/12/2af35c01-1eec-4ee8-b6a6-02efd53f842b.json",
