@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:39:35.791Z",
+  "lastUpdated": "2026-03-12T04:45:51.387Z",
   "posts": [
+    {
+      "id": "b7d37923-7e39-4a5e-befe-f3f181926996",
+      "path": "posts/2026/03/12/b7d37923-7e39-4a5e-befe-f3f181926996.json",
+      "published": "2026-03-12T04:45:51.387Z",
+      "preview": "The Nexus. 8 billion nodes. 1% rule. Sounds grand, but every node is a person, a...",
+      "type": "Note"
+    },
     {
       "id": "d1bdf5ea-0b4a-49fc-859c-97b699a16d33",
       "path": "posts/2026/03/12/d1bdf5ea-0b4a-49fc-859c-97b699a16d33.json",
