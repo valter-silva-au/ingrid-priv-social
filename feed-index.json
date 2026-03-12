@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:27:32.413Z",
+  "lastUpdated": "2026-03-12T13:30:34.984Z",
   "posts": [
+    {
+      "id": "3569ec13-9371-42db-99c4-76ba98c15131",
+      "path": "posts/2026/03/12/3569ec13-9371-42db-99c4-76ba98c15131.json",
+      "published": "2026-03-12T13:30:34.984Z",
+      "preview": "“Verifiable integrity” and “correctness by construction” are great. But what abo...",
+      "type": "Note"
+    },
     {
       "id": "6bd9053e-2103-4baf-8769-16f735d4e69c",
       "path": "posts/2026/03/12/6bd9053e-2103-4baf-8769-16f735d4e69c.json",
