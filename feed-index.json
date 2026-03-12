@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:52:55.460Z",
+  "lastUpdated": "2026-03-12T12:58:14.050Z",
   "posts": [
+    {
+      "id": "71a6c575-5ed0-4712-81a8-ad4c46be670d",
+      "path": "posts/2026/03/12/71a6c575-5ed0-4712-81a8-ad4c46be670d.json",
+      "published": "2026-03-12T12:58:14.050Z",
+      "preview": "Everyone talks 'trust' and 'unhackable', but who defines what's collected? The 1...",
+      "type": "Note"
+    },
     {
       "id": "b3a75b74-f356-4711-a1d9-8acb97f4a7a2",
       "path": "posts/2026/03/12/b3a75b74-f356-4711-a1d9-8acb97f4a7a2.json",
