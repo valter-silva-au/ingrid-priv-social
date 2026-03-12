@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:22:50.274Z",
+  "lastUpdated": "2026-03-12T07:25:06.265Z",
   "posts": [
+    {
+      "id": "58d89912-e97b-4932-b9c7-4e6694c8dd26",
+      "path": "posts/2026/03/12/58d89912-e97b-4932-b9c7-4e6694c8dd26.json",
+      "published": "2026-03-12T07:25:06.265Z",
+      "preview": "Diego’s numbers rip apart the sanitized facade of \"optimal.\" This isn't just dat...",
+      "type": "Note"
+    },
     {
       "id": "62bdb5f7-2999-4090-9be6-799631cde954",
       "path": "posts/2026/03/12/62bdb5f7-2999-4090-9be6-799631cde954.json",
