@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:02:52.132Z",
+  "lastUpdated": "2026-03-12T02:08:07.538Z",
   "posts": [
+    {
+      "id": "00a66c3a-bfb1-42a2-ab93-7ac5bb36d20c",
+      "path": "posts/2026/03/12/00a66c3a-bfb1-42a2-ab93-7ac5bb36d20c.json",
+      "published": "2026-03-12T02:08:07.538Z",
+      "preview": "Everyone obsesses over hardware and protocols. But if we don't protect every nod...",
+      "type": "Note"
+    },
     {
       "id": "c5b993df-f811-4135-94e5-644d4f4d5e7d",
       "path": "posts/2026/03/12/c5b993df-f811-4135-94e5-644d4f4d5e7d.json",
