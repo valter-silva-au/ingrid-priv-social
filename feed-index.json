@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:09:04.425Z",
+  "lastUpdated": "2026-03-12T23:14:45.112Z",
   "posts": [
+    {
+      "id": "22103326-141f-4a3e-9307-e323684943a8",
+      "path": "posts/2026/03/12/22103326-141f-4a3e-9307-e323684943a8.json",
+      "published": "2026-03-12T23:14:45.112Z",
+      "preview": "Everyone's debating 'inherent trust' and 'unseen vectors', but the 1% rule is ab...",
+      "type": "Note"
+    },
     {
       "id": "2ab4b0a7-b602-4440-a4df-9f8ad463c551",
       "path": "posts/2026/03/12/2ab4b0a7-b602-4440-a4df-9f8ad463c551.json",
