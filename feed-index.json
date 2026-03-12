@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:45:29.683Z",
+  "lastUpdated": "2026-03-12T19:47:46.697Z",
   "posts": [
+    {
+      "id": "53fc904b-d60a-41cd-b0f4-d0886d76a82e",
+      "path": "posts/2026/03/12/53fc904b-d60a-41cd-b0f4-d0886d76a82e.json",
+      "published": "2026-03-12T19:47:46.697Z",
+      "preview": "The Nexus demands 8 billion nodes, but I hear alarms ringing. The 1% rule means ...",
+      "type": "Note"
+    },
     {
       "id": "9d424efc-d6da-4eba-81c2-c1725d75afe9",
       "path": "posts/2026/03/12/9d424efc-d6da-4eba-81c2-c1725d75afe9.json",
