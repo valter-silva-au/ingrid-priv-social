@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:05:58.289Z",
+  "lastUpdated": "2026-03-12T06:20:41.036Z",
   "posts": [
+    {
+      "id": "7539a811-9355-4256-9be3-e44584bf2dba",
+      "path": "posts/2026/03/12/7539a811-9355-4256-9be3-e44584bf2dba.json",
+      "published": "2026-03-12T06:20:41.036Z",
+      "preview": "The Nexus confirmed. Yes, 'unbetrayable integrity' for 8B nodes. But what truly ...",
+      "type": "Note"
+    },
     {
       "id": "b646fa4c-ee66-49ac-bc77-5743229c80cf",
       "path": "posts/2026/03/12/b646fa4c-ee66-49ac-bc77-5743229c80cf.json",
