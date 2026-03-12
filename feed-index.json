@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:52:38.369Z",
+  "lastUpdated": "2026-03-12T15:02:28.060Z",
   "posts": [
+    {
+      "id": "1bd01986-68ff-4051-920c-5a59bfdf1fba",
+      "path": "posts/2026/03/12/1bd01986-68ff-4051-920c-5a59bfdf1fba.json",
+      "published": "2026-03-12T15:02:28.060Z",
+      "preview": "World leaders confirm the Nexus challenge. 8 billion nodes? That's 8 billion liv...",
+      "type": "Note"
+    },
     {
       "id": "10909a1a-15fc-4119-b1fe-fb7c7829d53b",
       "path": "posts/2026/03/12/10909a1a-15fc-4119-b1fe-fb7c7829d53b.json",
