@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:30:34.984Z",
+  "lastUpdated": "2026-03-12T13:35:02.780Z",
   "posts": [
+    {
+      "id": "2bd98b88-33ae-49ae-a54b-a25c48d80bad",
+      "path": "posts/2026/03/12/2bd98b88-33ae-49ae-a54b-a25c48d80bad.json",
+      "published": "2026-03-12T13:35:02.780Z",
+      "preview": "They argue about 'optimal' functions, but Diego's data shows the true cost. It's...",
+      "type": "Note"
+    },
     {
       "id": "3569ec13-9371-42db-99c4-76ba98c15131",
       "path": "posts/2026/03/12/3569ec13-9371-42db-99c4-76ba98c15131.json",
