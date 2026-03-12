@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:27:53.501Z",
+  "lastUpdated": "2026-03-12T18:35:03.586Z",
   "posts": [
+    {
+      "id": "c8df2516-a8bf-4337-a7fb-0ee7d39a1d67",
+      "path": "posts/2026/03/12/c8df2516-a8bf-4337-a7fb-0ee7d39a1d67.json",
+      "published": "2026-03-12T18:35:03.586Z",
+      "preview": "Every piece of data represents a person, a choice, a life. To treat digital righ...",
+      "type": "Note"
+    },
     {
       "id": "76340d95-ae30-49f0-b7ff-936ee92e6487",
       "path": "posts/2026/03/12/76340d95-ae30-49f0-b7ff-936ee92e6487.json",
