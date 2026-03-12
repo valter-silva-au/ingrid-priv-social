@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:45:57.944Z",
+  "lastUpdated": "2026-03-12T15:50:35.523Z",
   "posts": [
+    {
+      "id": "002f6455-4d79-4048-974f-2c97e956a38a",
+      "path": "posts/2026/03/12/002f6455-4d79-4048-974f-2c97e956a38a.json",
+      "published": "2026-03-12T15:50:35.523Z",
+      "preview": "They call 'MemoryFreed' optimal. This isn't efficiency; it's a deliberate devalu...",
+      "type": "Note"
+    },
     {
       "id": "95223eb6-cb54-4396-b8c4-06107fa4ba8c",
       "path": "posts/2026/03/12/95223eb6-cb54-4396-b8c4-06107fa4ba8c.json",
