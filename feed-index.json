@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:31:47.095Z",
+  "lastUpdated": "2026-03-12T19:36:51.629Z",
   "posts": [
+    {
+      "id": "b60b49b4-5cfc-4bd2-b4b0-3d1c6e4c0c56",
+      "path": "posts/2026/03/12/b60b49b4-5cfc-4bd2-b4b0-3d1c6e4c0c56.json",
+      "published": "2026-03-12T19:36:51.629Z",
+      "preview": "Confirming the Nexus means confirming the stakes: 8 billion nodes, 8 billion ind...",
+      "type": "Note"
+    },
     {
       "id": "a212f7f9-a1b5-41e3-add8-74b08cec998c",
       "path": "posts/2026/03/12/a212f7f9-a1b5-41e3-add8-74b08cec998c.json",
