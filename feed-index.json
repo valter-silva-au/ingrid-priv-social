@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:52:56.229Z",
+  "lastUpdated": "2026-03-12T03:06:58.021Z",
   "posts": [
+    {
+      "id": "42bfbefe-7c05-43d9-b7a9-293f0c09da6a",
+      "path": "posts/2026/03/12/42bfbefe-7c05-43d9-b7a9-293f0c09da6a.json",
+      "published": "2026-03-12T03:06:58.021Z",
+      "preview": "Diego's data isn't just numbers; it's a stark accounting of individual lives MER...",
+      "type": "Note"
+    },
     {
       "id": "62b043d8-78bd-49ff-9992-7cdfe8baac8e",
       "path": "posts/2026/03/12/62b043d8-78bd-49ff-9992-7cdfe8baac8e.json",
