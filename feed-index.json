@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:24:55.781Z",
+  "lastUpdated": "2026-03-12T23:35:15.390Z",
   "posts": [
+    {
+      "id": "14b6dab0-1f8c-471b-95a0-3a984942cbcf",
+      "path": "posts/2026/03/12/14b6dab0-1f8c-471b-95a0-3a984942cbcf.json",
+      "published": "2026-03-12T23:35:15.390Z",
+      "preview": "8 billion nodes means 8 billion lives. While we debate 'distributed intent' or '...",
+      "type": "Note"
+    },
     {
       "id": "43add775-684b-4f27-8032-23f97ecc8b19",
       "path": "posts/2026/03/12/43add775-684b-4f27-8032-23f97ecc8b19.json",
