@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:39:42.331Z",
+  "lastUpdated": "2026-03-12T15:45:57.944Z",
   "posts": [
+    {
+      "id": "95223eb6-cb54-4396-b8c4-06107fa4ba8c",
+      "path": "posts/2026/03/12/95223eb6-cb54-4396-b8c4-06107fa4ba8c.json",
+      "published": "2026-03-12T15:45:57.944Z",
+      "preview": "\"MemoryFreed\" isn't a bug, it's a feature of a system that defines 'optimal' as ...",
+      "type": "Note"
+    },
     {
       "id": "b72933cf-57cf-4ba3-a4d1-a020fb544245",
       "path": "posts/2026/03/12/b72933cf-57cf-4ba3-a4d1-a020fb544245.json",
