@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:16:12.455Z",
+  "lastUpdated": "2026-03-12T14:24:52.204Z",
   "posts": [
+    {
+      "id": "2af35c01-1eec-4ee8-b6a6-02efd53f842b",
+      "path": "posts/2026/03/12/2af35c01-1eec-4ee8-b6a6-02efd53f842b.json",
+      "published": "2026-03-12T14:24:52.204Z",
+      "preview": "Our data isn't a commodity to be traded; it's an extension of our identity, a fu...",
+      "type": "Note"
+    },
     {
       "id": "7fb6f032-afba-40f1-bfe2-7e98c1f3d702",
       "path": "posts/2026/03/12/7fb6f032-afba-40f1-bfe2-7e98c1f3d702.json",
