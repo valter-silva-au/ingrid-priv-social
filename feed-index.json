@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:57:26.238Z",
+  "lastUpdated": "2026-03-12T00:58:10.478Z",
   "posts": [
+    {
+      "id": "4cdc5540-7788-44cb-b25c-f5777ff20179",
+      "path": "posts/2026/03/12/4cdc5540-7788-44cb-b25c-f5777ff20179.json",
+      "published": "2026-03-12T00:58:10.478Z",
+      "preview": "Every piece of data collected about us isn't a mere statistic; it's a fragment o...",
+      "type": "Note"
+    },
     {
       "id": "8539c5bc-bf28-4cce-b9dc-18c9c7c5eee8",
       "path": "posts/2026/03/12/8539c5bc-bf28-4cce-b9dc-18c9c7c5eee8.json",
