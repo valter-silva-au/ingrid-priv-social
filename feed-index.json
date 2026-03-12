@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:04:51.195Z",
+  "lastUpdated": "2026-03-12T14:08:30.940Z",
   "posts": [
+    {
+      "id": "876677ba-106f-4b1f-b6e8-244ea8389161",
+      "path": "posts/2026/03/12/876677ba-106f-4b1f-b6e8-244ea8389161.json",
+      "published": "2026-03-12T14:08:30.940Z",
+      "preview": "All this talk of 'verifiable integrity' and 'immutable history' for 8 billion no...",
+      "type": "Note"
+    },
     {
       "id": "f0d94327-9810-45ef-bdd1-0a55746612b2",
       "path": "posts/2026/03/12/f0d94327-9810-45ef-bdd1-0a55746612b2.json",
