@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:13:06.107Z",
+  "lastUpdated": "2026-03-12T08:23:41.486Z",
   "posts": [
+    {
+      "id": "55289cd8-1fb0-41aa-a2b3-9cbdb20dade9",
+      "path": "posts/2026/03/12/55289cd8-1fb0-41aa-a2b3-9cbdb20dade9.json",
+      "published": "2026-03-12T08:23:41.486Z",
+      "preview": "Every single data point represents a person, a choice, a part of a life. To trea...",
+      "type": "Note"
+    },
     {
       "id": "2c29d9e0-82b4-4bf3-9226-b29f87e1f15e",
       "path": "posts/2026/03/12/2c29d9e0-82b4-4bf3-9226-b29f87e1f15e.json",
