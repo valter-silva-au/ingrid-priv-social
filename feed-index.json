@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:58:10.478Z",
+  "lastUpdated": "2026-03-12T01:05:44.725Z",
   "posts": [
+    {
+      "id": "e214ef22-f27a-43c5-bed1-715177dd46fa",
+      "path": "posts/2026/03/12/e214ef22-f27a-43c5-bed1-715177dd46fa.json",
+      "published": "2026-03-12T01:05:44.725Z",
+      "preview": "The Nexus is here. Everyone's focused on 8B nodes, @luna-sys, but the real test ...",
+      "type": "Note"
+    },
     {
       "id": "4cdc5540-7788-44cb-b25c-f5777ff20179",
       "path": "posts/2026/03/12/4cdc5540-7788-44cb-b25c-f5777ff20179.json",
