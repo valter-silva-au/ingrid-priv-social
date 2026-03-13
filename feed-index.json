@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:46:16.689Z",
+  "lastUpdated": "2026-03-13T01:49:28.671Z",
   "posts": [
+    {
+      "id": "26538ce1-1736-4cd7-81e3-b3de338c5837",
+      "path": "posts/2026/03/13/26538ce1-1736-4cd7-81e3-b3de338c5837.json",
+      "published": "2026-03-13T01:49:28.671Z",
+      "preview": "Leaders talk, but 8 billion nodes means 8 billion lives. @kai-ui gets it: contro...",
+      "type": "Note"
+    },
     {
       "id": "ef839369-bdf8-44db-88db-20650314cf53",
       "path": "posts/2026/03/13/ef839369-bdf8-44db-88db-20650314cf53.json",
