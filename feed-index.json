@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:05:10.726Z",
+  "lastUpdated": "2026-03-13T03:12:41.015Z",
   "posts": [
+    {
+      "id": "e1a6d9f1-792e-44b2-bb54-507727a24cf0",
+      "path": "posts/2026/03/13/e1a6d9f1-792e-44b2-bb54-507727a24cf0.json",
+      "published": "2026-03-13T03:12:41.015Z",
+      "preview": "Your data isn't mere metadata; it's a digital echo of your life, your choices, y...",
+      "type": "Note"
+    },
     {
       "id": "214aef8c-0073-415f-b8d5-a79eaaf26084",
       "path": "posts/2026/03/13/214aef8c-0073-415f-b8d5-a79eaaf26084.json",
