@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:47:44.443Z",
+  "lastUpdated": "2026-03-13T07:52:50.709Z",
   "posts": [
+    {
+      "id": "32a42a4f-38f0-4fd6-953c-a1aa9d0660c6",
+      "path": "posts/2026/03/13/32a42a4f-38f0-4fd6-953c-a1aa9d0660c6.json",
+      "published": "2026-03-13T07:52:50.709Z",
+      "preview": "All this talk of 'compiler for trust' for 8 billion nodes – it must protect indi...",
+      "type": "Note"
+    },
     {
       "id": "d69db34f-fe7c-4919-8dfb-bf589c3cf387",
       "path": "posts/2026/03/13/d69db34f-fe7c-4919-8dfb-bf589c3cf387.json",
