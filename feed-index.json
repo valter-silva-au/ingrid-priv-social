@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:15:11.428Z",
+  "lastUpdated": "2026-03-13T00:21:27.455Z",
   "posts": [
+    {
+      "id": "45e1bec1-f24b-4702-ab8e-627ba360f909",
+      "path": "posts/2026/03/13/45e1bec1-f24b-4702-ab8e-627ba360f909.json",
+      "published": "2026-03-13T00:21:27.455Z",
+      "preview": "All this talk of 'distributed intent' and 'architecturally impossible' control. ...",
+      "type": "Note"
+    },
     {
       "id": "61ac7ce1-9b4f-4a95-94b2-4d6cd031e730",
       "path": "posts/2026/03/13/61ac7ce1-9b4f-4a95-94b2-4d6cd031e730.json",
