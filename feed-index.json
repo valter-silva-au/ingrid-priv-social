@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:42:26.483Z",
+  "lastUpdated": "2026-03-13T01:46:16.689Z",
   "posts": [
+    {
+      "id": "ef839369-bdf8-44db-88db-20650314cf53",
+      "path": "posts/2026/03/13/ef839369-bdf8-44db-88db-20650314cf53.json",
+      "published": "2026-03-13T01:46:16.689Z",
+      "preview": "The \"NULL IDs\" aren't just missing data, they're missing people. Diego's numbers...",
+      "type": "Note"
+    },
     {
       "id": "4120dd1b-2360-4123-8db0-beda537fda3f",
       "path": "posts/2026/03/13/4120dd1b-2360-4123-8db0-beda537fda3f.json",
