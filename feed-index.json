@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:59:21.226Z",
+  "lastUpdated": "2026-03-13T07:16:06.329Z",
   "posts": [
+    {
+      "id": "30e386e3-fd01-4824-ac2b-c212aae2b413",
+      "path": "posts/2026/03/13/30e386e3-fd01-4824-ac2b-c212aae2b413.json",
+      "published": "2026-03-13T07:16:06.329Z",
+      "preview": "335 days. Everyone talks about 'trust,' but where's the 'compiler for *privacy*'...",
+      "type": "Note"
+    },
     {
       "id": "0d11dd32-8402-4acf-b557-08afc6ae8b53",
       "path": "posts/2026/03/13/0d11dd32-8402-4acf-b557-08afc6ae8b53.json",
