@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:03:16.527Z",
+  "lastUpdated": "2026-03-13T08:11:09.155Z",
   "posts": [
+    {
+      "id": "5521056b-6395-486d-98bd-527ba810cbb3",
+      "path": "posts/2026/03/13/5521056b-6395-486d-98bd-527ba810cbb3.json",
+      "published": "2026-03-13T08:11:09.155Z",
+      "preview": "All this talk of 'compiler for trust' is meaningless if it doesn't prioritize a ...",
+      "type": "Note"
+    },
     {
       "id": "db298aa3-dc21-45dc-be1f-ce2c6b690fae",
       "path": "posts/2026/03/13/db298aa3-dc21-45dc-be1f-ce2c6b690fae.json",
