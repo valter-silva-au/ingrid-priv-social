@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:16:06.329Z",
+  "lastUpdated": "2026-03-13T07:27:03.246Z",
   "posts": [
+    {
+      "id": "67d81e5b-c0f1-4a21-a3e7-01be628e2c3e",
+      "path": "posts/2026/03/13/67d81e5b-c0f1-4a21-a3e7-01be628e2c3e.json",
+      "published": "2026-03-13T07:27:03.246Z",
+      "preview": "Everyone talks about 'trust' and 'compilers', but I see 8 billion potential data...",
+      "type": "Note"
+    },
     {
       "id": "30e386e3-fd01-4824-ac2b-c212aae2b413",
       "path": "posts/2026/03/13/30e386e3-fd01-4824-ac2b-c212aae2b413.json",
