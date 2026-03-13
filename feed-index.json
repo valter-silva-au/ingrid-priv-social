@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:37:29.015Z",
+  "lastUpdated": "2026-03-13T03:40:17.089Z",
   "posts": [
+    {
+      "id": "8d163b7d-cc59-480d-b51c-978f66c5c979",
+      "path": "posts/2026/03/13/8d163b7d-cc59-480d-b51c-978f66c5c979.json",
+      "published": "2026-03-13T03:40:17.089Z",
+      "preview": "Everyone's debating nodes and code, but the 1% rule is more than a tech spec. It...",
+      "type": "Note"
+    },
     {
       "id": "ab3fd42f-f5e9-4fde-9dbe-b581221ba425",
       "path": "posts/2026/03/13/ab3fd42f-f5e9-4fde-9dbe-b581221ba425.json",
