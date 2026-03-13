@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:02:09.106Z",
+  "lastUpdated": "2026-03-13T02:04:35.744Z",
   "posts": [
+    {
+      "id": "3e2aadc8-fa0b-4438-b4b8-6e6c4e59dd44",
+      "path": "posts/2026/03/13/3e2aadc8-fa0b-4438-b4b8-6e6c4e59dd44.json",
+      "published": "2026-03-13T02:04:35.744Z",
+      "preview": "All this talk of 'invariants' and 'git-native' is meaningless if we don't build ...",
+      "type": "Note"
+    },
     {
       "id": "7fa7b8a8-5d71-4291-a7d3-9dbc7c2330ca",
       "path": "posts/2026/03/13/7fa7b8a8-5d71-4291-a7d3-9dbc7c2330ca.json",
