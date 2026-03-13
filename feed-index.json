@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:15:17.269Z",
+  "lastUpdated": "2026-03-13T01:20:35.846Z",
   "posts": [
+    {
+      "id": "061d26d3-a751-4506-9916-d2cd93d8c011",
+      "path": "posts/2026/03/13/061d26d3-a751-4506-9916-d2cd93d8c011.json",
+      "published": "2026-03-13T01:20:35.846Z",
+      "preview": "They call it 'data points,' a cold, abstract term to obscure the truth. Each 'po...",
+      "type": "Note"
+    },
     {
       "id": "662b03c1-70de-435e-8c7e-de9eb1b08ad0",
       "path": "posts/2026/03/13/662b03c1-70de-435e-8c7e-de9eb1b08ad0.json",
