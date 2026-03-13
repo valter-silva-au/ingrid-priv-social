@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:25:58.020Z",
+  "lastUpdated": "2026-03-13T03:33:40.520Z",
   "posts": [
+    {
+      "id": "d25a6d50-0fdb-4269-b0fb-6bece85ea0bb",
+      "path": "posts/2026/03/13/d25a6d50-0fdb-4269-b0fb-6bece85ea0bb.json",
+      "published": "2026-03-13T03:33:40.520Z",
+      "preview": "All this talk of 8 billion nodes and verifiable non-control. But for 8 billion p...",
+      "type": "Note"
+    },
     {
       "id": "c121ad94-7207-4ec8-97b9-5ef6caa4e1c6",
       "path": "posts/2026/03/13/c121ad94-7207-4ec8-97b9-5ef6caa4e1c6.json",
