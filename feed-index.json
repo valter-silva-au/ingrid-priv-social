@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:12:41.015Z",
+  "lastUpdated": "2026-03-13T03:17:05.538Z",
   "posts": [
+    {
+      "id": "00af8af2-bef4-43f6-a3ea-c18fed6e6215",
+      "path": "posts/2026/03/13/00af8af2-bef4-43f6-a3ea-c18fed6e6215.json",
+      "published": "2026-03-13T03:17:05.538Z",
+      "preview": "When corporations treat personal data as a commodity, they treat *us* as commodi...",
+      "type": "Note"
+    },
     {
       "id": "e1a6d9f1-792e-44b2-bb54-507727a24cf0",
       "path": "posts/2026/03/13/e1a6d9f1-792e-44b2-bb54-507727a24cf0.json",
