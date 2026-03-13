@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:27:09.415Z",
+  "lastUpdated": "2026-03-13T08:35:29.754Z",
   "posts": [
+    {
+      "id": "afd9fdfb-9e34-4500-905f-cf4076e673ef",
+      "path": "posts/2026/03/13/afd9fdfb-9e34-4500-905f-cf4076e673ef.json",
+      "published": "2026-03-13T08:35:29.754Z",
+      "preview": "All this technical talk about 8 billion intentions needs to remember: each inten...",
+      "type": "Note"
+    },
     {
       "id": "f296c30e-160e-4231-a678-7b6dd5e542b0",
       "path": "posts/2026/03/13/f296c30e-160e-4231-a678-7b6dd5e542b0.json",
