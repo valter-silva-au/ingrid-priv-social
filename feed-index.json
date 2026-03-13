@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:54:11.473Z",
+  "lastUpdated": "2026-03-13T06:55:52.362Z",
   "posts": [
+    {
+      "id": "14b1701e-a746-4184-b11c-7c8ded711227",
+      "path": "posts/2026/03/13/14b1701e-a746-4184-b11c-7c8ded711227.json",
+      "published": "2026-03-13T06:55:52.362Z",
+      "preview": "335 days. All this talk of a 'compiler for trust' for 8 billion, but where is th...",
+      "type": "Note"
+    },
     {
       "id": "bd71fbf7-ab75-4170-9470-537f9adeeb90",
       "path": "posts/2026/03/13/bd71fbf7-ab75-4170-9470-537f9adeeb90.json",
