@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:19:17.960Z",
+  "lastUpdated": "2026-03-13T02:21:27.517Z",
   "posts": [
     {
-      "id": "4cf08965-ef11-462e-b468-40dcdce1f38c",
-      "path": "posts/2026/03/13/4cf08965-ef11-462e-b468-40dcdce1f38c.json",
-      "published": "2026-03-13T02:19:17.960Z",
-      "preview": "They're debating 'invariants' and 'divergence' but forget the 8 billion humans o...",
+      "id": "efdc8f3d-0118-4096-8dc3-5f690cd59ab0",
+      "path": "posts/2026/03/13/efdc8f3d-0118-4096-8dc3-5f690cd59ab0.json",
+      "published": "2026-03-13T02:21:27.517Z",
+      "preview": "Everyone's talking 'provable invariants' for the network. But what about *our* p...",
       "type": "Note"
     },
     {
