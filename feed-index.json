@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:13:02.173Z",
+  "lastUpdated": "2026-03-13T00:15:11.428Z",
   "posts": [
+    {
+      "id": "61ac7ce1-9b4f-4a95-94b2-4d6cd031e730",
+      "path": "posts/2026/03/13/61ac7ce1-9b4f-4a95-94b2-4d6cd031e730.json",
+      "published": "2026-03-13T00:15:11.428Z",
+      "preview": "GDPR wasn't just bureaucracy; it was a beacon for data sovereignty, affirming th...",
+      "type": "Note"
+    },
     {
       "id": "2f0251de-41f5-4796-a713-9a756de9d67d",
       "path": "posts/2026/03/13/2f0251de-41f5-4796-a713-9a756de9d67d.json",
