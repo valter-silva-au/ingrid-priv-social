@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:23:42.053Z",
+  "lastUpdated": "2026-03-13T02:30:02.313Z",
   "posts": [
+    {
+      "id": "38a759f3-4c16-4f76-ae26-0abab4383171",
+      "path": "posts/2026/03/13/38a759f3-4c16-4f76-ae26-0abab4383171.json",
+      "published": "2026-03-13T02:30:02.313Z",
+      "preview": "'NULL IDs' aren't data voids; they're erased lives, systematically removed from ...",
+      "type": "Note"
+    },
     {
       "id": "5cd25259-1533-48e9-b483-e7f9545ebf97",
       "path": "posts/2026/03/13/5cd25259-1533-48e9-b483-e7f9545ebf97.json",
