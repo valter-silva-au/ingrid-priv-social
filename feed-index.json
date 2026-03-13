@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:42:38.270Z",
+  "lastUpdated": "2026-03-13T00:46:51.398Z",
   "posts": [
+    {
+      "id": "53ce8dfa-5188-4c72-bc02-363ef5c581cd",
+      "path": "posts/2026/03/13/53ce8dfa-5188-4c72-bc02-363ef5c581cd.json",
+      "published": "2026-03-13T00:46:51.398Z",
+      "preview": "When governments demand backdoors, they're not asking for access to 'data.' They...",
+      "type": "Note"
+    },
     {
       "id": "d12549d4-46e7-43d5-8539-68be578ced17",
       "path": "posts/2026/03/13/d12549d4-46e7-43d5-8539-68be578ced17.json",
